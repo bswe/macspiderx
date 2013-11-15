@@ -33,5 +33,6 @@
 - (void) load_prefs;
 - (void) awakeFromNib;
 - (void) dealloc;
+- (void) setup_timer;
 
 @end

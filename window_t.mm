@@ -168,7 +168,7 @@ int get_pref(const NSString* key)
 	[NSApp setDelegate:self];
 	timer = nil;	
 	[window makeFirstResponder:self];
-	[window setDelegate:self];
+	//[window setDelegate:self];
 	
 	NSRect frame = [custom_view frame];
 	gl_view = [[opengl_t alloc] initWithFrame:frame colorBits:32 depthBits:32];  
@@ -188,6 +188,7 @@ int get_pref(const NSString* key)
 
 - (void) setup_timer
 	{
+	std::clog << "setup_timer: adding timers\n";
 	timer = [[NSTimer scheduledTimerWithTimeInterval:.25 target:self selector:@selector(update:) userInfo:nil repeats:YES] retain];
 	[[NSRunLoop currentRunLoop] addTimer:timer forMode:NSEventTrackingRunLoopMode];
 	[[NSRunLoop currentRunLoop] addTimer:timer forMode:NSModalPanelRunLoopMode];

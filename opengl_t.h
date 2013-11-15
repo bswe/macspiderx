@@ -91,9 +91,12 @@ bool hits_card(int x, int y, card_t card);
 - (void) load_deck_texture:(bool) redraw;
 - (void) mini_ize;
 - (void) start_win_anim;
-- (void) stop_win_anim;
+//- (void) stop_win_anim;
 - (void) draw_card:(int)x y:(int)y card:(card_t*)card;
 - (void) load_texture: (texture_t*) texture filename: (NSString*) filename replace: (bool) replace;
+- (NSOpenGLPixelFormat *) createPixelFormat:(NSRect)frame;
+- (bool) init_gl;
+- (bool) load_textures;
 
 @end
 
