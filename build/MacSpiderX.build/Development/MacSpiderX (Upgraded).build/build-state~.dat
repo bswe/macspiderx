@@ -1,0 +1,3196 @@
+TMacSpiderX (Upgraded)
+v7
+r0
+t406172606.927787
+cCheck dependencies
+cProcessInfoPlistFile /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Info.plist Info-MacSpiderX__Upgraded_.plist
+cStripNIB /Users/Bill/Downloads/macspiderx-src-1.0/English.lproj/MainMenu.nib
+cCopyStringsFile /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/icon.icns icon.icns
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/1.png cards/1.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/10.png cards/10.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/11.png cards/11.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/12.png cards/12.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/13.png cards/13.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/14.png cards/14.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/15.png cards/15.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/16.png cards/16.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/17.png cards/17.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/18.png cards/18.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/19.png cards/19.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/2.png cards/2.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/20.png cards/20.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/21.png cards/21.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/22.png cards/22.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/23.png cards/23.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/24.png cards/24.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/25.png cards/25.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/26.png cards/26.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/27.png cards/27.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/28.png cards/28.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/29.png cards/29.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/3.png cards/3.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/30.png cards/30.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/31.png cards/31.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/32.png cards/32.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/33.png cards/33.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/34.png cards/34.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/35.png cards/35.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/36.png cards/36.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/37.png cards/37.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/38.png cards/38.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/39.png cards/39.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/4.png cards/4.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/40.png cards/40.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/41.png cards/41.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/42.png cards/42.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/43.png cards/43.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/44.png cards/44.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/45.png cards/45.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/46.png cards/46.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/47.png cards/47.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/48.png cards/48.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/49.png cards/49.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/5.png cards/5.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/50.png cards/50.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/51.png cards/51.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/52.png cards/52.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/53.png cards/53.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/54.png cards/54.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/6.png cards/6.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/7.png cards/7.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/8.png cards/8.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/9.png cards/9.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/b1fh.png cards/b1fh.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/b1fv.png cards/b1fv.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/b1pb.png cards/b1pb.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/b1pl.png cards/b1pl.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/b1pr.png cards/b1pr.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/b1pt.png cards/b1pt.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/b2fh.png cards/b2fh.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/b2fv.png cards/b2fv.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/b2pb.png cards/b2pb.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/b2pl.png cards/b2pl.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/b2pr.png cards/b2pr.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/b2pt.png cards/b2pt.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/back1-sm.png cards/back1-sm.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/back1-sm.png decks/back1-sm.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/back1.png cards/back1.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/back1.png decks/back1.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/back2-sm.png cards/back2-sm.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/back2-sm.png decks/back2-sm.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/back2.png cards/back2.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/back2.png decks/back2.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/back3-sm.png cards/back3-sm.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/back3-sm.png decks/back3-sm.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/back3.png cards/back3.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/back3.png decks/back3.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/back4-sm.png cards/back4-sm.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/back4-sm.png decks/back4-sm.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/back4.png cards/back4.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/empty.png cards/empty.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/empty.png empty.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/icon.png cards/icon.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/icon.psd cards/icon.psd
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/icon.tga cards/icon.tga
+cCopyTiffFile /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/icon.tif cards/icon.tif
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/save_top_empty.png cards/save_top_empty.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/top_empty.png top_empty.png
+cCpResource build/Development/MacSpiderX.app/Contents/Resources/empty_x.png empty_x.png
+cCompileC "build/MacSpiderX.build/Development/MacSpiderX (Upgraded).build/Objects-normal/i386/main.o" /Users/Bill/Downloads/macspiderx-src-1.0/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/MacSpiderX.build/Development/MacSpiderX (Upgraded).build/Objects-normal/i386/window_t.o" /Users/Bill/Downloads/macspiderx-src-1.0/window_t.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC "build/MacSpiderX.build/Development/MacSpiderX (Upgraded).build/Objects-normal/i386/opengl_t.o" /Users/Bill/Downloads/macspiderx-src-1.0/opengl_t.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC "build/MacSpiderX.build/Development/MacSpiderX (Upgraded).build/Objects-normal/i386/mouse.o" /Users/Bill/Downloads/macspiderx-src-1.0/mouse.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cLd /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/MacOS/MacSpiderX normal i386
+cTouch /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/OpenGL.framework/Headers/OpenGL.h
+c000000004BD2501F0000000000001659
+t1272074271
+s5721
+
+N/System/Library/Frameworks/OpenGL.framework/Headers/gl.h
+c000000004BD2501F0000000000025B59
+t1272074271
+s154457
+
+N/System/Library/Frameworks/OpenGL.framework/Headers/glu.h
+c000000004BD2501F0000000000003F84
+t1272074271
+s16260
+
+N/System/Library/Frameworks/OpenGL.framework/OpenGL
+c000000004EDEBFD00000000000043360
+t1323220944
+s275296
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/English.lproj/InfoPlist.strings
+c00000000527309F100000000000002AA
+t1383270897
+s682
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/English.lproj/MainMenu.nib
+c0000000052784BC90000000000000088
+t1383615433
+s136
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Info.plist
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/MacOS/MacSolitaireX
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/1.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/10.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/11.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/12.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/13.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/14.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/15.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/16.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/17.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/18.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/19.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/2.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/20.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/21.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/22.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/23.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/24.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/25.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/26.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/27.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/28.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/29.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/3.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/30.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/31.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/32.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/33.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/34.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/35.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/36.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/37.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/38.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/39.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/4.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/40.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/41.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/42.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/43.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/44.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/45.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/46.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/47.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/48.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/49.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/5.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/50.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/51.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/52.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/53.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/54.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/6.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/7.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/8.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/9.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/English.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/English.lproj/MainMenu.nib
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/MacSolitaireX.app
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/b1fh.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/b1fv.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/b1pb.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/b1pl.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/b1pr.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/b1pt.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/b2fh.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/b2fv.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/b2pb.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/b2pl.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/b2pr.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/b2pt.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/back1-sm.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/back1.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/back2-sm.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/back2.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/back3-sm.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/back3.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/back4-sm.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/back4.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/empty.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/empty_x.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/icon.icns
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/icon.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/icon.psd
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/icon.tga
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/icon.tif
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/top_empty.png
+t2
+s0
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app
+t1384479806
+s102
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Info.plist
+t1384479804
+s1092
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/MacOS/MacSpiderX
+t1384479806
+s99096
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/PkgInfo
+t1384479804
+s8
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/1.png
+t1384479804
+s3945
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/10.png
+t1384479804
+s6058
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/11.png
+t1384479804
+s5946
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/12.png
+t1384479804
+s5915
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/13.png
+t1384479804
+s5962
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/14.png
+t1384479804
+s5899
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/15.png
+t1384479804
+s5935
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/16.png
+t1384479804
+s5879
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/17.png
+t1384479804
+s4128
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/18.png
+t1384479804
+s4107
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/19.png
+t1384479804
+s4139
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/2.png
+t1384479804
+s4064
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/20.png
+t1384479804
+s4049
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/21.png
+t1384479804
+s4137
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/22.png
+t1384479804
+s4100
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/23.png
+t1384479804
+s4136
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/24.png
+t1384479804
+s4040
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/25.png
+t1384479804
+s4123
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/26.png
+t1384479804
+s4114
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/27.png
+t1384479804
+s4138
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/28.png
+t1384479804
+s4028
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/29.png
+t1384479804
+s4116
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/3.png
+t1384479804
+s3968
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/30.png
+t1384479804
+s4108
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/31.png
+t1384479804
+s4115
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/32.png
+t1384479804
+s4016
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/33.png
+t1384479804
+s4039
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/34.png
+t1384479804
+s4039
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/35.png
+t1384479804
+s4058
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/36.png
+t1384479804
+s3983
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/37.png
+t1384479804
+s4062
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/38.png
+t1384479804
+s4056
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/39.png
+t1384479804
+s4082
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/4.png
+t1384479804
+s3892
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/40.png
+t1384479804
+s3979
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/41.png
+t1384479804
+s4006
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/42.png
+t1384479804
+s4010
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/43.png
+t1384479804
+s4013
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/44.png
+t1384479804
+s3939
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/45.png
+t1384479804
+s4017
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/46.png
+t1384479804
+s4010
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/47.png
+t1384479804
+s4009
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/48.png
+t1384479804
+s3938
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/49.png
+t1384479804
+s3972
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/5.png
+t1384479804
+s5862
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/50.png
+t1384479804
+s3975
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/51.png
+t1384479804
+s3995
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/52.png
+t1384479804
+s3914
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/53.png
+t1384479804
+s4910
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/54.png
+t1384479804
+s4929
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/6.png
+t1384479804
+s5914
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/7.png
+t1384479804
+s5986
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/8.png
+t1384479804
+s5920
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/9.png
+t1384479804
+s5858
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1384479804
+s682
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/English.lproj/MainMenu.nib
+t1384479804
+s19766
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/b1fh.png
+t1384479804
+s3730
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/b1fv.png
+t1384479804
+s3731
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/b1pb.png
+t1384479804
+s3708
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/b1pl.png
+t1384479804
+s3721
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/b1pr.png
+t1384479804
+s3726
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/b1pt.png
+t1384479804
+s3699
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/b2fh.png
+t1384479804
+s3730
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/b2fv.png
+t1384479804
+s3731
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/b2pb.png
+t1384479804
+s3708
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/b2pl.png
+t1384479804
+s3721
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/b2pr.png
+t1384479804
+s3726
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/b2pt.png
+t1384479804
+s3699
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/back1-sm.png
+t1384479804
+s9283
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/back1.png
+t1384479804
+s9806
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/back2-sm.png
+t1384479804
+s11156
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/back2.png
+t1384479804
+s12913
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/back3-sm.png
+t1384479804
+s7680
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/back3.png
+t1384479804
+s8071
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/back4-sm.png
+t1384479804
+s8169
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/back4.png
+t1384479804
+s8465
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/empty.png
+t1384479804
+s4443
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/empty_x.png
+t1384479804
+s3960
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/icon.icns
+t1384479804
+s51142
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/icon.png
+t1384479804
+s15620
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/icon.psd
+t1384479804
+s78717
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/icon.tga
+t1384479804
+s65580
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/icon.tif
+t1384479804
+s88984
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/save_top_empty.png
+t1384479804
+s3087
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/top_empty.png
+t1384479804
+s3369
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/MacSpiderX.build/Development/MacSpiderX (Upgraded).build/Objects-normal/i386/MacSolitaireX.LinkFileList
+c00000000527440FB0000000000000215
+t1383350523
+s533
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/MacSpiderX.build/Development/MacSpiderX (Upgraded).build/Objects-normal/i386/MacSpiderX.LinkFileList
+c0000000052857C3C0000000000000215
+t1384479804
+s533
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/MacSpiderX.build/Development/MacSpiderX (Upgraded).build/Objects-normal/i386/main.o
+t1384479805
+s4804
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/MacSpiderX.build/Development/MacSpiderX (Upgraded).build/Objects-normal/i386/mouse.o
+t1384479806
+s161992
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/MacSpiderX.build/Development/MacSpiderX (Upgraded).build/Objects-normal/i386/opengl_t.o
+t1384479806
+s186668
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/build/MacSpiderX.build/Development/MacSpiderX (Upgraded).build/Objects-normal/i386/window_t.o
+t1384479806
+s116736
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/1.png
+c00000000444968570000000000000F69
+t1145661527
+s3945
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/10.png
+c000000004449685900000000000017AA
+t1145661529
+s6058
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/11.png
+c000000004449685A000000000000173A
+t1145661530
+s5946
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/12.png
+c000000004449685C000000000000171B
+t1145661532
+s5915
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/13.png
+c000000004449685D000000000000174A
+t1145661533
+s5962
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/14.png
+c000000004449685F000000000000170B
+t1145661535
+s5899
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/15.png
+c0000000044496860000000000000172F
+t1145661536
+s5935
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/16.png
+c000000004449686300000000000016F7
+t1145661539
+s5879
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/17.png
+c00000000444968640000000000001020
+t1145661540
+s4128
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/18.png
+c0000000044496865000000000000100B
+t1145661541
+s4107
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/19.png
+c0000000044496867000000000000102B
+t1145661543
+s4139
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/2.png
+c00000000444968680000000000000FE0
+t1145661544
+s4064
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/20.png
+c00000000444968690000000000000FD1
+t1145661545
+s4049
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/21.png
+c000000004449686B0000000000001029
+t1145661547
+s4137
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/22.png
+c000000004449686C0000000000001004
+t1145661548
+s4100
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/23.png
+c000000004449686D0000000000001028
+t1145661549
+s4136
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/24.png
+c000000004449686F0000000000000FC8
+t1145661551
+s4040
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/25.png
+c0000000044496870000000000000101B
+t1145661552
+s4123
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/26.png
+c00000000444968710000000000001012
+t1145661553
+s4114
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/27.png
+c0000000044496872000000000000102A
+t1145661554
+s4138
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/28.png
+c00000000444968740000000000000FBC
+t1145661556
+s4028
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/29.png
+c00000000444968750000000000001014
+t1145661557
+s4116
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/3.png
+c00000000444968760000000000000F80
+t1145661558
+s3968
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/30.png
+c0000000044496878000000000000100C
+t1145661560
+s4108
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/31.png
+c00000000444968790000000000001013
+t1145661561
+s4115
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/32.png
+c000000004449687A0000000000000FB0
+t1145661562
+s4016
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/33.png
+c000000004449687B0000000000000FC7
+t1145661563
+s4039
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/34.png
+c000000004449687D0000000000000FC7
+t1145661565
+s4039
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/35.png
+c000000004449687E0000000000000FDA
+t1145661566
+s4058
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/36.png
+c00000000444968800000000000000F8F
+t1145661568
+s3983
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/37.png
+c00000000444968810000000000000FDE
+t1145661569
+s4062
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/38.png
+c00000000444968830000000000000FD8
+t1145661571
+s4056
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/39.png
+c00000000444968840000000000000FF2
+t1145661572
+s4082
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/4.png
+c00000000444968850000000000000F34
+t1145661573
+s3892
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/40.png
+c00000000444968860000000000000F8B
+t1145661574
+s3979
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/41.png
+c00000000444968880000000000000FA6
+t1145661576
+s4006
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/42.png
+c00000000444968890000000000000FAA
+t1145661577
+s4010
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/43.png
+c000000004449688A0000000000000FAD
+t1145661578
+s4013
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/44.png
+c000000004449688C0000000000000F63
+t1145661580
+s3939
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/45.png
+c000000004449688D0000000000000FB1
+t1145661581
+s4017
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/46.png
+c000000004449688F0000000000000FAA
+t1145661583
+s4010
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/47.png
+c00000000444968900000000000000FA9
+t1145661584
+s4009
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/48.png
+c00000000444968910000000000000F62
+t1145661585
+s3938
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/49.png
+c00000000444968920000000000000F84
+t1145661586
+s3972
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/5.png
+c000000004449689400000000000016E6
+t1145661588
+s5862
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/50.png
+c00000000444968950000000000000F87
+t1145661589
+s3975
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/51.png
+c00000000444968960000000000000F9B
+t1145661590
+s3995
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/52.png
+c00000000444968980000000000000F4A
+t1145661592
+s3914
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/53.png
+c0000000044496899000000000000132E
+t1145661593
+s4910
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/54.png
+c000000004449689B0000000000001341
+t1145661595
+s4929
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/6.png
+c000000004449689D000000000000171A
+t1145661597
+s5914
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/7.png
+c000000004449689F0000000000001762
+t1145661599
+s5986
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/8.png
+c00000000444968A00000000000001720
+t1145661600
+s5920
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/9.png
+c00000000444968A200000000000016E2
+t1145661602
+s5858
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/b1fh.png
+c00000000444968A30000000000000E92
+t1145661603
+s3730
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/b1fv.png
+c00000000444968A40000000000000E93
+t1145661604
+s3731
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/b1pb.png
+c00000000444968A60000000000000E7C
+t1145661606
+s3708
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/b1pl.png
+c00000000444968A70000000000000E89
+t1145661607
+s3721
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/b1pr.png
+c00000000444968A80000000000000E8E
+t1145661608
+s3726
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/b1pt.png
+c00000000444968AA0000000000000E73
+t1145661610
+s3699
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/b2fh.png
+c00000000444968AB0000000000000E92
+t1145661611
+s3730
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/b2fv.png
+c00000000444968AC0000000000000E93
+t1145661612
+s3731
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/b2pb.png
+c00000000444968AE0000000000000E7C
+t1145661614
+s3708
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/b2pl.png
+c00000000444968AF0000000000000E89
+t1145661615
+s3721
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/b2pr.png
+c00000000444968B00000000000000E8E
+t1145661616
+s3726
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/b2pt.png
+c00000000444968B20000000000000E73
+t1145661618
+s3699
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/back1-sm.png
+c00000000444C3FD50000000000002443
+t1145847765
+s9283
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/back1.png
+c00000000444C20E9000000000000264E
+t1145839849
+s9806
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/back2-sm.png
+c00000000444C3FA80000000000002B94
+t1145847720
+s11156
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/back2.png
+c00000000444C21030000000000003271
+t1145839875
+s12913
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/back3-sm.png
+c00000000444C3F800000000000001E00
+t1145847680
+s7680
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/back3.png
+c00000000444C21B40000000000001F87
+t1145840052
+s8071
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/back4-sm.png
+c00000000444C3F4B0000000000001FE9
+t1145847627
+s8169
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/back4.png
+c00000000444C3EDD0000000000002111
+t1145847517
+s8465
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/empty.png
+c000000004451712D0000000000001214
+t1146188077
+s4628
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/icon.png
+c00000000444D5A370000000000003D04
+t1145920055
+s15620
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/icon.psd
+c00000000444D46B7000000000001337D
+t1145915063
+s78717
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/icon.tga
+c00000000444D4380000000000001002C
+t1145914240
+s65580
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/icon.tif
+c00000000444D429C0000000000015B98
+t1145914012
+s88984
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/save_top_empty.png
+c000000004451733E0000000000000C0F
+t1146188606
+s3087
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/cards/top_empty.png
+c000000004451733E0000000000000C0F
+t1146188606
+s3087
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/decks/back1-sm.png
+c00000000444C3FD50000000000002443
+t1145847765
+s9283
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/decks/back1.png
+c00000000444C20E9000000000000264E
+t1145839849
+s9806
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/decks/back2-sm.png
+c00000000444C3FA80000000000002B94
+t1145847720
+s11156
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/decks/back2.png
+c00000000444C21030000000000003271
+t1145839875
+s12913
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/decks/back3-sm.png
+c00000000444C3F800000000000001E00
+t1145847680
+s7680
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/decks/back3.png
+c00000000444C21B40000000000001F87
+t1145840052
+s8071
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/decks/back4-sm.png
+c00000000444C3F4B0000000000001FE9
+t1145847627
+s8169
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/empty.png
+c0000000044721E1C000000000000115B
+t1148329500
+s4443
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/empty_x.png
+c0000000044721ED30000000000000F78
+t1148329683
+s3960
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/icon.icns
+c0000000052856C13000000000000C7C6
+t1384475667
+s51142
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/main.m
+c000000003D87E659000000000000007C
+t1032316505
+s124
+i<Cocoa/Cocoa.h>
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/mouse.mm
+c00000000527879B50000000000003AAB
+t1383627189
+s15019
+i"opengl_t.h"
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/opengl_t.h
+c0000000052787AD40000000000000975
+t1383627476
+s2421
+i<Cocoa/Cocoa.h>
+i<OpenGL/OpenGL.h>
+i<OpenGL/gl.h>
+i<OpenGL/glu.h>
+i<vector>
+i<iostream>
+i<algorithm>
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/opengl_t.mm
+c0000000052787A62000000000000344B
+t1383627362
+s13387
+i"opengl_t.h"
+i<ctime>
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/top_empty.png
+c0000000044726D6F0000000000000D29
+t1148349807
+s3369
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/window_t.h
+c000000005276F4C500000000000003C6
+t1383527621
+s966
+i<Cocoa/Cocoa.h>
+i"opengl_t.h"
+
+N/Users/Bill/Downloads/macspiderx-src-1.0/window_t.mm
+c000000005277E7690000000000001AFF
+t1383589737
+s6911
+i"window_t.h"
+
+NInfo-MacSpiderX__Upgraded_.plist
+c000000005274383900000000000002C1
+t1383348281
+s705
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies406172604#406172604#0(1276"[WARN]Warning: Multiple build commands for output file /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/back1-sm.png[WARN]Warning: Multiple build commands for output file /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/back1.png[WARN]Warning: Multiple build commands for output file /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/back2-sm.png[WARN]Warning: Multiple build commands for output file /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/back2.png[WARN]Warning: Multiple build commands for output file /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/back3-sm.png[WARN]Warning: Multiple build commands for output file /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/back3.png[WARN]Warning: Multiple build commands for output file /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/back4-sm.png[WARN]Warning: Multiple build commands for output file /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/empty.png8(22@154"Warning: Multiple build commands for output file /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/back1-sm.png406172604#18446744073709551615#0#0(1@0"0(22@151"Warning: Multiple build commands for output file /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/back1.png406172604#18446744073709551615#0#0(1@0"0(22@154"Warning: Multiple build commands for output file /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/back2-sm.png406172604#18446744073709551615#0#0(1@0"0(22@151"Warning: Multiple build commands for output file /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/back2.png406172604#18446744073709551615#0#0(1@0"0(22@154"Warning: Multiple build commands for output file /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/back3-sm.png406172604#18446744073709551615#0#0(1@0"0(22@151"Warning: Multiple build commands for output file /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/back3.png406172604#18446744073709551615#0#0(1@0"0(22@154"Warning: Multiple build commands for output file /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/back4-sm.png406172604#18446744073709551615#0#0(1@0"0(22@151"Warning: Multiple build commands for output file /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/empty.png406172604#18446744073709551615#0#0(1@0"0(0#1#0"8608659008#0"0#
+
+CCompileC "build/MacSpiderX.build/Development/MacSpiderX (Upgraded).build/Objects-normal/i386/main.o" /Users/Bill/Downloads/macspiderx-src-1.0/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s406172604.954522
+e406172605.970814
+r1
+xCompileC
+xbuild/MacSpiderX.build/Development/MacSpiderX (Upgraded).build/Objects-normal/i386/main.o
+x/Users/Bill/Downloads/macspiderx-src-1.0/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/Bill/Downloads/macspiderx-src-1.0/main.m406172604#406172605#0(0"0(0#0#47"/Users/Bill/Downloads/macspiderx-src-1.0/main.m8609425984#984"    cd /Users/Bill/Downloads/macspiderx-src-1.0    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -gdwarf-2 "-I/Users/Bill/Downloads/macspiderx-src-1.0/build/MacSpiderX.build/Development/MacSpiderX (Upgraded).build/MacSpiderX.hmap" -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/Bill/Downloads/macspiderx-src-1.0/build/Development -I/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/include "-I/Users/Bill/Downloads/macspiderx-src-1.0/build/MacSpiderX.build/Development/MacSpiderX (Upgraded).build/DerivedSources/i386" "-I/Users/Bill/Downloads/macspiderx-src-1.0/build/MacSpiderX.build/Development/MacSpiderX (Upgraded).build/DerivedSources" -c /Users/Bill/Downloads/macspiderx-src-1.0/main.m -o "/Users/Bill/Downloads/macspiderx-src-1.0/build/MacSpiderX.build/Development/MacSpiderX (Upgraded).build/Objects-normal/i386/main.o"0#
+
+CCompileC "build/MacSpiderX.build/Development/MacSpiderX (Upgraded).build/Objects-normal/i386/mouse.o" /Users/Bill/Downloads/macspiderx-src-1.0/mouse.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s406172604.958375
+e406172606.849951
+r1
+xCompileC
+xbuild/MacSpiderX.build/Development/MacSpiderX (Upgraded).build/Objects-normal/i386/mouse.o
+x/Users/Bill/Downloads/macspiderx-src-1.0/mouse.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/Bill/Downloads/macspiderx-src-1.0/mouse.mm406172604#406172606#0(0"0(0#0#49"/Users/Bill/Downloads/macspiderx-src-1.0/mouse.mm8608608000#1017"    cd /Users/Bill/Downloads/macspiderx-src-1.0    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 "-I/Users/Bill/Downloads/macspiderx-src-1.0/build/MacSpiderX.build/Development/MacSpiderX (Upgraded).build/MacSpiderX.hmap" -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/Bill/Downloads/macspiderx-src-1.0/build/Development -I/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/include "-I/Users/Bill/Downloads/macspiderx-src-1.0/build/MacSpiderX.build/Development/MacSpiderX (Upgraded).build/DerivedSources/i386" "-I/Users/Bill/Downloads/macspiderx-src-1.0/build/MacSpiderX.build/Development/MacSpiderX (Upgraded).build/DerivedSources" -c /Users/Bill/Downloads/macspiderx-src-1.0/mouse.mm -o "/Users/Bill/Downloads/macspiderx-src-1.0/build/MacSpiderX.build/Development/MacSpiderX (Upgraded).build/Objects-normal/i386/mouse.o"0#
+
+CCompileC "build/MacSpiderX.build/Development/MacSpiderX (Upgraded).build/Objects-normal/i386/opengl_t.o" /Users/Bill/Downloads/macspiderx-src-1.0/opengl_t.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s406172604.957192
+e406172606.885391
+r1
+xCompileC
+xbuild/MacSpiderX.build/Development/MacSpiderX (Upgraded).build/Objects-normal/i386/opengl_t.o
+x/Users/Bill/Downloads/macspiderx-src-1.0/opengl_t.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+o/Users/Bill/Downloads/macspiderx-src-1.0/opengl_t.mm: In function 'objc_object* -[opengl_t initWithFrame:colorBits:depthBits:](opengl_t*, objc_selector*, NSRect, int, int)':
+o/Users/Bill/Downloads/macspiderx-src-1.0/opengl_t.mm:156: warning: 'opengl_t' may not respond to '-createPixelFormat:'
+o/Users/Bill/Downloads/macspiderx-src-1.0/opengl_t.mm:156: warning: (Messages without a matching method signature
+o/Users/Bill/Downloads/macspiderx-src-1.0/opengl_t.mm:156: warning: will be assumed to return 'id' and accept
+o/Users/Bill/Downloads/macspiderx-src-1.0/opengl_t.mm:156: warning: '...' as arguments.)
+o/Users/Bill/Downloads/macspiderx-src-1.0/opengl_t.mm:163: warning: 'opengl_t' may not respond to '-init_gl'
+o/Users/Bill/Downloads/macspiderx-src-1.0/opengl_t.mm: In function 'bool -[opengl_t init_gl](opengl_t*, objc_selector*)':
+o/Users/Bill/Downloads/macspiderx-src-1.0/opengl_t.mm:191: warning: 'opengl_t' may not respond to '-load_textures'
+o/Users/Bill/Downloads/macspiderx-src-1.0/opengl_t.mm: At global scope:
+o/Users/Bill/Downloads/macspiderx-src-1.0/opengl_t.mm:448: warning: incomplete implementation of class 'opengl_t'
+o/Users/Bill/Downloads/macspiderx-src-1.0/opengl_t.mm:448: warning: method definition for '-stop_win_anim' not found
+lSLF07#2@60"Compile /Users/Bill/Downloads/macspiderx-src-1.0/opengl_t.mm406172604#406172606#0(1246"/Users/Bill/Downloads/macspiderx-src-1.0/opengl_t.mm: In function 'objc_object* -[opengl_t initWithFrame:colorBits:depthBits:](opengl_t*, objc_selector*, NSRect, int, int)':/Users/Bill/Downloads/macspiderx-src-1.0/opengl_t.mm:156: warning: 'opengl_t' may not respond to '-createPixelFormat:'/Users/Bill/Downloads/macspiderx-src-1.0/opengl_t.mm:156: warning: (Messages without a matching method signature/Users/Bill/Downloads/macspiderx-src-1.0/opengl_t.mm:156: warning: will be assumed to return 'id' and accept/Users/Bill/Downloads/macspiderx-src-1.0/opengl_t.mm:156: warning: '...' as arguments.)/Users/Bill/Downloads/macspiderx-src-1.0/opengl_t.mm:163: warning: 'opengl_t' may not respond to '-init_gl'/Users/Bill/Downloads/macspiderx-src-1.0/opengl_t.mm: In function 'bool -[opengl_t init_gl](opengl_t*, objc_selector*)':/Users/Bill/Downloads/macspiderx-src-1.0/opengl_t.mm:191: warning: 'opengl_t' may not respond to '-load_textures'/Users/Bill/Downloads/macspiderx-src-1.0/opengl_t.mm: At global scope:/Users/Bill/Downloads/macspiderx-src-1.0/opengl_t.mm:448: warning: incomplete implementation of class 'opengl_t'/Users/Bill/Downloads/macspiderx-src-1.0/opengl_t.mm:448: warning: method definition for '-stop_win_anim' not found7(22@51"'opengl_t' may not respond to '-createPixelFormat:'406172606#174#119#0(6@52"/Users/Bill/Downloads/macspiderx-src-1.0/opengl_t.mm405320162#156#0#156#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)406172606#293#113#0(6@52"/Users/Bill/Downloads/macspiderx-src-1.0/opengl_t.mm405320162#156#0#156#0#0"0(22@40"'opengl_t' may not respond to '-init_gl'406172606#603#108#0(6@52"/Users/Bill/Downloads/macspiderx-src-1.0/opengl_t.mm405320162#163#0#163#0#26"'*' may not respond to '*'0(22@46"'opengl_t' may not respond to '-load_textures'406172606#832#114#0(6@52"/Users/Bill/Downloads/macspiderx-src-1.0/opengl_t.mm405320162#191#0#191#0#26"'*' may not respond to '*'0(23@16"At global scope:406172606#946#71#0(6@52"/Users/Bill/Downloads/macspiderx-src-1.0/opengl_t.mm405320162#0#0#0#0#0"0(22@45"Incomplete implementation of class 'opengl_t'406172606#1017#113#0(6@52"/Users/Bill/Downloads/macspiderx-src-1.0/opengl_t.mm405320162#448#0#448#0#38"incomplete implementation of class '*'0(22@48"Method definition for '-stop_win_anim' not found406172606#1130#116#0(6@52"/Users/Bill/Downloads/macspiderx-src-1.0/opengl_t.mm405320162#448#0#448#0#35"method definition for '*' not found0(0#0#52"/Users/Bill/Downloads/macspiderx-src-1.0/opengl_t.mm8609048160#1023"    cd /Users/Bill/Downloads/macspiderx-src-1.0    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 "-I/Users/Bill/Downloads/macspiderx-src-1.0/build/MacSpiderX.build/Development/MacSpiderX (Upgraded).build/MacSpiderX.hmap" -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/Bill/Downloads/macspiderx-src-1.0/build/Development -I/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/include "-I/Users/Bill/Downloads/macspiderx-src-1.0/build/MacSpiderX.build/Development/MacSpiderX (Upgraded).build/DerivedSources/i386" "-I/Users/Bill/Downloads/macspiderx-src-1.0/build/MacSpiderX.build/Development/MacSpiderX (Upgraded).build/DerivedSources" -c /Users/Bill/Downloads/macspiderx-src-1.0/opengl_t.mm -o "/Users/Bill/Downloads/macspiderx-src-1.0/build/MacSpiderX.build/Development/MacSpiderX (Upgraded).build/Objects-normal/i386/opengl_t.o"0#
+
+CCompileC "build/MacSpiderX.build/Development/MacSpiderX (Upgraded).build/Objects-normal/i386/window_t.o" /Users/Bill/Downloads/macspiderx-src-1.0/window_t.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s406172604.955853
+e406172606.721210
+r1
+xCompileC
+xbuild/MacSpiderX.build/Development/MacSpiderX (Upgraded).build/Objects-normal/i386/window_t.o
+x/Users/Bill/Downloads/macspiderx-src-1.0/window_t.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+o/Users/Bill/Downloads/macspiderx-src-1.0/window_t.mm: In function 'void -[window_t awakeFromNib](window_t*, objc_selector*)':
+o/Users/Bill/Downloads/macspiderx-src-1.0/window_t.mm:171: warning: class 'window_t' does not implement the 'NSWindowDelegate' protocol
+o/Users/Bill/Downloads/macspiderx-src-1.0/window_t.mm:185: warning: 'window_t' may not respond to '-setup_timer'
+o/Users/Bill/Downloads/macspiderx-src-1.0/window_t.mm:185: warning: (Messages without a matching method signature
+o/Users/Bill/Downloads/macspiderx-src-1.0/window_t.mm:185: warning: will be assumed to return 'id' and accept
+o/Users/Bill/Downloads/macspiderx-src-1.0/window_t.mm:185: warning: '...' as arguments.)
+lSLF07#2@60"Compile /Users/Bill/Downloads/macspiderx-src-1.0/window_t.mm406172604#406172606#0(683"/Users/Bill/Downloads/macspiderx-src-1.0/window_t.mm: In function 'void -[window_t awakeFromNib](window_t*, objc_selector*)':/Users/Bill/Downloads/macspiderx-src-1.0/window_t.mm:171: warning: class 'window_t' does not implement the 'NSWindowDelegate' protocol/Users/Bill/Downloads/macspiderx-src-1.0/window_t.mm:185: warning: 'window_t' may not respond to '-setup_timer'/Users/Bill/Downloads/macspiderx-src-1.0/window_t.mm:185: warning: (Messages without a matching method signature/Users/Bill/Downloads/macspiderx-src-1.0/window_t.mm:185: warning: will be assumed to return 'id' and accept/Users/Bill/Downloads/macspiderx-src-1.0/window_t.mm:185: warning: '...' as arguments.)3(22@67"Class 'window_t' does not implement the 'NSWindowDelegate' protocol406172606#126#135#0(6@52"/Users/Bill/Downloads/macspiderx-src-1.0/window_t.mm405282537#171#0#171#0#45"class '*' does not implement the '*' protocol0(22@44"'window_t' may not respond to '-setup_timer'406172606#261#112#0(6@52"/Users/Bill/Downloads/macspiderx-src-1.0/window_t.mm405282537#185#0#185#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)406172606#373#113#0(6@52"/Users/Bill/Downloads/macspiderx-src-1.0/window_t.mm405282537#185#0#185#0#0"0(0#0#52"/Users/Bill/Downloads/macspiderx-src-1.0/window_t.mm8609133280#1023"    cd /Users/Bill/Downloads/macspiderx-src-1.0    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 "-I/Users/Bill/Downloads/macspiderx-src-1.0/build/MacSpiderX.build/Development/MacSpiderX (Upgraded).build/MacSpiderX.hmap" -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/Bill/Downloads/macspiderx-src-1.0/build/Development -I/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/include "-I/Users/Bill/Downloads/macspiderx-src-1.0/build/MacSpiderX.build/Development/MacSpiderX (Upgraded).build/DerivedSources/i386" "-I/Users/Bill/Downloads/macspiderx-src-1.0/build/MacSpiderX.build/Development/MacSpiderX (Upgraded).build/DerivedSources" -c /Users/Bill/Downloads/macspiderx-src-1.0/window_t.mm -o "/Users/Bill/Downloads/macspiderx-src-1.0/build/MacSpiderX.build/Development/MacSpiderX (Upgraded).build/Objects-normal/i386/window_t.o"0#
+
+CCopyStringsFile /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s405043323.477921
+e405043323.571779
+r1
+xCopyStringsFile
+x/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings405043323#405043323#0(0"0(0#0#72"/Users/Bill/Downloads/macspiderx-src-1.0/English.lproj/InfoPlist.strings8603978080#382"    cd /Users/Bill/Downloads/macspiderx-src-1.0    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/English.lproj0#
+
+CCopyStringsFile /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s406172604.720775
+e406172604.799328
+r1
+xCopyStringsFile
+x/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings406172604#406172604#0(0"0(0#0#72"/Users/Bill/Downloads/macspiderx-src-1.0/English.lproj/InfoPlist.strings8609314720#379"    cd /Users/Bill/Downloads/macspiderx-src-1.0    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/English.lproj0#
+
+CCopyTiffFile /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/icon.tif cards/icon.tif
+s405043323.626335
+e405043323.650686
+r1
+xCopyTiffFile
+x/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources/icon.tif
+xcards/icon.tif
+lSLF07#2@19"Copy cards/icon.tif405043323#405043323#0(0"0(0#0#55"/Users/Bill/Downloads/macspiderx-src-1.0/cards/icon.tif8605443552#258"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copytiff cards/icon.tif --outdir /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCopyTiffFile /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/icon.tif cards/icon.tif
+s406172604.871359
+e406172604.890174
+r1
+xCopyTiffFile
+x/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/icon.tif
+xcards/icon.tif
+lSLF07#2@19"Copy cards/icon.tif406172604#406172604#0(0"0(0#0#55"/Users/Bill/Downloads/macspiderx-src-1.0/cards/icon.tif8610042592#255"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copytiff cards/icon.tif --outdir /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/1.png cards/1.png
+s405043323.479320
+e405043323.489514
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/1.png
+xcards/1.png
+lSLF07#2@16"Copy cards/1.png405043323#405043323#0(0"0(0#0#52"/Users/Bill/Downloads/macspiderx-src-1.0/cards/1.png8603733056#359"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/1.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/10.png cards/10.png
+s405043323.479929
+e405043323.489671
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/10.png
+xcards/10.png
+lSLF07#2@17"Copy cards/10.png405043323#405043323#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/10.png8603696576#360"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/10.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/11.png cards/11.png
+s405043323.480528
+e405043323.493596
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/11.png
+xcards/11.png
+lSLF07#2@17"Copy cards/11.png405043323#405043323#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/11.png8603532192#360"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/11.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/12.png cards/12.png
+s405043323.481145
+e405043323.493762
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/12.png
+xcards/12.png
+lSLF07#2@17"Copy cards/12.png405043323#405043323#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/12.png8604088768#360"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/12.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/13.png cards/13.png
+s405043323.481766
+e405043323.493918
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/13.png
+xcards/13.png
+lSLF07#2@17"Copy cards/13.png405043323#405043323#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/13.png8603301856#360"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/13.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/14.png cards/14.png
+s405043323.483512
+e405043323.499584
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/14.png
+xcards/14.png
+lSLF07#2@17"Copy cards/14.png405043323#405043323#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/14.png8604749120#360"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/14.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/15.png cards/15.png
+s405043323.485363
+e405043323.499738
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/15.png
+xcards/15.png
+lSLF07#2@17"Copy cards/15.png405043323#405043323#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/15.png8604210432#360"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/15.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/16.png cards/16.png
+s405043323.487678
+e405043323.504011
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/16.png
+xcards/16.png
+lSLF07#2@17"Copy cards/16.png405043323#405043323#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/16.png8604050304#360"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/16.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/17.png cards/17.png
+s405043323.489778
+e405043323.504198
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/17.png
+xcards/17.png
+lSLF07#2@17"Copy cards/17.png405043323#405043323#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/17.png8604561152#360"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/17.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/18.png cards/18.png
+s405043323.491552
+e405043323.504371
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/18.png
+xcards/18.png
+lSLF07#2@17"Copy cards/18.png405043323#405043323#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/18.png8603222400#360"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/18.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/19.png cards/19.png
+s405043323.494014
+e405043323.518333
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/19.png
+xcards/19.png
+lSLF07#2@17"Copy cards/19.png405043323#405043323#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/19.png8603960864#360"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/19.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/2.png cards/2.png
+s405043323.495917
+e405043323.506824
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/2.png
+xcards/2.png
+lSLF07#2@16"Copy cards/2.png405043323#405043323#0(0"0(0#0#52"/Users/Bill/Downloads/macspiderx-src-1.0/cards/2.png8603816896#359"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/2.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/20.png cards/20.png
+s405043323.497719
+e405043323.513474
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/20.png
+xcards/20.png
+lSLF07#2@17"Copy cards/20.png405043323#405043323#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/20.png8602873568#360"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/20.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/21.png cards/21.png
+s405043323.499870
+e405043323.518674
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/21.png
+xcards/21.png
+lSLF07#2@17"Copy cards/21.png405043323#405043323#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/21.png8603266080#360"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/21.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/22.png cards/22.png
+s405043323.501708
+e405043323.524836
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/22.png
+xcards/22.png
+lSLF07#2@17"Copy cards/22.png405043323#405043323#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/22.png8601432608#360"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/22.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/23.png cards/23.png
+s405043323.504489
+e405043323.524526
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/23.png
+xcards/23.png
+lSLF07#2@17"Copy cards/23.png405043323#405043323#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/23.png8604112416#360"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/23.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/24.png cards/24.png
+s405043323.505215
+e405043323.528049
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/24.png
+xcards/24.png
+lSLF07#2@17"Copy cards/24.png405043323#405043323#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/24.png8600080544#360"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/24.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/25.png cards/25.png
+s405043323.505894
+e405043323.524690
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/25.png
+xcards/25.png
+lSLF07#2@17"Copy cards/25.png405043323#405043323#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/25.png8604603680#360"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/25.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/26.png cards/26.png
+s405043323.506939
+e405043323.518497
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/26.png
+xcards/26.png
+lSLF07#2@17"Copy cards/26.png405043323#405043323#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/26.png8604109632#360"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/26.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/27.png cards/27.png
+s405043323.513604
+e405043323.528356
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/27.png
+xcards/27.png
+lSLF07#2@17"Copy cards/27.png405043323#405043323#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/27.png8602647488#360"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/27.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/28.png cards/28.png
+s405043323.518772
+e405043323.528210
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/28.png
+xcards/28.png
+lSLF07#2@17"Copy cards/28.png405043323#405043323#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/28.png8605634016#360"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/28.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/29.png cards/29.png
+s405043323.520626
+e405043323.533763
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/29.png
+xcards/29.png
+lSLF07#2@17"Copy cards/29.png405043323#405043323#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/29.png8605627712#360"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/29.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/3.png cards/3.png
+s405043323.522505
+e405043323.533930
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/3.png
+xcards/3.png
+lSLF07#2@16"Copy cards/3.png405043323#405043323#0(0"0(0#0#52"/Users/Bill/Downloads/macspiderx-src-1.0/cards/3.png8605472032#359"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/3.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/30.png cards/30.png
+s405043323.524929
+e405043323.535397
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/30.png
+xcards/30.png
+lSLF07#2@17"Copy cards/30.png405043323#405043323#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/30.png8605397280#360"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/30.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/31.png cards/31.png
+s405043323.526587
+e405043323.540004
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/31.png
+xcards/31.png
+lSLF07#2@17"Copy cards/31.png405043323#405043323#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/31.png8604968736#360"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/31.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/32.png cards/32.png
+s405043323.527284
+e405043323.546644
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/32.png
+xcards/32.png
+lSLF07#2@17"Copy cards/32.png405043323#405043323#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/32.png8604717376#360"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/32.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/33.png cards/33.png
+s405043323.528734
+e405043323.537317
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/33.png
+xcards/33.png
+lSLF07#2@17"Copy cards/33.png405043323#405043323#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/33.png8604490400#360"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/33.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/34.png cards/34.png
+s405043323.530594
+e405043323.546459
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/34.png
+xcards/34.png
+lSLF07#2@17"Copy cards/34.png405043323#405043323#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/34.png8604331136#360"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/34.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/35.png cards/35.png
+s405043323.532508
+e405043323.542170
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/35.png
+xcards/35.png
+lSLF07#2@17"Copy cards/35.png405043323#405043323#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/35.png8604263296#360"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/35.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/36.png cards/36.png
+s405043323.534019
+e405043323.544306
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/36.png
+xcards/36.png
+lSLF07#2@17"Copy cards/36.png405043323#405043323#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/36.png8604246464#360"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/36.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/37.png cards/37.png
+s405043323.534683
+e405043323.548466
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/37.png
+xcards/37.png
+lSLF07#2@17"Copy cards/37.png405043323#405043323#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/37.png8604239296#360"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/37.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/38.png cards/38.png
+s405043323.535507
+e405043323.548163
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/38.png
+xcards/38.png
+lSLF07#2@17"Copy cards/38.png405043323#405043323#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/38.png8604183296#360"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/38.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/39.png cards/39.png
+s405043323.537415
+e405043323.548319
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/39.png
+xcards/39.png
+lSLF07#2@17"Copy cards/39.png405043323#405043323#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/39.png8604095776#360"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/39.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/4.png cards/4.png
+s405043323.540109
+e405043323.550666
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/4.png
+xcards/4.png
+lSLF07#2@16"Copy cards/4.png405043323#405043323#0(0"0(0#0#52"/Users/Bill/Downloads/macspiderx-src-1.0/cards/4.png8604012960#359"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/4.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/40.png cards/40.png
+s405043323.542282
+e405043323.556462
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/40.png
+xcards/40.png
+lSLF07#2@17"Copy cards/40.png405043323#405043323#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/40.png8603306880#360"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/40.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/41.png cards/41.png
+s405043323.544416
+e405043323.554183
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/41.png
+xcards/41.png
+lSLF07#2@17"Copy cards/41.png405043323#405043323#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/41.png8598881664#360"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/41.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/42.png cards/42.png
+s405043323.546741
+e405043323.556310
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/42.png
+xcards/42.png
+lSLF07#2@17"Copy cards/42.png405043323#405043323#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/42.png8604225184#360"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/42.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/43.png cards/43.png
+s405043323.547430
+e405043323.560842
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/43.png
+xcards/43.png
+lSLF07#2@17"Copy cards/43.png405043323#405043323#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/43.png8603872672#360"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/43.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/44.png cards/44.png
+s405043323.548546
+e405043323.560524
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/44.png
+xcards/44.png
+lSLF07#2@17"Copy cards/44.png405043323#405043323#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/44.png8600062912#360"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/44.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/45.png cards/45.png
+s405043323.549194
+e405043323.566960
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/45.png
+xcards/45.png
+lSLF07#2@17"Copy cards/45.png405043323#405043323#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/45.png8604103968#360"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/45.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/46.png cards/46.png
+s405043323.549810
+e405043323.560686
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/46.png
+xcards/46.png
+lSLF07#2@17"Copy cards/46.png405043323#405043323#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/46.png8601076160#360"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/46.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/47.png cards/47.png
+s405043323.550749
+e405043323.567112
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/47.png
+xcards/47.png
+lSLF07#2@17"Copy cards/47.png405043323#405043323#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/47.png8604220544#360"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/47.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/48.png cards/48.png
+s405043323.554304
+e405043323.567388
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/48.png
+xcards/48.png
+lSLF07#2@17"Copy cards/48.png405043323#405043323#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/48.png8601313472#360"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/48.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/49.png cards/49.png
+s405043323.556555
+e405043323.567249
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/49.png
+xcards/49.png
+lSLF07#2@17"Copy cards/49.png405043323#405043323#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/49.png28429397857009780#360"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/49.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/5.png cards/5.png
+s405043323.558385
+e405043323.572093
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/5.png
+xcards/5.png
+lSLF07#2@16"Copy cards/5.png405043323#405043323#0(0"0(0#0#52"/Users/Bill/Downloads/macspiderx-src-1.0/cards/5.png8605583072#359"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/5.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/50.png cards/50.png
+s405043323.560942
+e405043323.571944
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/50.png
+xcards/50.png
+lSLF07#2@17"Copy cards/50.png405043323#405043323#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/50.png8600081088#360"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/50.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/51.png cards/51.png
+s405043323.562871
+e405043323.574405
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/51.png
+xcards/51.png
+lSLF07#2@17"Copy cards/51.png405043323#405043323#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/51.png8603629184#360"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/51.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/52.png cards/52.png
+s405043323.564871
+e405043323.575843
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/52.png
+xcards/52.png
+lSLF07#2@17"Copy cards/52.png405043323#405043323#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/52.png8604735648#360"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/52.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/53.png cards/53.png
+s405043323.567483
+e405043323.574240
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/53.png
+xcards/53.png
+lSLF07#2@17"Copy cards/53.png405043323#405043323#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/53.png8604179456#360"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/53.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/54.png cards/54.png
+s405043323.568929
+e405043323.576656
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/54.png
+xcards/54.png
+lSLF07#2@17"Copy cards/54.png405043323#405043323#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/54.png8602960064#360"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/54.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/6.png cards/6.png
+s405043323.569891
+e405043323.579227
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/6.png
+xcards/6.png
+lSLF07#2@16"Copy cards/6.png405043323#405043323#0(0"0(0#0#52"/Users/Bill/Downloads/macspiderx-src-1.0/cards/6.png8604613024#359"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/6.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/7.png cards/7.png
+s405043323.570966
+e405043323.582049
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/7.png
+xcards/7.png
+lSLF07#2@16"Copy cards/7.png405043323#405043323#0(0"0(0#0#52"/Users/Bill/Downloads/macspiderx-src-1.0/cards/7.png8605546528#359"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/7.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/8.png cards/8.png
+s405043323.572172
+e405043323.584359
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/8.png
+xcards/8.png
+lSLF07#2@16"Copy cards/8.png405043323#405043323#0(0"0(0#0#52"/Users/Bill/Downloads/macspiderx-src-1.0/cards/8.png8600261696#359"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/8.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/9.png cards/9.png
+s405043323.572819
+e405043323.586393
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/9.png
+xcards/9.png
+lSLF07#2@16"Copy cards/9.png405043323#405043323#0(0"0(0#0#52"/Users/Bill/Downloads/macspiderx-src-1.0/cards/9.png8605540224#359"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/9.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/MacSolitaireX.app build/Development/MacSolitaireX.app
+r0
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/b1fh.png cards/b1fh.png
+s405043323.573434
+e405043323.591239
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/b1fh.png
+xcards/b1fh.png
+lSLF07#2@19"Copy cards/b1fh.png405043323#405043323#0(0"0(0#0#55"/Users/Bill/Downloads/macspiderx-src-1.0/cards/b1fh.png8604568352#362"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/b1fh.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/b1fv.png cards/b1fv.png
+s405043323.574489
+e405043323.586551
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/b1fv.png
+xcards/b1fv.png
+lSLF07#2@19"Copy cards/b1fv.png405043323#405043323#0(0"0(0#0#55"/Users/Bill/Downloads/macspiderx-src-1.0/cards/b1fv.png8604732704#362"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/b1fv.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/b1pb.png cards/b1pb.png
+s405043323.575110
+e405043323.591388
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/b1pb.png
+xcards/b1pb.png
+lSLF07#2@19"Copy cards/b1pb.png405043323#405043323#0(0"0(0#0#55"/Users/Bill/Downloads/macspiderx-src-1.0/cards/b1pb.png8604676992#362"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/b1pb.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/b1pl.png cards/b1pl.png
+s405043323.575926
+e405043323.591534
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/b1pl.png
+xcards/b1pl.png
+lSLF07#2@19"Copy cards/b1pl.png405043323#405043323#0(0"0(0#0#55"/Users/Bill/Downloads/macspiderx-src-1.0/cards/b1pl.png8604807040#362"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/b1pl.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/b1pr.png cards/b1pr.png
+s405043323.576737
+e405043323.586733
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/b1pr.png
+xcards/b1pr.png
+lSLF07#2@19"Copy cards/b1pr.png405043323#405043323#0(0"0(0#0#55"/Users/Bill/Downloads/macspiderx-src-1.0/cards/b1pr.png8605489056#362"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/b1pr.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/b1pt.png cards/b1pt.png
+s405043323.579339
+e405043323.590943
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/b1pt.png
+xcards/b1pt.png
+lSLF07#2@19"Copy cards/b1pt.png405043323#405043323#0(0"0(0#0#55"/Users/Bill/Downloads/macspiderx-src-1.0/cards/b1pt.png8605460256#362"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/b1pt.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/b2fh.png cards/b2fh.png
+s405043323.582176
+e405043323.591096
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/b2fh.png
+xcards/b2fh.png
+lSLF07#2@19"Copy cards/b2fh.png405043323#405043323#0(0"0(0#0#55"/Users/Bill/Downloads/macspiderx-src-1.0/cards/b2fh.png8605417056#362"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/b2fh.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/b2fv.png cards/b2fv.png
+s405043323.584462
+e405043323.598579
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/b2fv.png
+xcards/b2fv.png
+lSLF07#2@19"Copy cards/b2fv.png405043323#405043323#0(0"0(0#0#55"/Users/Bill/Downloads/macspiderx-src-1.0/cards/b2fv.png8605429152#362"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/b2fv.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/b2pb.png cards/b2pb.png
+s405043323.586841
+e405043323.598737
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/b2pb.png
+xcards/b2pb.png
+lSLF07#2@19"Copy cards/b2pb.png405043323#405043323#0(0"0(0#0#55"/Users/Bill/Downloads/macspiderx-src-1.0/cards/b2pb.png8605402624#362"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/b2pb.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/b2pl.png cards/b2pl.png
+s405043323.588590
+e405043323.598881
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/b2pl.png
+xcards/b2pl.png
+lSLF07#2@19"Copy cards/b2pl.png405043323#405043323#0(0"0(0#0#55"/Users/Bill/Downloads/macspiderx-src-1.0/cards/b2pl.png8605371904#362"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/b2pl.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/b2pr.png cards/b2pr.png
+s405043323.590040
+e405043323.599023
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/b2pr.png
+xcards/b2pr.png
+lSLF07#2@19"Copy cards/b2pr.png405043323#405043323#0(0"0(0#0#55"/Users/Bill/Downloads/macspiderx-src-1.0/cards/b2pr.png8605383232#362"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/b2pr.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/b2pt.png cards/b2pt.png
+s405043323.591619
+e405043323.603399
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/b2pt.png
+xcards/b2pt.png
+lSLF07#2@19"Copy cards/b2pt.png405043323#405043323#0(0"0(0#0#55"/Users/Bill/Downloads/macspiderx-src-1.0/cards/b2pt.png8605344448#362"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/b2pt.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/back1-sm.png cards/back1-sm.png
+s405043323.593398
+e405043323.603534
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/back1-sm.png
+xcards/back1-sm.png
+lSLF07#2@23"Copy cards/back1-sm.png405043323#405043323#0(0"0(0#0#59"/Users/Bill/Downloads/macspiderx-src-1.0/cards/back1-sm.png8605292832#366"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/back1-sm.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/back1-sm.png decks/back1-sm.png
+s405043323.595269
+e405043323.603654
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/back1-sm.png
+xdecks/back1-sm.png
+lSLF07#2@23"Copy decks/back1-sm.png405043323#405043323#0(0"0(0#0#59"/Users/Bill/Downloads/macspiderx-src-1.0/decks/back1-sm.png8605304576#366"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/decks/back1-sm.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/back1.png cards/back1.png
+s405043323.596396
+e405043323.614246
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/back1.png
+xcards/back1.png
+lSLF07#2@20"Copy cards/back1.png405043323#405043323#0(0"0(0#0#56"/Users/Bill/Downloads/macspiderx-src-1.0/cards/back1.png8605317248#363"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/back1.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/back1.png decks/back1.png
+s405043323.597076
+e405043323.614383
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/back1.png
+xdecks/back1.png
+lSLF07#2@20"Copy decks/back1.png405043323#405043323#0(0"0(0#0#56"/Users/Bill/Downloads/macspiderx-src-1.0/decks/back1.png8605328640#363"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/decks/back1.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/back2-sm.png cards/back2-sm.png
+s405043323.599113
+e405043323.608482
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/back2-sm.png
+xcards/back2-sm.png
+lSLF07#2@23"Copy cards/back2-sm.png405043323#405043323#0(0"0(0#0#59"/Users/Bill/Downloads/macspiderx-src-1.0/cards/back2-sm.png8605063040#366"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/back2-sm.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/back2-sm.png decks/back2-sm.png
+s405043323.599787
+e405043323.614086
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/back2-sm.png
+xdecks/back2-sm.png
+lSLF07#2@23"Copy decks/back2-sm.png405043323#405043323#0(0"0(0#0#59"/Users/Bill/Downloads/macspiderx-src-1.0/decks/back2-sm.png8605016256#366"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/decks/back2-sm.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/back2.png cards/back2.png
+s405043323.600396
+e405043323.620568
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/back2.png
+xcards/back2.png
+lSLF07#2@20"Copy cards/back2.png405043323#405043323#0(0"0(0#0#56"/Users/Bill/Downloads/macspiderx-src-1.0/cards/back2.png8604786848#363"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/back2.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/back2.png decks/back2.png
+s405043323.602581
+e405043323.617714
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/back2.png
+xdecks/back2.png
+lSLF07#2@20"Copy decks/back2.png405043323#405043323#0(0"0(0#0#56"/Users/Bill/Downloads/macspiderx-src-1.0/decks/back2.png8605269120#363"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/decks/back2.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/back3-sm.png cards/back3-sm.png
+s405043323.603820
+e405043323.623696
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/back3-sm.png
+xcards/back3-sm.png
+lSLF07#2@23"Copy cards/back3-sm.png405043323#405043323#0(0"0(0#0#59"/Users/Bill/Downloads/macspiderx-src-1.0/cards/back3-sm.png8605221600#366"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/back3-sm.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/back3-sm.png decks/back3-sm.png
+s405043323.604414
+e405043323.623863
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/back3-sm.png
+xdecks/back3-sm.png
+lSLF07#2@23"Copy decks/back3-sm.png405043323#405043323#0(0"0(0#0#59"/Users/Bill/Downloads/macspiderx-src-1.0/decks/back3-sm.png8605232064#366"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/decks/back3-sm.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/back3.png cards/back3.png
+s405043323.604976
+e405043323.627901
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/back3.png
+xcards/back3.png
+lSLF07#2@20"Copy cards/back3.png405043323#405043323#0(0"0(0#0#56"/Users/Bill/Downloads/macspiderx-src-1.0/cards/back3.png8605243776#363"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/back3.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/back3.png decks/back3.png
+s405043323.608601
+e405043323.625452
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/back3.png
+xdecks/back3.png
+lSLF07#2@20"Copy decks/back3.png405043323#405043323#0(0"0(0#0#56"/Users/Bill/Downloads/macspiderx-src-1.0/decks/back3.png8605200416#363"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/decks/back3.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/back4-sm.png cards/back4-sm.png
+s405043323.614483
+e405043323.625607
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/back4-sm.png
+xcards/back4-sm.png
+lSLF07#2@23"Copy cards/back4-sm.png405043323#405043323#0(0"0(0#0#59"/Users/Bill/Downloads/macspiderx-src-1.0/cards/back4-sm.png8605178880#366"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/back4-sm.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/back4-sm.png decks/back4-sm.png
+s405043323.615207
+e405043323.631742
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/back4-sm.png
+xdecks/back4-sm.png
+lSLF07#2@23"Copy decks/back4-sm.png405043323#405043323#0(0"0(0#0#59"/Users/Bill/Downloads/macspiderx-src-1.0/decks/back4-sm.png8604053824#366"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/decks/back4-sm.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/back4.png cards/back4.png
+s405043323.615838
+e405043323.627613
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/back4.png
+xcards/back4.png
+lSLF07#2@20"Copy cards/back4.png405043323#405043323#0(0"0(0#0#56"/Users/Bill/Downloads/macspiderx-src-1.0/cards/back4.png8605536256#363"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/back4.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/empty.png cards/empty.png
+s405043323.617828
+e405043323.628372
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/empty.png
+xcards/empty.png
+lSLF07#2@20"Copy cards/empty.png405043323#405043323#0(0"0(0#0#56"/Users/Bill/Downloads/macspiderx-src-1.0/cards/empty.png8605629248#363"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/empty.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/empty.png empty.png
+s405043323.620681
+e405043323.635616
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/empty.png
+xempty.png
+lSLF07#2@14"Copy empty.png405043323#405043323#0(0"0(0#0#50"/Users/Bill/Downloads/macspiderx-src-1.0/empty.png8605567712#357"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/empty.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/empty_x.png empty_x.png
+s405043323.637181
+e405043323.645550
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/empty_x.png
+xempty_x.png
+lSLF07#2@16"Copy empty_x.png405043323#405043323#0(0"0(0#0#52"/Users/Bill/Downloads/macspiderx-src-1.0/empty_x.png8605057408#359"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/empty_x.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/icon.icns icon.icns
+s405043323.478647
+e405043323.487582
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/icon.icns
+xicon.icns
+lSLF07#2@14"Copy icon.icns405043323#405043323#0(0"0(0#0#50"/Users/Bill/Downloads/macspiderx-src-1.0/icon.icns8603803584#357"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/icon.icns /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/icon.png cards/icon.png
+s405043323.623965
+e405043323.631538
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/icon.png
+xcards/icon.png
+lSLF07#2@19"Copy cards/icon.png405043323#405043323#0(0"0(0#0#55"/Users/Bill/Downloads/macspiderx-src-1.0/cards/icon.png8605517280#362"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/icon.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/icon.psd cards/icon.psd
+s405043323.624697
+e405043323.632909
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/icon.psd
+xcards/icon.psd
+lSLF07#2@19"Copy cards/icon.psd405043323#405043323#0(0"0(0#0#55"/Users/Bill/Downloads/macspiderx-src-1.0/cards/icon.psd8605492352#362"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/icon.psd /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/icon.tga cards/icon.tga
+s405043323.625696
+e405043323.638933
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/icon.tga
+xcards/icon.tga
+lSLF07#2@19"Copy cards/icon.tga405043323#405043323#0(0"0(0#0#55"/Users/Bill/Downloads/macspiderx-src-1.0/cards/icon.tga8605471136#362"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/icon.tga /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/top_empty.png cards/top_empty.png
+s405043323.635738
+e405043323.642561
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/top_empty.png
+xcards/top_empty.png
+lSLF07#2@24"Copy cards/top_empty.png405043323#405043323#0(0"0(0#0#60"/Users/Bill/Downloads/macspiderx-src-1.0/cards/top_empty.png8605362304#367"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/top_empty.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSolitaireX.app/Contents/Resources/top_empty.png top_empty.png
+s405043323.636482
+e405043323.642162
+r1
+xCpResource
+xbuild/Development/MacSolitaireX.app/Contents/Resources/top_empty.png
+xtop_empty.png
+lSLF07#2@18"Copy top_empty.png405043323#405043323#0(0"0(0#0#54"/Users/Bill/Downloads/macspiderx-src-1.0/top_empty.png8605164992#361"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/top_empty.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/1.png cards/1.png
+s406172604.722025
+e406172604.728779
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/1.png
+xcards/1.png
+lSLF07#2@16"Copy cards/1.png406172604#406172604#0(0"0(0#0#52"/Users/Bill/Downloads/macspiderx-src-1.0/cards/1.png8609126496#356"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/1.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/10.png cards/10.png
+s406172604.722695
+e406172604.735011
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/10.png
+xcards/10.png
+lSLF07#2@17"Copy cards/10.png406172604#406172604#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/10.png8609069600#357"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/10.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/11.png cards/11.png
+s406172604.723306
+e406172604.732915
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/11.png
+xcards/11.png
+lSLF07#2@17"Copy cards/11.png406172604#406172604#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/11.png8609046432#357"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/11.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/12.png cards/12.png
+s406172604.723986
+e406172604.741387
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/12.png
+xcards/12.png
+lSLF07#2@17"Copy cards/12.png406172604#406172604#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/12.png8608956256#357"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/12.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/13.png cards/13.png
+s406172604.724847
+e406172604.737202
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/13.png
+xcards/13.png
+lSLF07#2@17"Copy cards/13.png406172604#406172604#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/13.png8608695456#357"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/13.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/14.png cards/14.png
+s406172604.725479
+e406172604.737387
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/14.png
+xcards/14.png
+lSLF07#2@17"Copy cards/14.png406172604#406172604#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/14.png8608585728#357"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/14.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/15.png cards/15.png
+s406172604.726104
+e406172604.745444
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/15.png
+xcards/15.png
+lSLF07#2@17"Copy cards/15.png406172604#406172604#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/15.png8608440896#357"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/15.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/16.png cards/16.png
+s406172604.728905
+e406172604.751546
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/16.png
+xcards/16.png
+lSLF07#2@17"Copy cards/16.png406172604#406172604#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/16.png8608260096#357"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/16.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/17.png cards/17.png
+s406172604.731031
+e406172604.741233
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/17.png
+xcards/17.png
+lSLF07#2@17"Copy cards/17.png406172604#406172604#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/17.png8608024992#357"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/17.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/18.png cards/18.png
+s406172604.733012
+e406172604.745314
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/18.png
+xcards/18.png
+lSLF07#2@17"Copy cards/18.png406172604#406172604#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/18.png8607866336#357"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/18.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/19.png cards/19.png
+s406172604.735115
+e406172604.745174
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/19.png
+xcards/19.png
+lSLF07#2@17"Copy cards/19.png406172604#406172604#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/19.png8607251072#357"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/19.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/2.png cards/2.png
+s406172604.737488
+e406172604.751694
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/2.png
+xcards/2.png
+lSLF07#2@16"Copy cards/2.png406172604#406172604#0(0"0(0#0#52"/Users/Bill/Downloads/macspiderx-src-1.0/cards/2.png8606897792#356"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/2.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/20.png cards/20.png
+s406172604.739272
+e406172604.751841
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/20.png
+xcards/20.png
+lSLF07#2@17"Copy cards/20.png406172604#406172604#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/20.png8604409376#357"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/20.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/21.png cards/21.png
+s406172604.741476
+e406172604.751377
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/21.png
+xcards/21.png
+lSLF07#2@17"Copy cards/21.png406172604#406172604#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/21.png8604096992#357"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/21.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/22.png cards/22.png
+s406172604.743238
+e406172604.758962
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/22.png
+xcards/22.png
+lSLF07#2@17"Copy cards/22.png406172604#406172604#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/22.png8603183520#357"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/22.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/23.png cards/23.png
+s406172604.745526
+e406172604.763832
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/23.png
+xcards/23.png
+lSLF07#2@17"Copy cards/23.png406172604#406172604#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/23.png8601388800#357"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/23.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/24.png cards/24.png
+s406172604.747281
+e406172604.758803
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/24.png
+xcards/24.png
+lSLF07#2@17"Copy cards/24.png406172604#406172604#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/24.png8608027936#357"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/24.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/25.png cards/25.png
+s406172604.749190
+e406172604.763984
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/25.png
+xcards/25.png
+lSLF07#2@17"Copy cards/25.png406172604#406172604#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/25.png8610048096#357"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/25.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/26.png cards/26.png
+s406172604.751939
+e406172604.758634
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/26.png
+xcards/26.png
+lSLF07#2@17"Copy cards/26.png406172604#406172604#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/26.png8610013248#357"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/26.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/27.png cards/27.png
+s406172604.752950
+e406172604.763672
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/27.png
+xcards/27.png
+lSLF07#2@17"Copy cards/27.png406172604#406172604#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/27.png8609973600#357"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/27.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/28.png cards/28.png
+s406172604.754752
+e406172604.766091
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/28.png
+xcards/28.png
+lSLF07#2@17"Copy cards/28.png406172604#406172604#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/28.png8609840512#357"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/28.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/29.png cards/29.png
+s406172604.756564
+e406172604.766253
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/29.png
+xcards/29.png
+lSLF07#2@17"Copy cards/29.png406172604#406172604#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/29.png8609806176#357"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/29.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/3.png cards/3.png
+s406172604.759059
+e406172604.767712
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/3.png
+xcards/3.png
+lSLF07#2@16"Copy cards/3.png406172604#406172604#0(0"0(0#0#52"/Users/Bill/Downloads/macspiderx-src-1.0/cards/3.png8609799904#356"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/3.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/30.png cards/30.png
+s406172604.760886
+e406172604.769789
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/30.png
+xcards/30.png
+lSLF07#2@17"Copy cards/30.png406172604#406172604#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/30.png8609726880#357"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/30.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/31.png cards/31.png
+s406172604.762680
+e406172604.774109
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/31.png
+xcards/31.png
+lSLF07#2@17"Copy cards/31.png406172604#406172604#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/31.png8609690784#357"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/31.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/32.png cards/32.png
+s406172604.764068
+e406172604.771824
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/32.png
+xcards/32.png
+lSLF07#2@17"Copy cards/32.png406172604#406172604#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/32.png8609486528#357"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/32.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/33.png cards/33.png
+s406172604.764727
+e406172604.773941
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/33.png
+xcards/33.png
+lSLF07#2@17"Copy cards/33.png406172604#406172604#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/33.png8609388960#357"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/33.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/34.png cards/34.png
+s406172604.765349
+e406172604.774304
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/34.png
+xcards/34.png
+lSLF07#2@17"Copy cards/34.png406172604#406172604#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/34.png8609359456#357"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/34.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/35.png cards/35.png
+s406172604.766338
+e406172604.780224
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/35.png
+xcards/35.png
+lSLF07#2@17"Copy cards/35.png406172604#406172604#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/35.png8609349856#357"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/35.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/36.png cards/36.png
+s406172604.766974
+e406172604.787137
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/36.png
+xcards/36.png
+lSLF07#2@17"Copy cards/36.png406172604#406172604#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/36.png8610261216#357"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/36.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/37.png cards/37.png
+s406172604.767802
+e406172604.792174
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/37.png
+xcards/37.png
+lSLF07#2@17"Copy cards/37.png406172604#406172604#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/37.png8609028576#357"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/37.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/38.png cards/38.png
+s406172604.769898
+e406172604.786988
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/38.png
+xcards/38.png
+lSLF07#2@17"Copy cards/38.png406172604#406172604#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/38.png8607132640#357"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/38.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/39.png cards/39.png
+s406172604.771929
+e406172604.792327
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/39.png
+xcards/39.png
+lSLF07#2@17"Copy cards/39.png406172604#406172604#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/39.png8607093728#357"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/39.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/4.png cards/4.png
+s406172604.774428
+e406172604.786837
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/4.png
+xcards/4.png
+lSLF07#2@16"Copy cards/4.png406172604#406172604#0(0"0(0#0#52"/Users/Bill/Downloads/macspiderx-src-1.0/cards/4.png8609757920#356"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/4.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/40.png cards/40.png
+s406172604.776211
+e406172604.792469
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/40.png
+xcards/40.png
+lSLF07#2@17"Copy cards/40.png406172604#406172604#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/40.png8607965376#357"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/40.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/41.png cards/41.png
+s406172604.777967
+e406172604.792795
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/41.png
+xcards/41.png
+lSLF07#2@17"Copy cards/41.png406172604#406172604#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/41.png8607599072#357"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/41.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/42.png cards/42.png
+s406172604.780333
+e406172604.792615
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/42.png
+xcards/42.png
+lSLF07#2@17"Copy cards/42.png406172604#406172604#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/42.png8607177248#357"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/42.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/43.png cards/43.png
+s406172604.787223
+e406172604.799489
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/43.png
+xcards/43.png
+lSLF07#2@17"Copy cards/43.png406172604#406172604#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/43.png8607988096#357"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/43.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/44.png cards/44.png
+s406172604.790536
+e406172604.799640
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/44.png
+xcards/44.png
+lSLF07#2@17"Copy cards/44.png406172604#406172604#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/44.png8610376768#357"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/44.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/45.png cards/45.png
+s406172604.791266
+e406172604.799887
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/45.png
+xcards/45.png
+lSLF07#2@17"Copy cards/45.png406172604#406172604#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/45.png8610284512#357"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/45.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/46.png cards/46.png
+s406172604.792889
+e406172604.802709
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/46.png
+xcards/46.png
+lSLF07#2@17"Copy cards/46.png406172604#406172604#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/46.png8610250144#357"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/46.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/47.png cards/47.png
+s406172604.794622
+e406172604.802869
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/47.png
+xcards/47.png
+lSLF07#2@17"Copy cards/47.png406172604#406172604#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/47.png8603987264#357"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/47.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/48.png cards/48.png
+s406172604.796524
+e406172604.806053
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/48.png
+xcards/48.png
+lSLF07#2@17"Copy cards/48.png406172604#406172604#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/48.png8610110240#357"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/48.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/49.png cards/49.png
+s406172604.797859
+e406172604.810594
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/49.png
+xcards/49.png
+lSLF07#2@17"Copy cards/49.png406172604#406172604#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/49.png8610046464#357"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/49.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/5.png cards/5.png
+s406172604.798574
+e406172604.806215
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/5.png
+xcards/5.png
+lSLF07#2@16"Copy cards/5.png406172604#406172604#0(0"0(0#0#52"/Users/Bill/Downloads/macspiderx-src-1.0/cards/5.png8610004032#356"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/5.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/50.png cards/50.png
+s406172604.799974
+e406172604.810048
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/50.png
+xcards/50.png
+lSLF07#2@17"Copy cards/50.png406172604#406172604#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/50.png8609904224#357"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/50.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/51.png cards/51.png
+s406172604.800728
+e406172604.814775
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/51.png
+xcards/51.png
+lSLF07#2@17"Copy cards/51.png406172604#406172604#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/51.png8609853824#357"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/51.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/52.png cards/52.png
+s406172604.801337
+e406172604.814930
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/52.png
+xcards/52.png
+lSLF07#2@17"Copy cards/52.png406172604#406172604#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/52.png8609840128#357"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/52.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/53.png cards/53.png
+s406172604.801956
+e406172604.815210
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/53.png
+xcards/53.png
+lSLF07#2@17"Copy cards/53.png406172604#406172604#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/53.png8609801440#357"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/53.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/54.png cards/54.png
+s406172604.802954
+e406172604.814617
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/54.png
+xcards/54.png
+lSLF07#2@17"Copy cards/54.png406172604#406172604#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/54.png8609754624#357"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/54.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/6.png cards/6.png
+s406172604.804182
+e406172604.818629
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/6.png
+xcards/6.png
+lSLF07#2@16"Copy cards/6.png406172604#406172604#0(0"0(0#0#52"/Users/Bill/Downloads/macspiderx-src-1.0/cards/6.png8609695936#356"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/6.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/7.png cards/7.png
+s406172604.806319
+e406172604.815072
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/7.png
+xcards/7.png
+lSLF07#2@16"Copy cards/7.png406172604#406172604#0(0"0(0#0#52"/Users/Bill/Downloads/macspiderx-src-1.0/cards/7.png8609516192#356"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/7.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/8.png cards/8.png
+s406172604.808046
+e406172604.818771
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/8.png
+xcards/8.png
+lSLF07#2@16"Copy cards/8.png406172604#406172604#0(0"0(0#0#52"/Users/Bill/Downloads/macspiderx-src-1.0/cards/8.png8609387936#356"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/8.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/9.png cards/9.png
+s406172604.810815
+e406172604.820277
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/9.png
+xcards/9.png
+lSLF07#2@16"Copy cards/9.png406172604#406172604#0(0"0(0#0#52"/Users/Bill/Downloads/macspiderx-src-1.0/cards/9.png8609342432#356"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/9.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/b1fh.png cards/b1fh.png
+s406172604.812611
+e406172604.821137
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/b1fh.png
+xcards/b1fh.png
+lSLF07#2@19"Copy cards/b1fh.png406172604#406172604#0(0"0(0#0#55"/Users/Bill/Downloads/macspiderx-src-1.0/cards/b1fh.png8609287072#359"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/b1fh.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/b1fv.png cards/b1fv.png
+s406172604.815307
+e406172604.823119
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/b1fv.png
+xcards/b1fv.png
+lSLF07#2@19"Copy cards/b1fv.png406172604#406172604#0(0"0(0#0#55"/Users/Bill/Downloads/macspiderx-src-1.0/cards/b1fv.png8609099424#359"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/b1fv.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/b1pb.png cards/b1pb.png
+s406172604.816029
+e406172604.835437
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/b1pb.png
+xcards/b1pb.png
+lSLF07#2@19"Copy cards/b1pb.png406172604#406172604#0(0"0(0#0#55"/Users/Bill/Downloads/macspiderx-src-1.0/cards/b1pb.png8609048672#359"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/b1pb.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/b1pl.png cards/b1pl.png
+s406172604.816650
+e406172604.826090
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/b1pl.png
+xcards/b1pl.png
+lSLF07#2@19"Copy cards/b1pl.png406172604#406172604#0(0"0(0#0#55"/Users/Bill/Downloads/macspiderx-src-1.0/cards/b1pl.png8608954144#359"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/b1pl.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/b1pr.png cards/b1pr.png
+s406172604.817256
+e406172604.835586
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/b1pr.png
+xcards/b1pr.png
+lSLF07#2@19"Copy cards/b1pr.png406172604#406172604#0(0"0(0#0#55"/Users/Bill/Downloads/macspiderx-src-1.0/cards/b1pr.png8608905984#359"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/b1pr.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/b1pt.png cards/b1pt.png
+s406172604.817872
+e406172604.840836
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/b1pt.png
+xcards/b1pt.png
+lSLF07#2@19"Copy cards/b1pt.png406172604#406172604#0(0"0(0#0#55"/Users/Bill/Downloads/macspiderx-src-1.0/cards/b1pt.png8608787072#359"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/b1pt.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/b2fh.png cards/b2fh.png
+s406172604.818861
+e406172604.832898
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/b2fh.png
+xcards/b2fh.png
+lSLF07#2@19"Copy cards/b2fh.png406172604#406172604#0(0"0(0#0#55"/Users/Bill/Downloads/macspiderx-src-1.0/cards/b2fh.png8608660704#359"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/b2fh.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/b2fv.png cards/b2fv.png
+s406172604.819513
+e406172604.829219
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/b2fv.png
+xcards/b2fv.png
+lSLF07#2@19"Copy cards/b2fv.png406172604#406172604#0(0"0(0#0#55"/Users/Bill/Downloads/macspiderx-src-1.0/cards/b2fv.png8608522080#359"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/b2fv.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/b2pb.png cards/b2pb.png
+s406172604.820372
+e406172604.835110
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/b2pb.png
+xcards/b2pb.png
+lSLF07#2@19"Copy cards/b2pb.png406172604#406172604#0(0"0(0#0#55"/Users/Bill/Downloads/macspiderx-src-1.0/cards/b2pb.png8608321792#359"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/b2pb.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/b2pl.png cards/b2pl.png
+s406172604.821227
+e406172604.835736
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/b2pl.png
+xcards/b2pl.png
+lSLF07#2@19"Copy cards/b2pl.png406172604#406172604#0(0"0(0#0#55"/Users/Bill/Downloads/macspiderx-src-1.0/cards/b2pl.png8608284320#359"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/b2pl.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/b2pr.png cards/b2pr.png
+s406172604.823227
+e406172604.835280
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/b2pr.png
+xcards/b2pr.png
+lSLF07#2@19"Copy cards/b2pr.png406172604#406172604#0(0"0(0#0#55"/Users/Bill/Downloads/macspiderx-src-1.0/cards/b2pr.png8607095968#359"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/b2pr.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/b2pt.png cards/b2pt.png
+s406172604.826233
+e406172604.840679
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/b2pt.png
+xcards/b2pt.png
+lSLF07#2@19"Copy cards/b2pt.png406172604#406172604#0(0"0(0#0#55"/Users/Bill/Downloads/macspiderx-src-1.0/cards/b2pt.png8606813696#359"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/b2pt.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/back1-sm.png cards/back1-sm.png
+s406172604.829362
+e406172604.847330
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/back1-sm.png
+xcards/back1-sm.png
+lSLF07#2@23"Copy cards/back1-sm.png406172604#406172604#0(0"0(0#0#59"/Users/Bill/Downloads/macspiderx-src-1.0/cards/back1-sm.png8604133216#363"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/back1-sm.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/back1-sm.png decks/back1-sm.png
+s406172604.833012
+e406172604.842310
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/back1-sm.png
+xdecks/back1-sm.png
+lSLF07#2@23"Copy decks/back1-sm.png406172604#406172604#0(0"0(0#0#59"/Users/Bill/Downloads/macspiderx-src-1.0/decks/back1-sm.png8602789696#363"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/decks/back1-sm.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/back1.png cards/back1.png
+s406172604.835835
+e406172604.843932
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/back1.png
+xcards/back1.png
+lSLF07#2@20"Copy cards/back1.png406172604#406172604#0(0"0(0#0#56"/Users/Bill/Downloads/macspiderx-src-1.0/cards/back1.png8600284128#360"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/back1.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/back1.png decks/back1.png
+s406172604.836575
+e406172604.845196
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/back1.png
+xdecks/back1.png
+lSLF07#2@20"Copy decks/back1.png406172604#406172604#0(0"0(0#0#56"/Users/Bill/Downloads/macspiderx-src-1.0/decks/back1.png8607944704#360"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/decks/back1.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/back2-sm.png cards/back2-sm.png
+s406172604.837192
+e406172604.842463
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/back2-sm.png
+xcards/back2-sm.png
+lSLF07#2@23"Copy cards/back2-sm.png406172604#406172604#0(0"0(0#0#59"/Users/Bill/Downloads/macspiderx-src-1.0/cards/back2-sm.png8607927360#363"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/back2-sm.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/back2-sm.png decks/back2-sm.png
+s406172604.837918
+e406172604.870976
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/back2-sm.png
+xdecks/back2-sm.png
+lSLF07#2@23"Copy decks/back2-sm.png406172604#406172604#0(0"0(0#0#59"/Users/Bill/Downloads/macspiderx-src-1.0/decks/back2-sm.png8607845984#363"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/decks/back2-sm.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/back2.png cards/back2.png
+s406172604.839799
+e406172604.867062
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/back2.png
+xcards/back2.png
+lSLF07#2@20"Copy cards/back2.png406172604#406172604#0(0"0(0#0#56"/Users/Bill/Downloads/macspiderx-src-1.0/cards/back2.png8607625888#360"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/back2.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/back2.png decks/back2.png
+s406172604.840927
+e406172604.862854
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/back2.png
+xdecks/back2.png
+lSLF07#2@20"Copy decks/back2.png406172604#406172604#0(0"0(0#0#56"/Users/Bill/Downloads/macspiderx-src-1.0/decks/back2.png8607268320#360"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/decks/back2.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/back3-sm.png cards/back3-sm.png
+s406172604.841569
+e406172604.852079
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/back3-sm.png
+xcards/back3-sm.png
+lSLF07#2@23"Copy cards/back3-sm.png406172604#406172604#0(0"0(0#0#59"/Users/Bill/Downloads/macspiderx-src-1.0/cards/back3-sm.png8606912992#363"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/back3-sm.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/back3-sm.png decks/back3-sm.png
+s406172604.842547
+e406172604.851934
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/back3-sm.png
+xdecks/back3-sm.png
+lSLF07#2@23"Copy decks/back3-sm.png406172604#406172604#0(0"0(0#0#59"/Users/Bill/Downloads/macspiderx-src-1.0/decks/back3-sm.png8605491200#363"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/decks/back3-sm.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/back3.png cards/back3.png
+s406172604.843183
+e406172604.853570
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/back3.png
+xcards/back3.png
+lSLF07#2@20"Copy cards/back3.png406172604#406172604#0(0"0(0#0#56"/Users/Bill/Downloads/macspiderx-src-1.0/cards/back3.png8605314656#360"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/back3.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/back3.png decks/back3.png
+s406172604.844019
+e406172604.865369
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/back3.png
+xdecks/back3.png
+lSLF07#2@20"Copy decks/back3.png406172604#406172604#0(0"0(0#0#56"/Users/Bill/Downloads/macspiderx-src-1.0/decks/back3.png8605112512#360"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/decks/back3.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/back4-sm.png cards/back4-sm.png
+s406172604.845289
+e406172604.870523
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/back4-sm.png
+xcards/back4-sm.png
+lSLF07#2@23"Copy cards/back4-sm.png406172604#406172604#0(0"0(0#0#59"/Users/Bill/Downloads/macspiderx-src-1.0/cards/back4-sm.png8604832064#363"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/back4-sm.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/back4-sm.png decks/back4-sm.png
+s406172604.847433
+e406172604.871259
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/back4-sm.png
+xdecks/back4-sm.png
+lSLF07#2@23"Copy decks/back4-sm.png406172604#406172604#0(0"0(0#0#59"/Users/Bill/Downloads/macspiderx-src-1.0/decks/back4-sm.png8604480512#363"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/decks/back4-sm.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/back4.png cards/back4.png
+s406172604.852171
+e406172604.870675
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/back4.png
+xcards/back4.png
+lSLF07#2@20"Copy cards/back4.png406172604#406172604#0(0"0(0#0#56"/Users/Bill/Downloads/macspiderx-src-1.0/cards/back4.png8603907424#360"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/back4.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/empty.png cards/empty.png
+s406172604.852871
+e406172604.871114
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/empty.png
+xcards/empty.png
+lSLF07#2@20"Copy cards/empty.png406172604#406172604#0(0"0(0#0#56"/Users/Bill/Downloads/macspiderx-src-1.0/cards/empty.png8603740864#360"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/empty.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/empty.png empty.png
+s406172604.853647
+e406172604.870826
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/empty.png
+xempty.png
+lSLF07#2@14"Copy empty.png406172604#406172604#0(0"0(0#0#50"/Users/Bill/Downloads/macspiderx-src-1.0/empty.png8603537056#354"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/empty.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/empty_x.png empty_x.png
+s406172604.876607
+e406172604.881560
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/empty_x.png
+xempty_x.png
+lSLF07#2@16"Copy empty_x.png406172604#406172604#0(0"0(0#0#52"/Users/Bill/Downloads/macspiderx-src-1.0/empty_x.png8609824480#356"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/empty_x.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/icon.icns icon.icns
+s406172604.721491
+e406172604.730902
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/icon.icns
+xicon.icns
+lSLF07#2@14"Copy icon.icns406172604#406172604#0(0"0(0#0#50"/Users/Bill/Downloads/macspiderx-src-1.0/icon.icns8609188576#354"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/icon.icns /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/icon.png cards/icon.png
+s406172604.862965
+e406172604.872986
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/icon.png
+xcards/icon.png
+lSLF07#2@19"Copy cards/icon.png406172604#406172604#0(0"0(0#0#55"/Users/Bill/Downloads/macspiderx-src-1.0/cards/icon.png8602984768#359"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/icon.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/icon.psd cards/icon.psd
+s406172604.867187
+e406172604.874913
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/icon.psd
+xcards/icon.psd
+lSLF07#2@19"Copy cards/icon.psd406172604#406172604#0(0"0(0#0#55"/Users/Bill/Downloads/macspiderx-src-1.0/cards/icon.psd8610339744#359"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/icon.psd /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/icon.tga cards/icon.tga
+s406172604.869330
+e406172604.877407
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/icon.tga
+xcards/icon.tga
+lSLF07#2@19"Copy cards/icon.tga406172604#406172604#0(0"0(0#0#55"/Users/Bill/Downloads/macspiderx-src-1.0/cards/icon.tga8610130624#359"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/icon.tga /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/save_top_empty.png cards/save_top_empty.png
+s406172604.875030
+e406172604.881446
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/save_top_empty.png
+xcards/save_top_empty.png
+lSLF07#2@29"Copy cards/save_top_empty.png406172604#406172604#0(0"0(0#0#65"/Users/Bill/Downloads/macspiderx-src-1.0/cards/save_top_empty.png8609907200#369"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/save_top_empty.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/top_empty.png cards/top_empty.png
+s405276525.927925
+e405276525.945337
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/top_empty.png
+xcards/top_empty.png
+lSLF07#2@24"Copy cards/top_empty.png405276525#405276525#0(0"0(0#0#60"/Users/Bill/Downloads/macspiderx-src-1.0/cards/top_empty.png8618805408#364"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/top_empty.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CCpResource build/Development/MacSpiderX.app/Contents/Resources/top_empty.png top_empty.png
+s406172604.875972
+e406172604.881205
+r1
+xCpResource
+xbuild/Development/MacSpiderX.app/Contents/Resources/top_empty.png
+xtop_empty.png
+lSLF07#2@18"Copy top_empty.png406172604#406172604#0(0"0(0#0#54"/Users/Bill/Downloads/macspiderx-src-1.0/top_empty.png8609852736#358"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/top_empty.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+
+CLd /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/MacOS/MacSolitaireX normal i386
+s405043325.612274
+e405043325.650901
+r1
+xLd
+x/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/MacOS/MacSolitaireX
+xnormal
+xi386
+lSLF07#2@110"Link /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/MacOS/MacSolitaireX405043325#405043325#0(0"0(0#0#0"8603096864#528"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/usr/bin/g++-4.2 -arch i386 -L/Users/Bill/Downloads/macspiderx-src-1.0/build/Development -F/Users/Bill/Downloads/macspiderx-src-1.0/build/Development -filelist "/Users/Bill/Downloads/macspiderx-src-1.0/build/MacSpiderX.build/Development/MacSpiderX (Upgraded).build/Objects-normal/i386/MacSolitaireX.LinkFileList" -framework Cocoa -framework OpenGL -prebind -o /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/MacOS/MacSolitaireX0#
+
+CLd /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/MacOS/MacSpiderX normal i386
+s406172606.885478
+e406172606.923096
+r1
+xLd
+x/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/MacOS/MacSpiderX
+xnormal
+xi386
+lSLF07#2@104"Link /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/MacOS/MacSpiderX406172606#406172606#0(0"0(0#0#0"8607732096#519"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/usr/bin/g++-4.2 -arch i386 -L/Users/Bill/Downloads/macspiderx-src-1.0/build/Development -F/Users/Bill/Downloads/macspiderx-src-1.0/build/Development -filelist "/Users/Bill/Downloads/macspiderx-src-1.0/build/MacSpiderX.build/Development/MacSpiderX (Upgraded).build/Objects-normal/i386/MacSpiderX.LinkFileList" -framework Cocoa -framework OpenGL -prebind -o /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/MacOS/MacSpiderX0#
+
+CProcessInfoPlistFile /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Info.plist Info-MacSpiderX__Upgraded_.plist
+s405043323.466137
+e405043323.476858
+r1
+xProcessInfoPlistFile
+x/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Info.plist
+xInfo-MacSpiderX__Upgraded_.plist
+lSLF07#2@40"Process Info-MacSpiderX__Upgraded_.plist405043323#405043323#0(0"0(0#0#73"/Users/Bill/Downloads/macspiderx-src-1.0/Info-MacSpiderX__Upgraded_.plist23362848275103820#354"    cd /Users/Bill/Downloads/macspiderx-src-1.0    builtin-infoPlistUtility Info-MacSpiderX__Upgraded_.plist -genpkginfo /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app/Contents/Info.plist0#
+
+CProcessInfoPlistFile /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Info.plist Info-MacSpiderX__Upgraded_.plist
+s406172604.715532
+e406172604.720028
+r1
+xProcessInfoPlistFile
+x/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Info.plist
+xInfo-MacSpiderX__Upgraded_.plist
+lSLF07#2@40"Process Info-MacSpiderX__Upgraded_.plist406172604#406172604#0(0"0(0#0#73"/Users/Bill/Downloads/macspiderx-src-1.0/Info-MacSpiderX__Upgraded_.plist8610265088#348"    cd /Users/Bill/Downloads/macspiderx-src-1.0    builtin-infoPlistUtility Info-MacSpiderX__Upgraded_.plist -genpkginfo /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Info.plist0#
+
+CStripNIB /Users/Bill/Downloads/macspiderx-src-1.0/English.lproj/MainMenu.nib
+s406172604.720102
+e406172604.954346
+r1
+xStripNIB
+x/Users/Bill/Downloads/macspiderx-src-1.0/English.lproj/MainMenu.nib
+lSLF07#2@35"StripNIB English.lproj/MainMenu.nib406172604#406172604#0(0"0(0#0#67"/Users/Bill/Downloads/macspiderx-src-1.0/English.lproj/MainMenu.nib8609707104#310"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/usr/bin/ibtool --strip /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/English.lproj/MainMenu.nib --output-format human-readable-text /Users/Bill/Downloads/macspiderx-src-1.0/English.lproj/MainMenu.nib0#
+
+CTouch /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app
+s405043325.650987
+e405043325.655846
+r1
+xTouch
+x/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app
+lSLF07#2@82"Touch /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app405043325#405043325#0(0"0(0#0#0"8601311744#147"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /usr/bin/touch -c /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSolitaireX.app0#
+
+CTouch /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app
+s406172606.923181
+e406172606.927749
+r1
+xTouch
+x/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app
+lSLF07#2@79"Touch /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app406172606#406172606#0(0"0(0#0#0"8604671488#144"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /usr/bin/touch -c /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app0#
+

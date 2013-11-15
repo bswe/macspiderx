@@ -1,0 +1,1370 @@
+// !$*UTF8*$!
+{
+	089C165DFE840E0CC02AAC07 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {705, 444}}";
+			sepNavSelRange = "{214, 0}";
+			sepNavVisRect = "{{0, 0}, {705, 444}}";
+			sepNavWindowFrame = "{{15, 315}, {750, 558}}";
+		};
+	};
+	16059CE40A1E966200F44181 = {
+		fRef = 29B97316FDCFA39411CA2CEA;
+		isa = PBXTextBookmark;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 124;
+		vrLoc = 0;
+	};
+	16059EA10A1E9CE500F44181 = {
+		fRef = 164A3FB109FD7D2000A131D4;
+		isa = PBXBookmark;
+	};
+	16059EA50A1E9CE500F44181 = {
+		fRef = 16059EA60A1E9CE500F44181;
+		isa = PBXTextBookmark;
+		name = "time_t time(time_t *);";
+		rLen = 23;
+		rLoc = 5014;
+		rType = 0;
+		vrLen = 1242;
+		vrLoc = 4361;
+	};
+	16059EA60A1E9CE500F44181 = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = time.h;
+		path = /usr/include/time.h;
+		refType = 0;
+		sourceTree = "<absolute>";
+	};
+	16059EB70A1E9CE500F44181 = {
+		fRef = 16059EB80A1E9CE500F44181;
+		isa = PBXTextBookmark;
+		name = "time_t time(time_t *);";
+		rLen = 23;
+		rLoc = 5014;
+		rType = 0;
+		vrLen = 1242;
+		vrLoc = 4361;
+	};
+	16059EB80A1E9CE500F44181 = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = time.h;
+		path = /usr/include/time.h;
+		refType = 0;
+		sourceTree = "<absolute>";
+	};
+	164A3F9509FD779000A131D4 = {
+		fRef = 089C165DFE840E0CC02AAC07;
+		isa = PBXTextBookmark;
+		name = "English: 6";
+		rLen = 0;
+		rLoc = 354;
+		rType = 0;
+		vrLen = 277;
+		vrLoc = 0;
+	};
+	164A3FBD09FDCC6100A131D4 = {
+		fRef = 164A3FB109FD7D2000A131D4;
+		isa = PBXBookmark;
+	};
+	16581F9009E5EA7B008BEBCB = {
+		activeArgIndex = 2147483647;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		configStateDict = {
+		};
+		cppStopOnCatchEnabled = 0;
+		cppStopOnThrowEnabled = 0;
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		isa = PBXExecutable;
+		libgmallocEnabled = 0;
+		name = MacSolitaireX;
+		savedGlobals = {
+		};
+		shlibInfoDictList_v2 = (
+			{
+				level = 0;
+				path = /Users/elitehaxor/Desktop/Lesson33_OSXCocoa/build/Lesson33_OSXCocoa.app/Contents/MacOS/Lesson33_OSXCocoa;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /usr/lib/system/libmathCommon.A.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /usr/lib/libSystem.B.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /usr/lib/libicucore.A.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /usr/lib/libauto.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /usr/lib/libobjc.A.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/CoreFoundation.framework/Versions/A/CoreFoundation;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/SystemConfiguration.framework/Versions/A/SystemConfiguration;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /usr/lib/libz.1.2.3.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /usr/lib/libgcc_s.1.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /usr/lib/libmx.A.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/IOKit.framework/Versions/A/IOKit;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Security.framework/Versions/A/Security;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/DiskArbitration.framework/Versions/A/DiskArbitration;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/CarbonCore;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/OSServices.framework/Versions/A/OSServices;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CFNetwork.framework/Versions/A/CFNetwork;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/WebServicesCore.framework/Versions/A/WebServicesCore;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SearchKit.framework/Versions/A/SearchKit;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Metadata;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/CoreServices.framework/Versions/A/CoreServices;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /usr/lib/libbsm.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/CoreGraphics.framework/Versions/A/CoreGraphics;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/ATS;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /usr/lib/libcrypto.0.9.7.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ColorSync.framework/Versions/A/ColorSync;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/CoreText.framework/Versions/A/CoreText;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/QD.framework/Versions/A/QD;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /usr/lib/libcups.2.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/PrintCore;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/HIServices;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/LangAnalysis.framework/Versions/A/LangAnalysis;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/FindByContent.framework/Versions/A/FindByContent;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/SpeechSynthesis;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ImageIO.framework/Versions/A/Resources/libJPEG.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ImageIO.framework/Versions/A/Resources/libJP2.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ImageIO.framework/Versions/A/Resources/libGIF.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vImage.framework/Versions/A/vImage;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libvMisc.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libvDSP.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libBLAS.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libLAPACK.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/vecLib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Accelerate.framework/Versions/A/Accelerate;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ImageIO.framework/Versions/A/Resources/libRaw.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ImageIO.framework/Versions/A/Resources/libTIFF.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ImageIO.framework/Versions/A/Resources/libPng.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ImageIO.framework/Versions/A/Resources/libRadiance.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ImageIO.framework/Versions/A/ImageIO;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/ApplicationServices;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/CoreAudio.framework/Versions/A/CoreAudio;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/CarbonSound.framework/Versions/A/CarbonSound;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /usr/lib/libiconv.2.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /usr/lib/libxml2.2.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Foundation.framework/Versions/C/Foundation;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/PrivateFrameworks/DesktopServicesPriv.framework/Versions/A/DesktopServicesPriv;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/HIToolbox.framework/Versions/A/HIToolbox;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/SpeechRecognition.framework/Versions/A/SpeechRecognition;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/AudioUnit.framework/Versions/A/AudioUnit;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/AudioToolbox.framework/Versions/A/AudioToolbox;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /usr/lib/libsqlite3.0.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/CoreData.framework/Versions/A/CoreData;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLU.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/OpenGL.framework/Versions/A/OpenGL;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLImage.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/QuartzCore.framework/Versions/A/QuartzCore;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/AppKit.framework/Versions/C/AppKit;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Cocoa.framework/Versions/A/Cocoa;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/usr/lib/libstdc++.6.0.4.dylib";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /Library/Frameworks/ApplicationEnhancer.framework/Versions/A/ApplicationEnhancer;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/ImageCapture.framework/Versions/A/ImageCapture;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/SecurityHI.framework/Versions/A/SecurityHI;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/Ink.framework/Versions/A/Ink;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/Help.framework/Versions/A/Help;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/OpenScripting.framework/Versions/A/OpenScripting;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/Print.framework/Versions/A/Print;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/HTMLRendering.framework/Versions/A/HTMLRendering;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/NavigationServices.framework/Versions/A/NavigationServices;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/CommonPanels.framework/Versions/A/CommonPanels;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Carbon.framework/Versions/A/Carbon;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /usr/lib/libcrypto.0.9.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/QuickTime.framework/Versions/A/QuickTime;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Library/Application Enhancers/ShapeShifter.ape/Contents/MacOS/ShapeShifter";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/CoreGraphics.framework/Versions/A/Resources/libCSync.A.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLProgrammability.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/OpenGL.framework/Versions/A/Resources/GLEngine.bundle/GLEngine;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Extensions/ATIRadeon8500GLDriver.bundle/Contents/MacOS/ATIRadeon8500GLDriver;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLSystem.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/OpenGL.framework/Versions/A/Resources/GLDriver.bundle/GLDriver;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/OpenGL.framework/Versions/A/Resources/GLRendererFloat.bundle/GLRendererFloat;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/CoreGraphics.framework/Versions/A/Resources/libRIP.A.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/CoreGraphics.framework/Versions/A/Resources/libCGATS.A.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /Developer/Applications/Xcode.app/Contents/PlugIns/GDBMIDebugging.xcplugin/Contents/Resources/PBGDBIntrospectionSupport.A.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /usr/lib/dyld;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /Library/InputManagers/SIMBL/SIMBL.bundle/Contents/MacOS/SIMBL;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Library/Application Support/DivXNetworks/liblame3.92.dylib";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Library/Application Support/DivXNetworks/libMPAEncode0.1.dylib";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /usr/lib/libssl.0.9.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Library/Application Support/DivXNetworks/libdpus10.dylib";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Library/Application Support/DivXNetworks/libdpv10.dylib";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Library/Application Support/DivXNetworks/libPSIKey.dylib";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Library/QuickTime/DivX 5.component/Contents/MacOS/DivX 5";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/AGL.framework/Versions/A/AGL;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/vecLib.framework/Versions/A/vecLib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/QuickTime/QuickTimeComponents.component/Contents/MacOS/QuickTimeComponents;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/QuickTime/QuickTimeH264.component/Contents/MacOS/QuickTimeH264;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/QuickTime/QuickTimeFireWireDV.component/Contents/MacOS/QuickTimeFireWireDV;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /Library/QuickTime/AppleIntermediateCodec.component/Contents/MacOS/AppleIntermediateCodec;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/QuickTime/QuickTimeMPEG4.component/Contents/MacOS/QuickTimeMPEG4;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/QuickTime/ApplePixletVideo.component/Contents/MacOS/ApplePixletVideo;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Printers/Libraries/libLW8Utils.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Printers/Libraries/libLW8Converter.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Printers/Libraries/libConverter.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /Users/elitehaxor/Desktop/MacSolitaireX/build/MacSolitaireX.app/Contents/MacOS/MacSolitaireX;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Library/Application Support/Apple/Developer Tools/CustomDataViews/CFDataFormatters.bundle/Contents/MacOS/CFDataFormatters";
+				whenToLoad = 0;
+			},
+		);
+		sourceDirectories = (
+		);
+	};
+	16581F9B09E5EA82008BEBCB = {
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		isa = PBXSourceControlManager;
+		scmConfiguration = {
+		};
+		scmType = "";
+	};
+	16581F9C09E5EA82008BEBCB = {
+		indexTemplatePath = "";
+		isa = PBXCodeSenseManager;
+	};
+	16581FAA09E60BF1008BEBCB = {
+		fRef = 29B97316FDCFA39411CA2CEA;
+		isa = PBXTextBookmark;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 124;
+		vrLoc = 0;
+	};
+	16581FAF09E60BF1008BEBCB = {
+		fRef = F46E1F0603381F1201A8070A;
+		isa = PBXTextBookmark;
+		name = "Lesson33View.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 851;
+		vrLoc = 550;
+	};
+	16581FB009E60BF1008BEBCB = {
+		fRef = F46E1F0503381F1201A8070A;
+		isa = PBXTextBookmark;
+		name = "Lesson33View.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 748;
+		vrLoc = 0;
+	};
+	16581FB109E60BF1008BEBCB = {
+		fRef = F46E1F0203381E6001A8070A;
+		isa = PBXTextBookmark;
+		name = "Lesson33Controller.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 797;
+		vrLoc = 0;
+	};
+	16581FB209E60BF1008BEBCB = {
+		fRef = F46E1F0103381E6001A8070A;
+		isa = PBXTextBookmark;
+		name = "Lesson33Controller.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 374;
+		vrLoc = 0;
+	};
+	168B5D7D09F422B3004522AF = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = gl.h;
+		path = /System/Library/Frameworks/OpenGL.framework/Headers/gl.h;
+		refType = 0;
+		sourceTree = "<absolute>";
+	};
+	168B5D8C09F4254C004522AF = {
+		fRef = 168B5D7D09F422B3004522AF;
+		isa = PBXTextBookmark;
+		name = "extern void glOrtho (GLdouble left, GLdouble right, GLdouble bottom, GLdouble top, GLdouble zNear, GLdouble zFar);";
+		rLen = 115;
+		rLoc = 126521;
+		rType = 0;
+		vrLen = 1849;
+		vrLoc = 125662;
+	};
+	168B5D9009F4254C004522AF = {
+		fRef = 168B5D7D09F422B3004522AF;
+		isa = PBXTextBookmark;
+		name = "extern void glOrtho (GLdouble left, GLdouble right, GLdouble bottom, GLdouble top, GLdouble zNear, GLdouble zFar);";
+		rLen = 115;
+		rLoc = 126521;
+		rType = 0;
+		vrLen = 1849;
+		vrLoc = 125662;
+	};
+	16D8891D0A2655BD00A9744F = {
+		fRef = 089C165DFE840E0CC02AAC07;
+		isa = PBXTextBookmark;
+		name = "English: 6";
+		rLen = 0;
+		rLoc = 390;
+		rType = 0;
+		vrLen = 394;
+		vrLoc = 0;
+	};
+	16D8891E0A2655BD00A9744F = {
+		fRef = 16059DF40A1E9BD500F44181;
+		isa = PBXBookmark;
+	};
+	16D8891F0A2655BD00A9744F = {
+		fRef = 16059DF20A1E9BD500F44181;
+		isa = PBXBookmark;
+	};
+	16D889200A2655BD00A9744F = {
+		fRef = 16059DF30A1E9BD500F44181;
+		isa = PBXBookmark;
+	};
+	16D889210A2655BD00A9744F = {
+		fRef = 16059DF10A1E9BD500F44181;
+		isa = PBXBookmark;
+	};
+	16D889220A2655BD00A9744F = {
+		fRef = 16059DF00A1E9BD500F44181;
+		isa = PBXBookmark;
+	};
+	16D889230A2655BD00A9744F = {
+		fRef = 16F829990A227F48008CE853;
+		isa = PBXBookmark;
+	};
+	16D889270A2655BD00A9744F = {
+		fRef = 089C165DFE840E0CC02AAC07;
+		isa = PBXTextBookmark;
+		name = "English: 6";
+		rLen = 0;
+		rLoc = 390;
+		rType = 0;
+		vrLen = 394;
+		vrLoc = 0;
+	};
+	16D889280A2655BD00A9744F = {
+		fRef = 16059DF40A1E9BD500F44181;
+		isa = PBXBookmark;
+	};
+	16D889290A2655BD00A9744F = {
+		fRef = 16059DF30A1E9BD500F44181;
+		isa = PBXBookmark;
+	};
+	16D8892A0A2655BD00A9744F = {
+		fRef = 16059DF20A1E9BD500F44181;
+		isa = PBXBookmark;
+	};
+	16D8892B0A2655BD00A9744F = {
+		fRef = 16059DF30A1E9BD500F44181;
+		isa = PBXBookmark;
+	};
+	16D8892C0A2655BD00A9744F = {
+		fRef = 16059DF10A1E9BD500F44181;
+		isa = PBXBookmark;
+	};
+	16D8892D0A2655BD00A9744F = {
+		fRef = 16059DF00A1E9BD500F44181;
+		isa = PBXBookmark;
+	};
+	16D8892E0A2655BD00A9744F = {
+		fRef = 16F829990A227F48008CE853;
+		isa = PBXBookmark;
+	};
+	16D8892F0A2655BD00A9744F = {
+		fRef = F46E1F0603381F1201A8070A;
+		isa = PBXTextBookmark;
+		name = "opengl_t.mm: 249";
+		rLen = 0;
+		rLoc = 5837;
+		rType = 0;
+		vrLen = 1280;
+		vrLoc = 5537;
+	};
+	16D889300A2655BD00A9744F = {
+		fRef = F46E1F0203381E6001A8070A;
+		isa = PBXTextBookmark;
+		name = "window_t.mm: get_pref";
+		rLen = 0;
+		rLoc = 352;
+		rType = 0;
+		vrLen = 737;
+		vrLoc = 5220;
+	};
+	16D889310A2655BD00A9744F = {
+		fRef = F46E1F0603381F1201A8070A;
+		isa = PBXTextBookmark;
+		name = "opengl_t.mm: 249";
+		rLen = 0;
+		rLoc = 5837;
+		rType = 0;
+		vrLen = 1280;
+		vrLoc = 5537;
+	};
+	16D889320A2655BD00A9744F = {
+		fRef = F46E1F0203381E6001A8070A;
+		isa = PBXTextBookmark;
+		name = "window_t.mm: get_pref";
+		rLen = 0;
+		rLoc = 352;
+		rType = 0;
+		vrLen = 737;
+		vrLoc = 5220;
+	};
+	16D889330A2655BD00A9744F = {
+		fRef = F46E1F0103381E6001A8070A;
+		isa = PBXTextBookmark;
+		name = "window_t.h: alertDidEnd:returnCode:contextInfo:";
+		rLen = 0;
+		rLoc = 773;
+		rType = 0;
+		vrLen = 934;
+		vrLoc = 0;
+	};
+	16D889460A26590700A9744F = {
+		fRef = F46E1F0203381E6001A8070A;
+		isa = PBXTextBookmark;
+		name = "window_t.mm: get_pref";
+		rLen = 0;
+		rLoc = 352;
+		rType = 0;
+		vrLen = 737;
+		vrLoc = 5220;
+	};
+	16D889580A2667C500A9744F = {
+		fRef = F46E1F0103381E6001A8070A;
+		isa = PBXTextBookmark;
+		name = "window_t.h: alertDidEnd:returnCode:contextInfo:";
+		rLen = 0;
+		rLoc = 773;
+		rType = 0;
+		vrLen = 934;
+		vrLoc = 0;
+	};
+	16D889590A2667C500A9744F = {
+		fRef = F46E1F0203381E6001A8070A;
+		isa = PBXTextBookmark;
+		name = "window_t.mm: get_pref";
+		rLen = 0;
+		rLoc = 352;
+		rType = 0;
+		vrLen = 863;
+		vrLoc = 2953;
+	};
+	16D8895C0A2667C500A9744F = {
+		fRef = F46E1F0603381F1201A8070A;
+		isa = PBXTextBookmark;
+		name = "opengl_t.mm: 267";
+		rLen = 0;
+		rLoc = 6958;
+		rType = 0;
+		vrLen = 1591;
+		vrLoc = 5788;
+	};
+	16D8895D0A2667C500A9744F = {
+		fRef = F46E1F0503381F1201A8070A;
+		isa = PBXTextBookmark;
+		name = "opengl_t.h: stop_win_anim";
+		rLen = 0;
+		rLoc = 1705;
+		rType = 0;
+		vrLen = 1172;
+		vrLoc = 695;
+	};
+	16D8895E0A2667C500A9744F = {
+		fRef = F46E1F0203381E6001A8070A;
+		isa = PBXTextBookmark;
+		name = "window_t.mm: get_pref";
+		rLen = 0;
+		rLoc = 352;
+		rType = 0;
+		vrLen = 740;
+		vrLoc = 5217;
+	};
+	16D8895F0A2667C500A9744F = {
+		fRef = F46E1F0103381E6001A8070A;
+		isa = PBXTextBookmark;
+		name = "window_t.h: alertDidEnd:returnCode:contextInfo:";
+		rLen = 0;
+		rLoc = 773;
+		rType = 0;
+		vrLen = 934;
+		vrLoc = 0;
+	};
+	16D889600A2667C500A9744F = {
+		fRef = F46E1F0203381E6001A8070A;
+		isa = PBXTextBookmark;
+		name = "window_t.mm: get_pref";
+		rLen = 0;
+		rLoc = 352;
+		rType = 0;
+		vrLen = 863;
+		vrLoc = 2953;
+	};
+	16D889610A2667C500A9744F = {
+		fRef = F46E1F0503381F1201A8070A;
+		isa = PBXTextBookmark;
+		name = "opengl_t.h: stop_win_anim";
+		rLen = 0;
+		rLoc = 1705;
+		rType = 0;
+		vrLen = 1145;
+		vrLoc = 791;
+	};
+	16D889620A2667C500A9744F = {
+		fRef = F46E1F0603381F1201A8070A;
+		isa = PBXTextBookmark;
+		name = "opengl_t.mm: 267";
+		rLen = 0;
+		rLoc = 6958;
+		rType = 0;
+		vrLen = 805;
+		vrLoc = 2015;
+	};
+	16D889630A2667C500A9744F = {
+		fRef = F46E1F0503381F1201A8070A;
+		isa = PBXTextBookmark;
+		name = "opengl_t.h: stop_win_anim";
+		rLen = 0;
+		rLoc = 1705;
+		rType = 0;
+		vrLen = 1048;
+		vrLoc = 498;
+	};
+	16D8896A0A266F1A00A9744F = {
+		fRef = F46E1F0603381F1201A8070A;
+		isa = PBXTextBookmark;
+		name = "opengl_t.mm: 267";
+		rLen = 0;
+		rLoc = 6981;
+		rType = 0;
+		vrLen = 1539;
+		vrLoc = 5788;
+	};
+	16D8896B0A266F1A00A9744F = {
+		fRef = 16DD361C09FEC6B6008D3B50;
+		isa = PBXTextBookmark;
+		name = "mouse.mm: 172";
+		rLen = 0;
+		rLoc = 6365;
+		rType = 0;
+		vrLen = 1306;
+		vrLoc = 3179;
+	};
+	16D889700A2674BC00A9744F = {
+		fileReference = 16DD361C09FEC6B6008D3B50;
+		functionName = "-mouseDown:";
+		isa = PBXFileBreakpoint;
+		lineNumber = 79;
+		state = 1;
+	};
+	16D889730A2674D800A9744F = {
+		fRef = F46E1F0603381F1201A8070A;
+		isa = PBXTextBookmark;
+		name = "opengl_t.mm: 404";
+		rLen = 0;
+		rLoc = 10059;
+		rType = 0;
+		vrLen = 880;
+		vrLoc = 9520;
+	};
+	16D889780A26754700A9744F = {
+		fileReference = 16DD361C09FEC6B6008D3B50;
+		functionName = "-mouseDown:";
+		isa = PBXFileBreakpoint;
+		lineNumber = 78;
+		state = 1;
+	};
+	16D889800A267BC800A9744F = {
+		fRef = F46E1F0503381F1201A8070A;
+		isa = PBXTextBookmark;
+		name = "opengl_t.h: iters";
+		rLen = 0;
+		rLoc = 1311;
+		rType = 0;
+		vrLen = 1124;
+		vrLoc = 858;
+	};
+	16D889810A267BC800A9744F = {
+		fRef = F46E1F0603381F1201A8070A;
+		isa = PBXTextBookmark;
+		name = "opengl_t.mm: 404";
+		rLen = 0;
+		rLoc = 10059;
+		rType = 0;
+		vrLen = 880;
+		vrLoc = 9520;
+	};
+	16D889820A267BC800A9744F = {
+		fRef = 16DD361C09FEC6B6008D3B50;
+		isa = PBXTextBookmark;
+		name = "mouse.mm: 54";
+		rLen = 0;
+		rLoc = 1926;
+		rType = 0;
+		vrLen = 1742;
+		vrLoc = 650;
+	};
+	16D889830A267BC800A9744F = {
+		fRef = 16DD361C09FEC6B6008D3B50;
+		isa = PBXTextBookmark;
+		name = "mouse.mm: 401";
+		rLen = 0;
+		rLoc = 12733;
+		rType = 0;
+		vrLen = 1204;
+		vrLoc = 553;
+	};
+	16D889840A267BC800A9744F = {
+		fRef = F46E1F0503381F1201A8070A;
+		isa = PBXTextBookmark;
+		name = "opengl_t.h: iters";
+		rLen = 0;
+		rLoc = 1311;
+		rType = 0;
+		vrLen = 1124;
+		vrLoc = 858;
+	};
+	16D889850A267BC800A9744F = {
+		fRef = F46E1F0603381F1201A8070A;
+		isa = PBXTextBookmark;
+		name = "opengl_t.mm: 404";
+		rLen = 0;
+		rLoc = 10059;
+		rType = 0;
+		vrLen = 880;
+		vrLoc = 9520;
+	};
+	16D889870A26A86000A9744F = {
+		fRef = 16DD361C09FEC6B6008D3B50;
+		isa = PBXTextBookmark;
+		name = "mouse.mm: 48";
+		rLen = 0;
+		rLoc = 1192;
+		rType = 0;
+		vrLen = 1841;
+		vrLoc = 555;
+	};
+	16DD361C09FEC6B6008D3B50 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1140, 5670}}";
+			sepNavSelRange = "{11715, 0}";
+			sepNavVisRect = "{{0, 418}, {1140, 548}}";
+		};
+	};
+	16DD363009FECFB3008D3B50 = {
+		fRef = 16DD361C09FEC6B6008D3B50;
+		isa = PBXTextBookmark;
+		name = "mouse.mm: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 9;
+		vrLoc = 0;
+	};
+	16F829A80A229C61008CE853 = {
+		fileReference = 16DD361C09FEC6B6008D3B50;
+		functionName = "-mouseDown:";
+		isa = PBXFileBreakpoint;
+		lineNumber = 252;
+		state = 1;
+	};
+	16F829AC0A22AC70008CE853 = {
+		fRef = 16059EBC0A1EBA1F00F44181;
+		isa = PBXBookmark;
+	};
+	16F829B50A22AC70008CE853 = {
+		fRef = 16059EBC0A1EBA1F00F44181;
+		isa = PBXBookmark;
+	};
+	16F829B60A22AC70008CE853 = {
+		fRef = 16F829990A227F48008CE853;
+		isa = PBXBookmark;
+	};
+	29B97313FDCFA39411CA2CEA = {
+		activeBuildStyle = 4A9504CDFFE6A4B311CA0CBA;
+		activeExecutable = 16581F9009E5EA7B008BEBCB;
+		activeTarget = 29B97326FDCFA39411CA2CEA;
+		addToTargets = (
+			29B97326FDCFA39411CA2CEA,
+		);
+		breakpoints = (
+			16F829A80A229C61008CE853,
+			16D889700A2674BC00A9744F,
+			16D889780A26754700A9744F,
+		);
+		codeSenseManager = 16581F9C09E5EA82008BEBCB;
+		executables = (
+			16581F9009E5EA7B008BEBCB,
+		);
+		expressions = (
+			"tstacks[n].size()",
+			tstacks,
+			"tstacks[0]",
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXErrorsWarningsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXErrorsWarningsDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					447,
+					306,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXErrorsWarningsDataSource_TypeID,
+					PBXErrorsWarningsDataSource_MessageID,
+					PBXErrorsWarningsDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					400,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					948,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					200,
+					768,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 170482735;
+			PBXWorkspaceStateSaveDate = 170482735;
+		};
+		perUserProjectItems = {
+			16059CE40A1E966200F44181 = 16059CE40A1E966200F44181;
+			16059EA10A1E9CE500F44181 = 16059EA10A1E9CE500F44181;
+			16059EA50A1E9CE500F44181 = 16059EA50A1E9CE500F44181;
+			16059EB70A1E9CE500F44181 = 16059EB70A1E9CE500F44181;
+			164A3F9509FD779000A131D4 = 164A3F9509FD779000A131D4;
+			164A3FBD09FDCC6100A131D4 = 164A3FBD09FDCC6100A131D4;
+			16581FAA09E60BF1008BEBCB = 16581FAA09E60BF1008BEBCB;
+			16581FAF09E60BF1008BEBCB = 16581FAF09E60BF1008BEBCB;
+			16581FB009E60BF1008BEBCB = 16581FB009E60BF1008BEBCB;
+			16581FB109E60BF1008BEBCB = 16581FB109E60BF1008BEBCB;
+			16581FB209E60BF1008BEBCB = 16581FB209E60BF1008BEBCB;
+			168B5D8C09F4254C004522AF = 168B5D8C09F4254C004522AF;
+			168B5D9009F4254C004522AF = 168B5D9009F4254C004522AF;
+			16D8891D0A2655BD00A9744F = 16D8891D0A2655BD00A9744F;
+			16D8891E0A2655BD00A9744F = 16D8891E0A2655BD00A9744F;
+			16D8891F0A2655BD00A9744F = 16D8891F0A2655BD00A9744F;
+			16D889200A2655BD00A9744F = 16D889200A2655BD00A9744F;
+			16D889210A2655BD00A9744F = 16D889210A2655BD00A9744F;
+			16D889220A2655BD00A9744F = 16D889220A2655BD00A9744F;
+			16D889230A2655BD00A9744F = 16D889230A2655BD00A9744F;
+			16D889270A2655BD00A9744F = 16D889270A2655BD00A9744F;
+			16D889280A2655BD00A9744F = 16D889280A2655BD00A9744F;
+			16D889290A2655BD00A9744F = 16D889290A2655BD00A9744F;
+			16D8892A0A2655BD00A9744F = 16D8892A0A2655BD00A9744F;
+			16D8892B0A2655BD00A9744F = 16D8892B0A2655BD00A9744F;
+			16D8892C0A2655BD00A9744F = 16D8892C0A2655BD00A9744F;
+			16D8892D0A2655BD00A9744F = 16D8892D0A2655BD00A9744F;
+			16D8892E0A2655BD00A9744F = 16D8892E0A2655BD00A9744F;
+			16D8892F0A2655BD00A9744F = 16D8892F0A2655BD00A9744F;
+			16D889300A2655BD00A9744F = 16D889300A2655BD00A9744F;
+			16D889310A2655BD00A9744F = 16D889310A2655BD00A9744F;
+			16D889320A2655BD00A9744F = 16D889320A2655BD00A9744F;
+			16D889330A2655BD00A9744F = 16D889330A2655BD00A9744F;
+			16D889460A26590700A9744F = 16D889460A26590700A9744F;
+			16D889580A2667C500A9744F = 16D889580A2667C500A9744F;
+			16D889590A2667C500A9744F = 16D889590A2667C500A9744F;
+			16D8895C0A2667C500A9744F = 16D8895C0A2667C500A9744F;
+			16D8895D0A2667C500A9744F = 16D8895D0A2667C500A9744F;
+			16D8895E0A2667C500A9744F = 16D8895E0A2667C500A9744F;
+			16D8895F0A2667C500A9744F = 16D8895F0A2667C500A9744F;
+			16D889600A2667C500A9744F = 16D889600A2667C500A9744F;
+			16D889610A2667C500A9744F = 16D889610A2667C500A9744F;
+			16D889620A2667C500A9744F = 16D889620A2667C500A9744F;
+			16D889630A2667C500A9744F = 16D889630A2667C500A9744F;
+			16D8896A0A266F1A00A9744F = 16D8896A0A266F1A00A9744F;
+			16D8896B0A266F1A00A9744F = 16D8896B0A266F1A00A9744F;
+			16D889730A2674D800A9744F = 16D889730A2674D800A9744F;
+			16D889800A267BC800A9744F = 16D889800A267BC800A9744F;
+			16D889810A267BC800A9744F = 16D889810A267BC800A9744F;
+			16D889820A267BC800A9744F = 16D889820A267BC800A9744F;
+			16D889830A267BC800A9744F = 16D889830A267BC800A9744F;
+			16D889840A267BC800A9744F = 16D889840A267BC800A9744F;
+			16D889850A267BC800A9744F = 16D889850A267BC800A9744F;
+			16D889870A26A86000A9744F = 16D889870A26A86000A9744F;
+			16DD363009FECFB3008D3B50 = 16DD363009FECFB3008D3B50;
+			16F829AC0A22AC70008CE853 = 16F829AC0A22AC70008CE853;
+			16F829B50A22AC70008CE853 = 16F829B50A22AC70008CE853;
+			16F829B60A22AC70008CE853 = 16F829B60A22AC70008CE853;
+		};
+		sourceControlManager = 16581F9B09E5EA82008BEBCB;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1140, 586}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {1140, 586}}";
+		};
+	};
+	29B97326FDCFA39411CA2CEA = {
+		activeExec = 0;
+		executables = (
+			16581F9009E5EA7B008BEBCB,
+		);
+	};
+	F46E1F0103381E6001A8070A = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1140, 548}}";
+			sepNavSelRange = "{773, 0}";
+			sepNavVisRect = "{{0, 0}, {1140, 548}}";
+		};
+	};
+	F46E1F0203381E6001A8070A = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1140, 3654}}";
+			sepNavSelRange = "{352, 0}";
+			sepNavVisRect = "{{0, 1866}, {1140, 548}}";
+			sepNavWindowFrame = "{{84, 252}, {750, 558}}";
+		};
+	};
+	F46E1F0503381F1201A8070A = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1140, 1302}}";
+			sepNavSelRange = "{1311, 0}";
+			sepNavVisRect = "{{0, 726}, {1140, 548}}";
+			sepNavWindowFrame = "{{15, 315}, {750, 558}}";
+		};
+	};
+	F46E1F0603381F1201A8070A = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1140, 6818}}";
+			sepNavSelRange = "{10059, 0}";
+			sepNavVisRect = "{{0, 5304}, {1140, 548}}";
+		};
+	};
+}
