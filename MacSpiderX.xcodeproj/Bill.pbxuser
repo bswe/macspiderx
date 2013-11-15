@@ -126,14 +126,14 @@
 	};
 	29B97313FDCFA39411CA2CEA /* Project object */ = {
 		activeBuildConfigurationName = Development;
-		activeExecutable = A9CA207E182479DA004B70C5 /* MacSpiderX (Upgraded) */;
-		activeTarget = A986FCA718233B3100F1EBDA /* MacSpiderX (Upgraded) */;
+		activeExecutable = A9CA207E182479DA004B70C5 /* MacSpiderX */;
+		activeTarget = A986FCA718233B3100F1EBDA /* MacSpiderX */;
 		breakpoints = (
 			A955B823182722E0005B05B0 /* mouse.mm:56 */,
 		);
 		codeSenseManager = A986FC961823380F00F1EBDA /* Code sense */;
 		executables = (
-			A9CA207E182479DA004B70C5 /* MacSpiderX (Upgraded) */,
+			A9CA207E182479DA004B70C5 /* MacSpiderX */,
 		);
 		perUserDictionary = {
 			PBXConfiguration.PBXFileTableDataSource3.PBXBookmarksDataSource = {
@@ -156,7 +156,7 @@
 				PBXFileTableDataSourceColumnWidthsKey = (
 					22,
 					300,
-					944,
+					1022,
 				);
 				PBXFileTableDataSourceColumnsKey = (
 					PBXExecutablesDataSource_ActiveFlagID,
@@ -231,7 +231,7 @@
 				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
 				PBXFileTableDataSourceColumnWidthsKey = (
 					20,
-					1016,
+					1094,
 					60,
 					20,
 					48,
@@ -248,13 +248,13 @@
 					PBXFileDataSource_Warnings_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 406226994;
-			PBXWorkspaceStateSaveDate = 406226994;
+			PBXPerProjectTemplateStateSaveDate = 406228802;
+			PBXWorkspaceStateSaveDate = 406228802;
 		};
 		perUserProjectItems = {
 			A908531C1824712100726F34 = A908531C1824712100726F34 /* PlistBookmark */;
 			A908531D1824712100726F34 = A908531D1824712100726F34 /* PBXBookmark */;
-			A918BB081836884100E86D85 /* PBXBookmark */ = A918BB081836884100E86D85 /* PBXBookmark */;
+			A918BB2018368F3200E86D85 = A918BB2018368F3200E86D85 /* PBXTextBookmark */;
 			A955B913182774E5005B05B0 = A955B913182774E5005B05B0 /* PBXTextBookmark */;
 			A955B99118281354005B05B0 = A955B99118281354005B05B0 /* PBXBookmark */;
 			A955B99218281354005B05B0 = A955B99218281354005B05B0 /* PBXBookmark */;
@@ -267,11 +267,9 @@
 			A955BAF71828B1E4005B05B0 = A955BAF71828B1E4005B05B0 /* PBXTextBookmark */;
 			A955BAF81828B1E4005B05B0 = A955BAF81828B1E4005B05B0 /* PBXTextBookmark */;
 			A955BAFE1828B256005B05B0 = A955BAFE1828B256005B05B0 /* PBXTextBookmark */;
+			A959080018368F6900655CA2 /* PBXTextBookmark */ = A959080018368F6900655CA2 /* PBXTextBookmark */;
 			A95A0CE118247D860036BEEA = A95A0CE118247D860036BEEA /* PBXTextBookmark */;
-			A965B8DF1835B3C300F59274 = A965B8DF1835B3C300F59274 /* PBXBookmark */;
 			A9BA21001835A4CE00E6E207 = A9BA21001835A4CE00E6E207 /* PBXTextBookmark */;
-			A9BA21021835A4CE00E6E207 = A9BA21021835A4CE00E6E207 /* PBXBookmark */;
-			A9BA211A1835A5FE00E6E207 = A9BA211A1835A5FE00E6E207 /* PBXBookmark */;
 		};
 		sourceControlManager = A986FC951823380F00F1EBDA /* Source Control */;
 		userBuildSettings = {
@@ -287,7 +285,7 @@
 	};
 	A908531C1824712100726F34 /* PlistBookmark */ = {
 		isa = PlistBookmark;
-		fRef = A986FD1518233B3100F1EBDA /* Info-MacSpiderX__Upgraded_.plist */;
+		fRef = A986FD1518233B3100F1EBDA /* Info-MacSpiderX.plist */;
 		fallbackIsa = PBXBookmark;
 		isK = 0;
 		kPath = (
@@ -300,9 +298,15 @@
 		isa = PBXBookmark;
 		fRef = 16F829990A227F48008CE853 /* empty.png */;
 	};
-	A918BB081836884100E86D85 /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = 164A3FB109FD7D2000A131D4 /* icon.icns */;
+	A918BB2018368F3200E86D85 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F46E1F0503381F1201A8070A /* opengl_t.h */;
+		name = "opengl_t.h: 18";
+		rLen = 0;
+		rLoc = 533;
+		rType = 0;
+		vrLen = 1031;
+		vrLoc = 0;
 	};
 	A955B823182722E0005B05B0 /* mouse.mm:56 */ = {
 		isa = PBXFileBreakpoint;
@@ -420,6 +424,16 @@
 		vrLen = 1625;
 		vrLoc = 11762;
 	};
+	A959080018368F6900655CA2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F46E1F0503381F1201A8070A /* opengl_t.h */;
+		name = "opengl_t.h: 18";
+		rLen = 0;
+		rLoc = 533;
+		rType = 0;
+		vrLen = 1031;
+		vrLoc = 0;
+	};
 	A95A0CE118247D860036BEEA /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
@@ -429,10 +443,6 @@
 		rType = 0;
 		vrLen = 124;
 		vrLoc = 0;
-	};
-	A965B8DF1835B3C300F59274 /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = 164A3FB109FD7D2000A131D4 /* icon.icns */;
 	};
 	A986FC951823380F00F1EBDA /* Source Control */ = {
 		isa = PBXSourceControlManager;
@@ -448,13 +458,13 @@
 		isa = PBXCodeSenseManager;
 		indexTemplatePath = "";
 	};
-	A986FCA718233B3100F1EBDA /* MacSpiderX (Upgraded) */ = {
+	A986FCA718233B3100F1EBDA /* MacSpiderX */ = {
 		activeExec = 0;
 		executables = (
-			A9CA207E182479DA004B70C5 /* MacSpiderX (Upgraded) */,
+			A9CA207E182479DA004B70C5 /* MacSpiderX */,
 		);
 	};
-	A986FD1518233B3100F1EBDA /* Info-MacSpiderX__Upgraded_.plist */ = {
+	A986FD1518233B3100F1EBDA /* Info-MacSpiderX.plist */ = {
 		uiCtxt = {
 			sepNavWindowFrame = "{{15, 4}, {1491, 1174}}";
 		};
@@ -469,15 +479,7 @@
 		vrLen = 1226;
 		vrLoc = 0;
 	};
-	A9BA21021835A4CE00E6E207 /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = 164A3FB109FD7D2000A131D4 /* icon.icns */;
-	};
-	A9BA211A1835A5FE00E6E207 /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = 164A3FB109FD7D2000A131D4 /* icon.icns */;
-	};
-	A9CA207E182479DA004B70C5 /* MacSpiderX (Upgraded) */ = {
+	A9CA207E182479DA004B70C5 /* MacSpiderX */ = {
 		isa = PBXExecutable;
 		activeArgIndices = (
 		);
@@ -500,7 +502,7 @@
 		executableSystemSymbolLevel = 0;
 		executableUserSymbolLevel = 0;
 		libgmallocEnabled = 0;
-		name = "MacSpiderX (Upgraded)";
+		name = MacSpiderX;
 		savedGlobals = {
 		};
 		showTypeColumn = 0;
@@ -527,9 +529,9 @@
 	};
 	F46E1F0503381F1201A8070A /* opengl_t.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1312, 1872}}";
+			sepNavIntBoundsRect = "{{0, 0}, {1312, 1888}}";
 			sepNavSelRange = "{533, 0}";
-			sepNavVisRange = "{0, 1226}";
+			sepNavVisRange = "{0, 1031}";
 			sepNavWindowFrame = "{{15, 4}, {1491, 1174}}";
 		};
 	};

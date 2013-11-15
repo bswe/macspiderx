@@ -209,7 +209,7 @@
 		29B97319FDCFA39411CA2CEA /* English */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = English; path = English.lproj/MainMenu.nib; sourceTree = "<group>"; };
 		29B97324FDCFA39411CA2CEA /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = /System/Library/Frameworks/AppKit.framework; sourceTree = "<absolute>"; };
 		29B97325FDCFA39411CA2CEA /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = /System/Library/Frameworks/Foundation.framework; sourceTree = "<absolute>"; };
-		A986FD1518233B3100F1EBDA /* Info-MacSpiderX__Upgraded_.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Info-MacSpiderX__Upgraded_.plist"; sourceTree = "<group>"; };
+		A986FD1518233B3100F1EBDA /* Info-MacSpiderX.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Info-MacSpiderX.plist"; sourceTree = "<group>"; };
 		A9CA207D182479DA004B70C5 /* MacSpiderX.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MacSpiderX.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F46E1EFE03381DED01A8070A /* OpenGL.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGL.framework; path = /System/Library/Frameworks/OpenGL.framework; sourceTree = "<absolute>"; };
 		F46E1F0103381E6001A8070A /* window_t.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = window_t.h; sourceTree = "<group>"; };
@@ -378,7 +378,7 @@
 				29B97317FDCFA39411CA2CEA /* Resources */,
 				29B97323FDCFA39411CA2CEA /* Frameworks */,
 				19C28FACFE9D520D11CA2CBB /* Products */,
-				A986FD1518233B3100F1EBDA /* Info-MacSpiderX__Upgraded_.plist */,
+				A986FD1518233B3100F1EBDA /* Info-MacSpiderX.plist */,
 			);
 			name = Lesson33_OSXCocoa;
 			sourceTree = "<group>";
@@ -430,9 +430,9 @@
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		A986FCA718233B3100F1EBDA /* MacSpiderX (Upgraded) */ = {
+		A986FCA718233B3100F1EBDA /* MacSpiderX */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A986FD1118233B3100F1EBDA /* Build configuration list for PBXNativeTarget "MacSpiderX (Upgraded)" */;
+			buildConfigurationList = A986FD1118233B3100F1EBDA /* Build configuration list for PBXNativeTarget "MacSpiderX" */;
 			buildPhases = (
 				A986FCA818233B3100F1EBDA /* Headers */,
 				A986FCAB18233B3100F1EBDA /* Resources */,
@@ -443,7 +443,7 @@
 			);
 			dependencies = (
 			);
-			name = "MacSpiderX (Upgraded)";
+			name = MacSpiderX;
 			productInstallPath = "$(HOME)/Applications";
 			productName = Lesson33_OSXCocoa;
 			productReference = A9CA207D182479DA004B70C5 /* MacSpiderX.app */;
@@ -468,7 +468,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				A986FCA718233B3100F1EBDA /* MacSpiderX (Upgraded) */,
+				A986FCA718233B3100F1EBDA /* MacSpiderX */,
 			);
 		};
 /* End PBXProject section */
@@ -639,7 +639,7 @@
 				GCC_OPTIMIZATION_LEVEL = 0;
 				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
 				HEADER_SEARCH_PATHS = "";
-				INFOPLIST_FILE = "Info-MacSpiderX__Upgraded_.plist";
+				INFOPLIST_FILE = "Info-MacSpiderX.plist";
 				INSTALL_PATH = "$(HOME)/Applications";
 				LIBRARY_SEARCH_PATHS = "";
 				OTHER_CFLAGS = "";
@@ -664,7 +664,7 @@
 				GCC_ENABLE_FIX_AND_CONTINUE = NO;
 				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
 				HEADER_SEARCH_PATHS = "";
-				INFOPLIST_FILE = "Info-MacSpiderX__Upgraded_.plist";
+				INFOPLIST_FILE = "Info-MacSpiderX.plist";
 				INSTALL_PATH = "$(HOME)/Applications";
 				LIBRARY_SEARCH_PATHS = "";
 				OTHER_CFLAGS = "";
@@ -687,7 +687,7 @@
 				FRAMEWORK_SEARCH_PATHS = "";
 				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
 				HEADER_SEARCH_PATHS = "";
-				INFOPLIST_FILE = "Info-MacSpiderX__Upgraded_.plist";
+				INFOPLIST_FILE = "Info-MacSpiderX.plist";
 				INSTALL_PATH = "$(HOME)/Applications";
 				LIBRARY_SEARCH_PATHS = "";
 				OTHER_CFLAGS = "";
@@ -716,7 +716,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Default;
 		};
-		A986FD1118233B3100F1EBDA /* Build configuration list for PBXNativeTarget "MacSpiderX (Upgraded)" */ = {
+		A986FD1118233B3100F1EBDA /* Build configuration list for PBXNativeTarget "MacSpiderX" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A986FD1218233B3100F1EBDA /* Development */,

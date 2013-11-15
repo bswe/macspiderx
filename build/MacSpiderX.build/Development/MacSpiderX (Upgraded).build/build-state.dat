@@ -1,7 +1,7 @@
 TMacSpiderX (Upgraded)
 v7
 r0
-t406227027.542164
+t406228721.491837
 cCheck dependencies
 cProcessInfoPlistFile /Users/Bill/WorkSpace/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Info.plist Info-MacSpiderX__Upgraded_.plist
 cStripNIB /Users/Bill/WorkSpace/macspiderx-src-1.0/English.lproj/MainMenu.nib
@@ -1397,7 +1397,7 @@ t1383615433
 s136
 
 N/Users/Bill/WorkSpace/macspiderx-src-1.0/build/Development/MacSpiderX.app
-t1384534227
+t1384535921
 s102
 
 N/Users/Bill/WorkSpace/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Info.plist
@@ -1685,31 +1685,31 @@ t1384534203
 s3699
 
 N/Users/Bill/WorkSpace/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/back1-sm.png
-t1384534227
+t1384535921
 s9283
 
 N/Users/Bill/WorkSpace/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/back1.png
-t1384534227
+t1384535921
 s9806
 
 N/Users/Bill/WorkSpace/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/back2-sm.png
-t1384534227
+t1384535921
 s11156
 
 N/Users/Bill/WorkSpace/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/back2.png
-t1384534227
+t1384535921
 s12913
 
 N/Users/Bill/WorkSpace/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/back3-sm.png
-t1384534227
+t1384535921
 s7680
 
 N/Users/Bill/WorkSpace/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/back3.png
-t1384534227
+t1384535921
 s8071
 
 N/Users/Bill/WorkSpace/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/back4-sm.png
-t1384534227
+t1384535921
 s8169
 
 N/Users/Bill/WorkSpace/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/back4.png
@@ -1717,8 +1717,8 @@ t1384534203
 s8465
 
 N/Users/Bill/WorkSpace/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/empty.png
-t1384534227
-s4628
+t1384535921
+s4443
 
 N/Users/Bill/WorkSpace/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/empty_x.png
 t1384534203
@@ -2272,6 +2272,11 @@ t1383589737
 s6911
 i"window_t.h"
 
+NInfo-MacSpiderX.plist
+c000000005274383900000000000002C1
+t1383348281
+s705
+
 NInfo-MacSpiderX__Upgraded_.plist
 c000000005274383900000000000002C1
 t1383348281
@@ -2279,7 +2284,7 @@ s705
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies406227027#406227027#0(1276"[WARN]Warning: Multiple build commands for output file /Users/Bill/WorkSpace/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/back1-sm.png[WARN]Warning: Multiple build commands for output file /Users/Bill/WorkSpace/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/back1.png[WARN]Warning: Multiple build commands for output file /Users/Bill/WorkSpace/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/back2-sm.png[WARN]Warning: Multiple build commands for output file /Users/Bill/WorkSpace/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/back2.png[WARN]Warning: Multiple build commands for output file /Users/Bill/WorkSpace/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/back3-sm.png[WARN]Warning: Multiple build commands for output file /Users/Bill/WorkSpace/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/back3.png[WARN]Warning: Multiple build commands for output file /Users/Bill/WorkSpace/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/back4-sm.png[WARN]Warning: Multiple build commands for output file /Users/Bill/WorkSpace/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/empty.png8(22@154"Warning: Multiple build commands for output file /Users/Bill/WorkSpace/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/back1-sm.png406227027#18446744073709551615#0#0(1@0"0(22@151"Warning: Multiple build commands for output file /Users/Bill/WorkSpace/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/back1.png406227027#18446744073709551615#0#0(1@0"0(22@154"Warning: Multiple build commands for output file /Users/Bill/WorkSpace/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/back2-sm.png406227027#18446744073709551615#0#0(1@0"0(22@151"Warning: Multiple build commands for output file /Users/Bill/WorkSpace/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/back2.png406227027#18446744073709551615#0#0(1@0"0(22@154"Warning: Multiple build commands for output file /Users/Bill/WorkSpace/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/back3-sm.png406227027#18446744073709551615#0#0(1@0"0(22@151"Warning: Multiple build commands for output file /Users/Bill/WorkSpace/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/back3.png406227027#18446744073709551615#0#0(1@0"0(22@154"Warning: Multiple build commands for output file /Users/Bill/WorkSpace/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/back4-sm.png406227027#18446744073709551615#0#0(1@0"0(22@151"Warning: Multiple build commands for output file /Users/Bill/WorkSpace/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/empty.png406227027#18446744073709551615#0#0(1@0"0(0#1#0"2335244403110598656#0"0#
+lSLF07#2@18"Check dependencies406228721#406228721#0(1276"[WARN]Warning: Multiple build commands for output file /Users/Bill/WorkSpace/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/back1-sm.png[WARN]Warning: Multiple build commands for output file /Users/Bill/WorkSpace/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/back1.png[WARN]Warning: Multiple build commands for output file /Users/Bill/WorkSpace/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/back2-sm.png[WARN]Warning: Multiple build commands for output file /Users/Bill/WorkSpace/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/back2.png[WARN]Warning: Multiple build commands for output file /Users/Bill/WorkSpace/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/back3-sm.png[WARN]Warning: Multiple build commands for output file /Users/Bill/WorkSpace/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/back3.png[WARN]Warning: Multiple build commands for output file /Users/Bill/WorkSpace/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/back4-sm.png[WARN]Warning: Multiple build commands for output file /Users/Bill/WorkSpace/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/empty.png8(22@154"Warning: Multiple build commands for output file /Users/Bill/WorkSpace/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/back1-sm.png406228721#18446744073709551615#0#0(1@0"0(22@151"Warning: Multiple build commands for output file /Users/Bill/WorkSpace/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/back1.png406228721#18446744073709551615#0#0(1@0"0(22@154"Warning: Multiple build commands for output file /Users/Bill/WorkSpace/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/back2-sm.png406228721#18446744073709551615#0#0(1@0"0(22@151"Warning: Multiple build commands for output file /Users/Bill/WorkSpace/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/back2.png406228721#18446744073709551615#0#0(1@0"0(22@154"Warning: Multiple build commands for output file /Users/Bill/WorkSpace/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/back3-sm.png406228721#18446744073709551615#0#0(1@0"0(22@151"Warning: Multiple build commands for output file /Users/Bill/WorkSpace/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/back3.png406228721#18446744073709551615#0#0(1@0"0(22@154"Warning: Multiple build commands for output file /Users/Bill/WorkSpace/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/back4-sm.png406228721#18446744073709551615#0#0(1@0"0(22@151"Warning: Multiple build commands for output file /Users/Bill/WorkSpace/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources/empty.png406228721#18446744073709551615#0#0(1@0"0(0#1#0"8605580096#0"0#
 
 CCompileC "build/MacSpiderX.build/Development/MacSpiderX (Upgraded).build/Objects-normal/i386/main.o" /Users/Bill/Downloads/macspiderx-src-1.0/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s406172604.954522
@@ -3824,13 +3829,13 @@ xcards/b2pt.png
 lSLF07#2@19"Copy cards/b2pt.png406227003#406227003#0(0"0(0#0#55"/Users/Bill/WorkSpace/macspiderx-src-1.0/cards/b2pt.png8600338976#359"    cd /Users/Bill/WorkSpace/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/WorkSpace/macspiderx-src-1.0/cards/b2pt.png /Users/Bill/WorkSpace/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
 
 CCpResource build/Development/MacSpiderX.app/Contents/Resources/back1-sm.png cards/back1-sm.png
-s406227003.153070
-e406227003.165529
+s406228721.409466
+e406228721.468038
 r1
 xCpResource
 xbuild/Development/MacSpiderX.app/Contents/Resources/back1-sm.png
 xcards/back1-sm.png
-lSLF07#2@23"Copy cards/back1-sm.png406227003#406227003#0(0"0(0#0#59"/Users/Bill/WorkSpace/macspiderx-src-1.0/cards/back1-sm.png8605295968#363"    cd /Users/Bill/WorkSpace/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/WorkSpace/macspiderx-src-1.0/cards/back1-sm.png /Users/Bill/WorkSpace/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+lSLF07#2@23"Copy cards/back1-sm.png406228721#406228721#0(0"0(0#0#59"/Users/Bill/WorkSpace/macspiderx-src-1.0/cards/back1-sm.png8603909984#363"    cd /Users/Bill/WorkSpace/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/WorkSpace/macspiderx-src-1.0/cards/back1-sm.png /Users/Bill/WorkSpace/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
 
 CCpResource build/Development/MacSpiderX.app/Contents/Resources/back1-sm.png decks/back1-sm.png
 s406227027.502558
@@ -3851,13 +3856,13 @@ xcards/back1.png
 lSLF07#2@20"Copy cards/back1.png406227027#406227027#0(0"0(0#0#56"/Users/Bill/WorkSpace/macspiderx-src-1.0/cards/back1.png8605067328#360"    cd /Users/Bill/WorkSpace/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/WorkSpace/macspiderx-src-1.0/cards/back1.png /Users/Bill/WorkSpace/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
 
 CCpResource build/Development/MacSpiderX.app/Contents/Resources/back1.png decks/back1.png
-s406227003.158773
-e406227003.170441
+s406228721.421700
+e406228721.472232
 r1
 xCpResource
 xbuild/Development/MacSpiderX.app/Contents/Resources/back1.png
 xdecks/back1.png
-lSLF07#2@20"Copy decks/back1.png406227003#406227003#0(0"0(0#0#56"/Users/Bill/WorkSpace/macspiderx-src-1.0/decks/back1.png8603708320#360"    cd /Users/Bill/WorkSpace/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/WorkSpace/macspiderx-src-1.0/decks/back1.png /Users/Bill/WorkSpace/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+lSLF07#2@20"Copy decks/back1.png406228721#406228721#0(0"0(0#0#56"/Users/Bill/WorkSpace/macspiderx-src-1.0/decks/back1.png8603868704#360"    cd /Users/Bill/WorkSpace/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/WorkSpace/macspiderx-src-1.0/decks/back1.png /Users/Bill/WorkSpace/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
 
 CCpResource build/Development/MacSpiderX.app/Contents/Resources/back2-sm.png cards/back2-sm.png
 s406227027.503875
@@ -3869,22 +3874,22 @@ xcards/back2-sm.png
 lSLF07#2@23"Copy cards/back2-sm.png406227027#406227027#0(0"0(0#0#59"/Users/Bill/WorkSpace/macspiderx-src-1.0/cards/back2-sm.png8604976544#363"    cd /Users/Bill/WorkSpace/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/WorkSpace/macspiderx-src-1.0/cards/back2-sm.png /Users/Bill/WorkSpace/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
 
 CCpResource build/Development/MacSpiderX.app/Contents/Resources/back2-sm.png decks/back2-sm.png
-s406227003.163763
-e406227003.190745
+s406228721.422444
+e406228721.470790
 r1
 xCpResource
 xbuild/Development/MacSpiderX.app/Contents/Resources/back2-sm.png
 xdecks/back2-sm.png
-lSLF07#2@23"Copy decks/back2-sm.png406227003#406227003#0(0"0(0#0#59"/Users/Bill/WorkSpace/macspiderx-src-1.0/decks/back2-sm.png8601116384#363"    cd /Users/Bill/WorkSpace/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/WorkSpace/macspiderx-src-1.0/decks/back2-sm.png /Users/Bill/WorkSpace/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+lSLF07#2@23"Copy decks/back2-sm.png406228721#406228721#0(0"0(0#0#59"/Users/Bill/WorkSpace/macspiderx-src-1.0/decks/back2-sm.png8603658336#363"    cd /Users/Bill/WorkSpace/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/WorkSpace/macspiderx-src-1.0/decks/back2-sm.png /Users/Bill/WorkSpace/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
 
 CCpResource build/Development/MacSpiderX.app/Contents/Resources/back2.png cards/back2.png
-s406227003.164620
-e406227003.184961
+s406228721.423018
+e406228721.471128
 r1
 xCpResource
 xbuild/Development/MacSpiderX.app/Contents/Resources/back2.png
 xcards/back2.png
-lSLF07#2@20"Copy cards/back2.png406227003#406227003#0(0"0(0#0#56"/Users/Bill/WorkSpace/macspiderx-src-1.0/cards/back2.png8600632320#360"    cd /Users/Bill/WorkSpace/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/WorkSpace/macspiderx-src-1.0/cards/back2.png /Users/Bill/WorkSpace/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+lSLF07#2@20"Copy cards/back2.png406228721#406228721#0(0"0(0#0#56"/Users/Bill/WorkSpace/macspiderx-src-1.0/cards/back2.png8603513792#360"    cd /Users/Bill/WorkSpace/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/WorkSpace/macspiderx-src-1.0/cards/back2.png /Users/Bill/WorkSpace/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
 
 CCpResource build/Development/MacSpiderX.app/Contents/Resources/back2.png decks/back2.png
 s406227027.504626
@@ -3896,13 +3901,13 @@ xdecks/back2.png
 lSLF07#2@20"Copy decks/back2.png406227027#406227027#0(0"0(0#0#56"/Users/Bill/WorkSpace/macspiderx-src-1.0/decks/back2.png8604909248#360"    cd /Users/Bill/WorkSpace/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/WorkSpace/macspiderx-src-1.0/decks/back2.png /Users/Bill/WorkSpace/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
 
 CCpResource build/Development/MacSpiderX.app/Contents/Resources/back3-sm.png cards/back3-sm.png
-s406227003.166209
-e406227003.191346
+s406228721.423753
+e406228721.473205
 r1
 xCpResource
 xbuild/Development/MacSpiderX.app/Contents/Resources/back3-sm.png
 xcards/back3-sm.png
-lSLF07#2@23"Copy cards/back3-sm.png406227003#406227003#0(0"0(0#0#59"/Users/Bill/WorkSpace/macspiderx-src-1.0/cards/back3-sm.png8605416064#363"    cd /Users/Bill/WorkSpace/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/WorkSpace/macspiderx-src-1.0/cards/back3-sm.png /Users/Bill/WorkSpace/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+lSLF07#2@23"Copy cards/back3-sm.png406228721#406228721#0(0"0(0#0#59"/Users/Bill/WorkSpace/macspiderx-src-1.0/cards/back3-sm.png8603215008#363"    cd /Users/Bill/WorkSpace/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/WorkSpace/macspiderx-src-1.0/cards/back3-sm.png /Users/Bill/WorkSpace/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
 
 CCpResource build/Development/MacSpiderX.app/Contents/Resources/back3-sm.png decks/back3-sm.png
 s406227027.505331
@@ -3914,13 +3919,13 @@ xdecks/back3-sm.png
 lSLF07#2@23"Copy decks/back3-sm.png406227027#406227027#0(0"0(0#0#59"/Users/Bill/WorkSpace/macspiderx-src-1.0/decks/back3-sm.png8604780256#363"    cd /Users/Bill/WorkSpace/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/WorkSpace/macspiderx-src-1.0/decks/back3-sm.png /Users/Bill/WorkSpace/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
 
 CCpResource build/Development/MacSpiderX.app/Contents/Resources/back3.png cards/back3.png
-s406227003.169420
-e406227003.191054
+s406228721.425345
+e406228721.471511
 r1
 xCpResource
 xbuild/Development/MacSpiderX.app/Contents/Resources/back3.png
 xcards/back3.png
-lSLF07#2@20"Copy cards/back3.png406227003#406227003#0(0"0(0#0#56"/Users/Bill/WorkSpace/macspiderx-src-1.0/cards/back3.png8600932928#360"    cd /Users/Bill/WorkSpace/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/WorkSpace/macspiderx-src-1.0/cards/back3.png /Users/Bill/WorkSpace/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+lSLF07#2@20"Copy cards/back3.png406228721#406228721#0(0"0(0#0#56"/Users/Bill/WorkSpace/macspiderx-src-1.0/cards/back3.png8603038400#360"    cd /Users/Bill/WorkSpace/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/WorkSpace/macspiderx-src-1.0/cards/back3.png /Users/Bill/WorkSpace/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
 
 CCpResource build/Development/MacSpiderX.app/Contents/Resources/back3.png decks/back3.png
 s406227027.506007
@@ -3941,13 +3946,13 @@ xcards/back4-sm.png
 lSLF07#2@23"Copy cards/back4-sm.png406227027#406227027#0(0"0(0#0#59"/Users/Bill/WorkSpace/macspiderx-src-1.0/cards/back4-sm.png8604432608#363"    cd /Users/Bill/WorkSpace/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/WorkSpace/macspiderx-src-1.0/cards/back4-sm.png /Users/Bill/WorkSpace/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
 
 CCpResource build/Development/MacSpiderX.app/Contents/Resources/back4-sm.png decks/back4-sm.png
-s406227003.185061
-e406227003.214199
+s406228721.426176
+e406228721.471705
 r1
 xCpResource
 xbuild/Development/MacSpiderX.app/Contents/Resources/back4-sm.png
 xdecks/back4-sm.png
-lSLF07#2@23"Copy decks/back4-sm.png406227003#406227003#0(0"0(0#0#59"/Users/Bill/WorkSpace/macspiderx-src-1.0/decks/back4-sm.png8607361504#363"    cd /Users/Bill/WorkSpace/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/WorkSpace/macspiderx-src-1.0/decks/back4-sm.png /Users/Bill/WorkSpace/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+lSLF07#2@23"Copy decks/back4-sm.png406228721#406228721#0(0"0(0#0#59"/Users/Bill/WorkSpace/macspiderx-src-1.0/decks/back4-sm.png8600830880#363"    cd /Users/Bill/WorkSpace/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/WorkSpace/macspiderx-src-1.0/decks/back4-sm.png /Users/Bill/WorkSpace/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
 
 CCpResource build/Development/MacSpiderX.app/Contents/Resources/back4.png cards/back4.png
 s406227003.186193
@@ -3968,13 +3973,13 @@ xcards/empty.png
 lSLF07#2@20"Copy cards/empty.png406227027#406227027#0(0"0(0#0#56"/Users/Bill/WorkSpace/macspiderx-src-1.0/cards/empty.png8604193632#360"    cd /Users/Bill/WorkSpace/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/WorkSpace/macspiderx-src-1.0/cards/empty.png /Users/Bill/WorkSpace/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
 
 CCpResource build/Development/MacSpiderX.app/Contents/Resources/empty.png empty.png
-s406227003.191763
-e406227003.253698
+s406228721.426969
+e406228721.468313
 r1
 xCpResource
 xbuild/Development/MacSpiderX.app/Contents/Resources/empty.png
 xempty.png
-lSLF07#2@14"Copy empty.png406227003#406227003#0(0"0(0#0#50"/Users/Bill/WorkSpace/macspiderx-src-1.0/empty.png8606972096#354"    cd /Users/Bill/WorkSpace/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/WorkSpace/macspiderx-src-1.0/empty.png /Users/Bill/WorkSpace/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
+lSLF07#2@14"Copy empty.png406228721#406228721#0(0"0(0#0#50"/Users/Bill/WorkSpace/macspiderx-src-1.0/empty.png8596040224#354"    cd /Users/Bill/WorkSpace/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Bill/WorkSpace/macspiderx-src-1.0/empty.png /Users/Bill/WorkSpace/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Resources0#
 
 CCpResource build/Development/MacSpiderX.app/Contents/Resources/empty_x.png empty_x.png
 s406227003.256051
@@ -4096,6 +4101,9 @@ x/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Conte
 xInfo-MacSpiderX__Upgraded_.plist
 lSLF07#2@40"Process Info-MacSpiderX__Upgraded_.plist406172604#406172604#0(0"0(0#0#73"/Users/Bill/Downloads/macspiderx-src-1.0/Info-MacSpiderX__Upgraded_.plist8610265088#348"    cd /Users/Bill/Downloads/macspiderx-src-1.0    builtin-infoPlistUtility Info-MacSpiderX__Upgraded_.plist -genpkginfo /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Info.plist0#
 
+CProcessInfoPlistFile /Users/Bill/WorkSpace/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Info.plist Info-MacSpiderX.plist
+r0
+
 CProcessInfoPlistFile /Users/Bill/WorkSpace/macspiderx-src-1.0/build/Development/MacSpiderX.app/Contents/Info.plist Info-MacSpiderX__Upgraded_.plist
 s406227002.779744
 e406227002.861180
@@ -4138,10 +4146,10 @@ x/Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app
 lSLF07#2@79"Touch /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app406172610#406172610#0(0"0(0#0#0"8604011552#144"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /usr/bin/touch -c /Users/Bill/Downloads/macspiderx-src-1.0/build/Development/MacSpiderX.app0#
 
 CTouch /Users/Bill/WorkSpace/macspiderx-src-1.0/build/Development/MacSpiderX.app
-s406227027.536542
-e406227027.542079
+s406228721.473880
+e406228721.491764
 r1
 xTouch
 x/Users/Bill/WorkSpace/macspiderx-src-1.0/build/Development/MacSpiderX.app
-lSLF07#2@79"Touch /Users/Bill/WorkSpace/macspiderx-src-1.0/build/Development/MacSpiderX.app406227027#406227027#0(0"0(0#0#0"8603605888#144"    cd /Users/Bill/WorkSpace/macspiderx-src-1.0    /usr/bin/touch -c /Users/Bill/WorkSpace/macspiderx-src-1.0/build/Development/MacSpiderX.app0#
+lSLF07#2@79"Touch /Users/Bill/WorkSpace/macspiderx-src-1.0/build/Development/MacSpiderX.app406228721#406228721#0(0"0(0#0#0"8608254752#144"    cd /Users/Bill/WorkSpace/macspiderx-src-1.0    /usr/bin/touch -c /Users/Bill/WorkSpace/macspiderx-src-1.0/build/Development/MacSpiderX.app0#
 
