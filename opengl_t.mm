@@ -120,6 +120,7 @@ int MyRandom (int i) {
 		// add a dummy card to the Stacks
 		c.suit = 100;
 		c.number = 100;
+		c.faceup = false;
 		Stacks[Stack].push_back(c);
 			
 		if (Stack % 3 == 0)
@@ -314,8 +315,10 @@ int MyRandom (int i) {
 	card->x = _x;
 	card->y = _y;
 	
-	glTranslatef(_x - [self bounds].size.width / 2, _y - [self bounds].size.height / 2, 0.);
-	
+	//std::clog << "draw_card: bounds.size.width=" << [self bounds].size.width << ", bounds.size.height=" << [self bounds].size.height 
+	//          << ", _x=" << _x << ", _y=" << _y << "\n";
+	glTranslatef(_x - [self bounds].size.width/2, _y - [self bounds].size.height/2, 0.);
+
 	if (card->suit == 100) {
 		glPopMatrix();
 		return;
@@ -408,7 +411,7 @@ int MyRandom (int i) {
 	
 	// draw stacks
 	for (int Stack = 0; Stack < NUMBER_OF_STACKS; Stack++) {
-		int offs = (int) [self bounds].size.height - (CARD_HEIGHT + XPAD);
+		int offs = (int) [self bounds].size.height - (CARD_HEIGHT + 2*XPAD);
 		for (int Card = 0; Card < (int) Stacks[Stack].size(); Card++) {
 			[self draw_card:(int) XPAD + Stack*pad y:(int) offs card:&Stacks[Stack][Card]];
 			

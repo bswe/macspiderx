@@ -1,1977 +1,0 @@
-TMacSpiderX (Upgraded)
-v7
-r0
-t406172532.357497
-cCheck dependencies
-cProcessInfoPlistFile /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Info.plist Info-MacSpiderX__Upgraded_.plist
-cStripNIB /Users/Bill/Downloads/macspiderx-src-1.0/English.lproj/MainMenu.nib
-cCopyStringsFile /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/icon.icns icon.icns
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/1.png cards/1.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/10.png cards/10.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/11.png cards/11.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/12.png cards/12.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/13.png cards/13.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/14.png cards/14.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/15.png cards/15.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/16.png cards/16.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/17.png cards/17.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/18.png cards/18.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/19.png cards/19.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/2.png cards/2.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/20.png cards/20.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/21.png cards/21.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/22.png cards/22.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/23.png cards/23.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/24.png cards/24.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/25.png cards/25.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/26.png cards/26.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/27.png cards/27.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/28.png cards/28.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/29.png cards/29.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/3.png cards/3.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/30.png cards/30.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/31.png cards/31.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/32.png cards/32.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/33.png cards/33.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/34.png cards/34.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/35.png cards/35.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/36.png cards/36.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/37.png cards/37.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/38.png cards/38.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/39.png cards/39.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/4.png cards/4.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/40.png cards/40.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/41.png cards/41.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/42.png cards/42.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/43.png cards/43.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/44.png cards/44.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/45.png cards/45.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/46.png cards/46.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/47.png cards/47.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/48.png cards/48.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/49.png cards/49.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/5.png cards/5.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/50.png cards/50.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/51.png cards/51.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/52.png cards/52.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/53.png cards/53.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/54.png cards/54.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/6.png cards/6.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/7.png cards/7.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/8.png cards/8.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/9.png cards/9.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/b1fh.png cards/b1fh.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/b1fv.png cards/b1fv.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/b1pb.png cards/b1pb.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/b1pl.png cards/b1pl.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/b1pr.png cards/b1pr.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/b1pt.png cards/b1pt.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/b2fh.png cards/b2fh.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/b2fv.png cards/b2fv.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/b2pb.png cards/b2pb.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/b2pl.png cards/b2pl.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/b2pr.png cards/b2pr.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/b2pt.png cards/b2pt.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/back1-sm.png cards/back1-sm.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/back1-sm.png decks/back1-sm.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/back1.png cards/back1.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/back1.png decks/back1.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/back2-sm.png cards/back2-sm.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/back2-sm.png decks/back2-sm.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/back2.png cards/back2.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/back2.png decks/back2.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/back3-sm.png cards/back3-sm.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/back3-sm.png decks/back3-sm.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/back3.png cards/back3.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/back3.png decks/back3.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/back4-sm.png cards/back4-sm.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/back4-sm.png decks/back4-sm.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/back4.png cards/back4.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/empty.png cards/empty.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/empty.png empty.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/icon.png cards/icon.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/icon.psd cards/icon.psd
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/icon.tga cards/icon.tga
-cCopyTiffFile /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/icon.tif cards/icon.tif
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/save_top_empty.png cards/save_top_empty.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/top_empty.png top_empty.png
-cCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/empty_x.png empty_x.png
-cCompileC "build/MacSpiderX.build/Deployment/MacSpiderX (Upgraded).build/Objects-normal/i386/main.o" /Users/Bill/Downloads/macspiderx-src-1.0/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC "build/MacSpiderX.build/Deployment/MacSpiderX (Upgraded).build/Objects-normal/i386/window_t.o" /Users/Bill/Downloads/macspiderx-src-1.0/window_t.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
-cCompileC "build/MacSpiderX.build/Deployment/MacSpiderX (Upgraded).build/Objects-normal/i386/opengl_t.o" /Users/Bill/Downloads/macspiderx-src-1.0/opengl_t.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
-cCompileC "build/MacSpiderX.build/Deployment/MacSpiderX (Upgraded).build/Objects-normal/i386/mouse.o" /Users/Bill/Downloads/macspiderx-src-1.0/mouse.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
-cLd /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/MacOS/MacSolitaireX normal i386
-cTouch /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app
-
-N/System/Library/Frameworks/Cocoa.framework/Cocoa
-c000000004A1F2D63000000000000A5E0
-t1243557219
-s42464
-
-N/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
-c0000000040C4AA6800000000000001E5
-t1086630504
-s485
-
-N/System/Library/Frameworks/OpenGL.framework/Headers/OpenGL.h
-c000000004BD2501F0000000000001659
-t1272074271
-s5721
-
-N/System/Library/Frameworks/OpenGL.framework/Headers/gl.h
-c000000004BD2501F0000000000025B59
-t1272074271
-s154457
-
-N/System/Library/Frameworks/OpenGL.framework/Headers/glu.h
-c000000004BD2501F0000000000003F84
-t1272074271
-s16260
-
-N/System/Library/Frameworks/OpenGL.framework/OpenGL
-c000000004EDEBFD00000000000043360
-t1323220944
-s275296
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/English.lproj/InfoPlist.strings
-c00000000527309F100000000000002AA
-t1383270897
-s682
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/English.lproj/MainMenu.nib
-c0000000052784BC90000000000000088
-t1383615433
-s136
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app
-t1384479732
-s102
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Info.plist
-t1384479619
-s1092
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/MacOS/MacSolitaireX
-t1384479623
-s57956
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/PkgInfo
-t1384479619
-s8
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/1.png
-t1384479620
-s3945
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/10.png
-t1384479620
-s6058
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/11.png
-t1384479620
-s5946
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/12.png
-t1384479620
-s5915
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/13.png
-t1384479620
-s5962
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/14.png
-t1384479620
-s5899
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/15.png
-t1384479620
-s5935
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/16.png
-t1384479620
-s5879
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/17.png
-t1384479620
-s4128
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/18.png
-t1384479620
-s4107
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/19.png
-t1384479620
-s4139
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/2.png
-t1384479620
-s4064
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/20.png
-t1384479620
-s4049
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/21.png
-t1384479620
-s4137
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/22.png
-t1384479620
-s4100
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/23.png
-t1384479620
-s4136
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/24.png
-t1384479620
-s4040
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/25.png
-t1384479620
-s4123
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/26.png
-t1384479620
-s4114
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/27.png
-t1384479620
-s4138
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/28.png
-t1384479620
-s4028
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/29.png
-t1384479620
-s4116
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/3.png
-t1384479620
-s3968
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/30.png
-t1384479620
-s4108
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/31.png
-t1384479620
-s4115
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/32.png
-t1384479620
-s4016
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/33.png
-t1384479620
-s4039
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/34.png
-t1384479620
-s4039
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/35.png
-t1384479620
-s4058
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/36.png
-t1384479620
-s3983
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/37.png
-t1384479620
-s4062
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/38.png
-t1384479620
-s4056
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/39.png
-t1384479620
-s4082
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/4.png
-t1384479620
-s3892
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/40.png
-t1384479620
-s3979
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/41.png
-t1384479620
-s4006
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/42.png
-t1384479620
-s4010
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/43.png
-t1384479620
-s4013
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/44.png
-t1384479620
-s3939
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/45.png
-t1384479620
-s4017
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/46.png
-t1384479620
-s4010
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/47.png
-t1384479620
-s4009
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/48.png
-t1384479620
-s3938
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/49.png
-t1384479620
-s3972
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/5.png
-t1384479620
-s5862
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/50.png
-t1384479620
-s3975
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/51.png
-t1384479620
-s3995
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/52.png
-t1384479620
-s3914
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/53.png
-t1384479620
-s4910
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/54.png
-t1384479620
-s4929
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/6.png
-t1384479620
-s5914
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/7.png
-t1384479620
-s5986
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/8.png
-t1384479620
-s5920
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/9.png
-t1384479620
-s5858
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/English.lproj/InfoPlist.strings
-t1384479620
-s682
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/English.lproj/MainMenu.nib
-t1384479620
-s19766
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/b1fh.png
-t1384479620
-s3730
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/b1fv.png
-t1384479620
-s3731
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/b1pb.png
-t1384479620
-s3708
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/b1pl.png
-t1384479620
-s3721
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/b1pr.png
-t1384479620
-s3726
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/b1pt.png
-t1384479620
-s3699
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/b2fh.png
-t1384479620
-s3730
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/b2fv.png
-t1384479620
-s3731
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/b2pb.png
-t1384479620
-s3708
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/b2pl.png
-t1384479620
-s3721
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/b2pr.png
-t1384479620
-s3726
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/b2pt.png
-t1384479620
-s3699
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/back1-sm.png
-t1384479732
-s9283
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/back1.png
-t1384479732
-s9806
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/back2-sm.png
-t1384479732
-s11156
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/back2.png
-t1384479732
-s12913
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/back3-sm.png
-t1384479732
-s7680
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/back3.png
-t1384479732
-s8071
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/back4-sm.png
-t1384479732
-s8169
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/back4.png
-t1384479620
-s8465
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/empty.png
-t1384479732
-s4443
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/empty_x.png
-t1384479620
-s3960
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/icon.icns
-t1384479619
-s51142
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/icon.png
-t1384479620
-s15620
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/icon.psd
-t1384479620
-s78717
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/icon.tga
-t1384479620
-s65580
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/icon.tif
-t1384479620
-s88984
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/save_top_empty.png
-t1384479620
-s3087
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/top_empty.png
-t1384479620
-s3369
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/MacSpiderX.build/Deployment/MacSpiderX (Upgraded).build/Objects-normal/i386/MacSolitaireX.LinkFileList
-c0000000052857B830000000000000211
-t1384479619
-s529
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/MacSpiderX.build/Deployment/MacSpiderX (Upgraded).build/Objects-normal/i386/main.o
-t1384479622
-s4792
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/MacSpiderX.build/Deployment/MacSpiderX (Upgraded).build/Objects-normal/i386/mouse.o
-t1384479623
-s136548
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/MacSpiderX.build/Deployment/MacSpiderX (Upgraded).build/Objects-normal/i386/opengl_t.o
-t1384479623
-s153280
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/build/MacSpiderX.build/Deployment/MacSpiderX (Upgraded).build/Objects-normal/i386/window_t.o
-t1384479623
-s115600
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/1.png
-c00000000444968570000000000000F69
-t1145661527
-s3945
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/10.png
-c000000004449685900000000000017AA
-t1145661529
-s6058
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/11.png
-c000000004449685A000000000000173A
-t1145661530
-s5946
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/12.png
-c000000004449685C000000000000171B
-t1145661532
-s5915
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/13.png
-c000000004449685D000000000000174A
-t1145661533
-s5962
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/14.png
-c000000004449685F000000000000170B
-t1145661535
-s5899
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/15.png
-c0000000044496860000000000000172F
-t1145661536
-s5935
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/16.png
-c000000004449686300000000000016F7
-t1145661539
-s5879
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/17.png
-c00000000444968640000000000001020
-t1145661540
-s4128
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/18.png
-c0000000044496865000000000000100B
-t1145661541
-s4107
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/19.png
-c0000000044496867000000000000102B
-t1145661543
-s4139
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/2.png
-c00000000444968680000000000000FE0
-t1145661544
-s4064
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/20.png
-c00000000444968690000000000000FD1
-t1145661545
-s4049
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/21.png
-c000000004449686B0000000000001029
-t1145661547
-s4137
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/22.png
-c000000004449686C0000000000001004
-t1145661548
-s4100
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/23.png
-c000000004449686D0000000000001028
-t1145661549
-s4136
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/24.png
-c000000004449686F0000000000000FC8
-t1145661551
-s4040
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/25.png
-c0000000044496870000000000000101B
-t1145661552
-s4123
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/26.png
-c00000000444968710000000000001012
-t1145661553
-s4114
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/27.png
-c0000000044496872000000000000102A
-t1145661554
-s4138
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/28.png
-c00000000444968740000000000000FBC
-t1145661556
-s4028
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/29.png
-c00000000444968750000000000001014
-t1145661557
-s4116
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/3.png
-c00000000444968760000000000000F80
-t1145661558
-s3968
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/30.png
-c0000000044496878000000000000100C
-t1145661560
-s4108
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/31.png
-c00000000444968790000000000001013
-t1145661561
-s4115
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/32.png
-c000000004449687A0000000000000FB0
-t1145661562
-s4016
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/33.png
-c000000004449687B0000000000000FC7
-t1145661563
-s4039
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/34.png
-c000000004449687D0000000000000FC7
-t1145661565
-s4039
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/35.png
-c000000004449687E0000000000000FDA
-t1145661566
-s4058
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/36.png
-c00000000444968800000000000000F8F
-t1145661568
-s3983
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/37.png
-c00000000444968810000000000000FDE
-t1145661569
-s4062
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/38.png
-c00000000444968830000000000000FD8
-t1145661571
-s4056
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/39.png
-c00000000444968840000000000000FF2
-t1145661572
-s4082
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/4.png
-c00000000444968850000000000000F34
-t1145661573
-s3892
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/40.png
-c00000000444968860000000000000F8B
-t1145661574
-s3979
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/41.png
-c00000000444968880000000000000FA6
-t1145661576
-s4006
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/42.png
-c00000000444968890000000000000FAA
-t1145661577
-s4010
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/43.png
-c000000004449688A0000000000000FAD
-t1145661578
-s4013
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/44.png
-c000000004449688C0000000000000F63
-t1145661580
-s3939
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/45.png
-c000000004449688D0000000000000FB1
-t1145661581
-s4017
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/46.png
-c000000004449688F0000000000000FAA
-t1145661583
-s4010
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/47.png
-c00000000444968900000000000000FA9
-t1145661584
-s4009
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/48.png
-c00000000444968910000000000000F62
-t1145661585
-s3938
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/49.png
-c00000000444968920000000000000F84
-t1145661586
-s3972
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/5.png
-c000000004449689400000000000016E6
-t1145661588
-s5862
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/50.png
-c00000000444968950000000000000F87
-t1145661589
-s3975
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/51.png
-c00000000444968960000000000000F9B
-t1145661590
-s3995
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/52.png
-c00000000444968980000000000000F4A
-t1145661592
-s3914
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/53.png
-c0000000044496899000000000000132E
-t1145661593
-s4910
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/54.png
-c000000004449689B0000000000001341
-t1145661595
-s4929
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/6.png
-c000000004449689D000000000000171A
-t1145661597
-s5914
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/7.png
-c000000004449689F0000000000001762
-t1145661599
-s5986
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/8.png
-c00000000444968A00000000000001720
-t1145661600
-s5920
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/9.png
-c00000000444968A200000000000016E2
-t1145661602
-s5858
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/b1fh.png
-c00000000444968A30000000000000E92
-t1145661603
-s3730
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/b1fv.png
-c00000000444968A40000000000000E93
-t1145661604
-s3731
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/b1pb.png
-c00000000444968A60000000000000E7C
-t1145661606
-s3708
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/b1pl.png
-c00000000444968A70000000000000E89
-t1145661607
-s3721
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/b1pr.png
-c00000000444968A80000000000000E8E
-t1145661608
-s3726
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/b1pt.png
-c00000000444968AA0000000000000E73
-t1145661610
-s3699
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/b2fh.png
-c00000000444968AB0000000000000E92
-t1145661611
-s3730
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/b2fv.png
-c00000000444968AC0000000000000E93
-t1145661612
-s3731
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/b2pb.png
-c00000000444968AE0000000000000E7C
-t1145661614
-s3708
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/b2pl.png
-c00000000444968AF0000000000000E89
-t1145661615
-s3721
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/b2pr.png
-c00000000444968B00000000000000E8E
-t1145661616
-s3726
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/b2pt.png
-c00000000444968B20000000000000E73
-t1145661618
-s3699
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/back1-sm.png
-c00000000444C3FD50000000000002443
-t1145847765
-s9283
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/back1.png
-c00000000444C20E9000000000000264E
-t1145839849
-s9806
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/back2-sm.png
-c00000000444C3FA80000000000002B94
-t1145847720
-s11156
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/back2.png
-c00000000444C21030000000000003271
-t1145839875
-s12913
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/back3-sm.png
-c00000000444C3F800000000000001E00
-t1145847680
-s7680
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/back3.png
-c00000000444C21B40000000000001F87
-t1145840052
-s8071
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/back4-sm.png
-c00000000444C3F4B0000000000001FE9
-t1145847627
-s8169
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/back4.png
-c00000000444C3EDD0000000000002111
-t1145847517
-s8465
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/empty.png
-c000000004451712D0000000000001214
-t1146188077
-s4628
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/icon.png
-c00000000444D5A370000000000003D04
-t1145920055
-s15620
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/icon.psd
-c00000000444D46B7000000000001337D
-t1145915063
-s78717
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/icon.tga
-c00000000444D4380000000000001002C
-t1145914240
-s65580
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/icon.tif
-c00000000444D429C0000000000015B98
-t1145914012
-s88984
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/save_top_empty.png
-c000000004451733E0000000000000C0F
-t1146188606
-s3087
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/cards/top_empty.png
-c000000004451733E0000000000000C0F
-t1146188606
-s3087
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/decks/back1-sm.png
-c00000000444C3FD50000000000002443
-t1145847765
-s9283
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/decks/back1.png
-c00000000444C20E9000000000000264E
-t1145839849
-s9806
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/decks/back2-sm.png
-c00000000444C3FA80000000000002B94
-t1145847720
-s11156
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/decks/back2.png
-c00000000444C21030000000000003271
-t1145839875
-s12913
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/decks/back3-sm.png
-c00000000444C3F800000000000001E00
-t1145847680
-s7680
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/decks/back3.png
-c00000000444C21B40000000000001F87
-t1145840052
-s8071
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/decks/back4-sm.png
-c00000000444C3F4B0000000000001FE9
-t1145847627
-s8169
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/empty.png
-c0000000044721E1C000000000000115B
-t1148329500
-s4443
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/empty_x.png
-c0000000044721ED30000000000000F78
-t1148329683
-s3960
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/icon.icns
-c0000000052856C13000000000000C7C6
-t1384475667
-s51142
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/main.m
-c000000003D87E659000000000000007C
-t1032316505
-s124
-i<Cocoa/Cocoa.h>
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/mouse.mm
-c00000000527879B50000000000003AAB
-t1383627189
-s15019
-i"opengl_t.h"
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/opengl_t.h
-c0000000052787AD40000000000000975
-t1383627476
-s2421
-i<Cocoa/Cocoa.h>
-i<OpenGL/OpenGL.h>
-i<OpenGL/gl.h>
-i<OpenGL/glu.h>
-i<vector>
-i<iostream>
-i<algorithm>
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/opengl_t.mm
-c0000000052787A62000000000000344B
-t1383627362
-s13387
-i"opengl_t.h"
-i<ctime>
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/top_empty.png
-c0000000044726D6F0000000000000D29
-t1148349807
-s3369
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/window_t.h
-c000000005276F4C500000000000003C6
-t1383527621
-s966
-i<Cocoa/Cocoa.h>
-i"opengl_t.h"
-
-N/Users/Bill/Downloads/macspiderx-src-1.0/window_t.mm
-c000000005277E7690000000000001AFF
-t1383589737
-s6911
-i"window_t.h"
-
-NInfo-MacSpiderX__Upgraded_.plist
-c000000005274383900000000000002C1
-t1383348281
-s705
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies406172532#406172532#0(1292"[WARN]Warning: Multiple build commands for output file /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/back1-sm.png[WARN]Warning: Multiple build commands for output file /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/back1.png[WARN]Warning: Multiple build commands for output file /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/back2-sm.png[WARN]Warning: Multiple build commands for output file /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/back2.png[WARN]Warning: Multiple build commands for output file /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/back3-sm.png[WARN]Warning: Multiple build commands for output file /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/back3.png[WARN]Warning: Multiple build commands for output file /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/back4-sm.png[WARN]Warning: Multiple build commands for output file /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/empty.png8(22@156"Warning: Multiple build commands for output file /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/back1-sm.png406172532#18446744073709551615#0#0(1@0"0(22@153"Warning: Multiple build commands for output file /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/back1.png406172532#18446744073709551615#0#0(1@0"0(22@156"Warning: Multiple build commands for output file /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/back2-sm.png406172532#18446744073709551615#0#0(1@0"0(22@153"Warning: Multiple build commands for output file /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/back2.png406172532#18446744073709551615#0#0(1@0"0(22@156"Warning: Multiple build commands for output file /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/back3-sm.png406172532#18446744073709551615#0#0(1@0"0(22@153"Warning: Multiple build commands for output file /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/back3.png406172532#18446744073709551615#0#0(1@0"0(22@156"Warning: Multiple build commands for output file /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/back4-sm.png406172532#18446744073709551615#0#0(1@0"0(22@153"Warning: Multiple build commands for output file /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/empty.png406172532#18446744073709551615#0#0(1@0"0(0#1#0"8608408672#0"0#
-
-CCompileC "build/MacSpiderX.build/Deployment/MacSpiderX (Upgraded).build/Objects-normal/i386/main.o" /Users/Bill/Downloads/macspiderx-src-1.0/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s406172420.487916
-e406172422.058026
-r1
-xCompileC
-xbuild/MacSpiderX.build/Deployment/MacSpiderX (Upgraded).build/Objects-normal/i386/main.o
-x/Users/Bill/Downloads/macspiderx-src-1.0/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@55"Compile /Users/Bill/Downloads/macspiderx-src-1.0/main.m406172420#406172422#0(0"0(0#0#47"/Users/Bill/Downloads/macspiderx-src-1.0/main.m8607993952#979"    cd /Users/Bill/Downloads/macspiderx-src-1.0    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -gdwarf-2 "-I/Users/Bill/Downloads/macspiderx-src-1.0/build/MacSpiderX.build/Deployment/MacSpiderX (Upgraded).build/MacSolitaireX.hmap" -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment -I/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/include "-I/Users/Bill/Downloads/macspiderx-src-1.0/build/MacSpiderX.build/Deployment/MacSpiderX (Upgraded).build/DerivedSources/i386" "-I/Users/Bill/Downloads/macspiderx-src-1.0/build/MacSpiderX.build/Deployment/MacSpiderX (Upgraded).build/DerivedSources" -c /Users/Bill/Downloads/macspiderx-src-1.0/main.m -o "/Users/Bill/Downloads/macspiderx-src-1.0/build/MacSpiderX.build/Deployment/MacSpiderX (Upgraded).build/Objects-normal/i386/main.o"0#
-
-CCompileC "build/MacSpiderX.build/Deployment/MacSpiderX (Upgraded).build/Objects-normal/i386/mouse.o" /Users/Bill/Downloads/macspiderx-src-1.0/mouse.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
-s406172420.491275
-e406172423.317438
-r1
-xCompileC
-xbuild/MacSpiderX.build/Deployment/MacSpiderX (Upgraded).build/Objects-normal/i386/mouse.o
-x/Users/Bill/Downloads/macspiderx-src-1.0/mouse.mm
-xnormal
-xi386
-xobjective-c++
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@57"Compile /Users/Bill/Downloads/macspiderx-src-1.0/mouse.mm406172420#406172423#0(0"0(0#0#49"/Users/Bill/Downloads/macspiderx-src-1.0/mouse.mm8607323424#1012"    cd /Users/Bill/Downloads/macspiderx-src-1.0    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -fvisibility-inlines-hidden -gdwarf-2 "-I/Users/Bill/Downloads/macspiderx-src-1.0/build/MacSpiderX.build/Deployment/MacSpiderX (Upgraded).build/MacSolitaireX.hmap" -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment -I/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/include "-I/Users/Bill/Downloads/macspiderx-src-1.0/build/MacSpiderX.build/Deployment/MacSpiderX (Upgraded).build/DerivedSources/i386" "-I/Users/Bill/Downloads/macspiderx-src-1.0/build/MacSpiderX.build/Deployment/MacSpiderX (Upgraded).build/DerivedSources" -c /Users/Bill/Downloads/macspiderx-src-1.0/mouse.mm -o "/Users/Bill/Downloads/macspiderx-src-1.0/build/MacSpiderX.build/Deployment/MacSpiderX (Upgraded).build/Objects-normal/i386/mouse.o"0#
-
-CCompileC "build/MacSpiderX.build/Deployment/MacSpiderX (Upgraded).build/Objects-normal/i386/opengl_t.o" /Users/Bill/Downloads/macspiderx-src-1.0/opengl_t.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
-s406172420.490110
-e406172423.387751
-r1
-xCompileC
-xbuild/MacSpiderX.build/Deployment/MacSpiderX (Upgraded).build/Objects-normal/i386/opengl_t.o
-x/Users/Bill/Downloads/macspiderx-src-1.0/opengl_t.mm
-xnormal
-xi386
-xobjective-c++
-xcom.apple.compilers.gcc.4_2
-o/Users/Bill/Downloads/macspiderx-src-1.0/opengl_t.mm: In function 'objc_object* -[opengl_t initWithFrame:colorBits:depthBits:](opengl_t*, objc_selector*, NSRect, int, int)':
-o/Users/Bill/Downloads/macspiderx-src-1.0/opengl_t.mm:156: warning: 'opengl_t' may not respond to '-createPixelFormat:'
-o/Users/Bill/Downloads/macspiderx-src-1.0/opengl_t.mm:156: warning: (Messages without a matching method signature
-o/Users/Bill/Downloads/macspiderx-src-1.0/opengl_t.mm:156: warning: will be assumed to return 'id' and accept
-o/Users/Bill/Downloads/macspiderx-src-1.0/opengl_t.mm:156: warning: '...' as arguments.)
-o/Users/Bill/Downloads/macspiderx-src-1.0/opengl_t.mm:163: warning: 'opengl_t' may not respond to '-init_gl'
-o/Users/Bill/Downloads/macspiderx-src-1.0/opengl_t.mm: In function 'bool -[opengl_t init_gl](opengl_t*, objc_selector*)':
-o/Users/Bill/Downloads/macspiderx-src-1.0/opengl_t.mm:191: warning: 'opengl_t' may not respond to '-load_textures'
-o/Users/Bill/Downloads/macspiderx-src-1.0/opengl_t.mm: At global scope:
-o/Users/Bill/Downloads/macspiderx-src-1.0/opengl_t.mm:448: warning: incomplete implementation of class 'opengl_t'
-o/Users/Bill/Downloads/macspiderx-src-1.0/opengl_t.mm:448: warning: method definition for '-stop_win_anim' not found
-lSLF07#2@60"Compile /Users/Bill/Downloads/macspiderx-src-1.0/opengl_t.mm406172420#406172423#0(1246"/Users/Bill/Downloads/macspiderx-src-1.0/opengl_t.mm: In function 'objc_object* -[opengl_t initWithFrame:colorBits:depthBits:](opengl_t*, objc_selector*, NSRect, int, int)':/Users/Bill/Downloads/macspiderx-src-1.0/opengl_t.mm:156: warning: 'opengl_t' may not respond to '-createPixelFormat:'/Users/Bill/Downloads/macspiderx-src-1.0/opengl_t.mm:156: warning: (Messages without a matching method signature/Users/Bill/Downloads/macspiderx-src-1.0/opengl_t.mm:156: warning: will be assumed to return 'id' and accept/Users/Bill/Downloads/macspiderx-src-1.0/opengl_t.mm:156: warning: '...' as arguments.)/Users/Bill/Downloads/macspiderx-src-1.0/opengl_t.mm:163: warning: 'opengl_t' may not respond to '-init_gl'/Users/Bill/Downloads/macspiderx-src-1.0/opengl_t.mm: In function 'bool -[opengl_t init_gl](opengl_t*, objc_selector*)':/Users/Bill/Downloads/macspiderx-src-1.0/opengl_t.mm:191: warning: 'opengl_t' may not respond to '-load_textures'/Users/Bill/Downloads/macspiderx-src-1.0/opengl_t.mm: At global scope:/Users/Bill/Downloads/macspiderx-src-1.0/opengl_t.mm:448: warning: incomplete implementation of class 'opengl_t'/Users/Bill/Downloads/macspiderx-src-1.0/opengl_t.mm:448: warning: method definition for '-stop_win_anim' not found7(22@51"'opengl_t' may not respond to '-createPixelFormat:'406172422#174#119#0(6@52"/Users/Bill/Downloads/macspiderx-src-1.0/opengl_t.mm405320162#156#0#156#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)406172422#293#113#0(6@52"/Users/Bill/Downloads/macspiderx-src-1.0/opengl_t.mm405320162#156#0#156#0#0"0(22@40"'opengl_t' may not respond to '-init_gl'406172422#603#108#0(6@52"/Users/Bill/Downloads/macspiderx-src-1.0/opengl_t.mm405320162#163#0#163#0#26"'*' may not respond to '*'0(22@46"'opengl_t' may not respond to '-load_textures'406172422#832#114#0(6@52"/Users/Bill/Downloads/macspiderx-src-1.0/opengl_t.mm405320162#191#0#191#0#26"'*' may not respond to '*'0(23@16"At global scope:406172422#946#71#0(6@52"/Users/Bill/Downloads/macspiderx-src-1.0/opengl_t.mm405320162#0#0#0#0#0"0(22@45"Incomplete implementation of class 'opengl_t'406172422#1017#113#0(6@52"/Users/Bill/Downloads/macspiderx-src-1.0/opengl_t.mm405320162#448#0#448#0#38"incomplete implementation of class '*'0(22@48"Method definition for '-stop_win_anim' not found406172422#1130#116#0(6@52"/Users/Bill/Downloads/macspiderx-src-1.0/opengl_t.mm405320162#448#0#448#0#35"method definition for '*' not found0(0#0#52"/Users/Bill/Downloads/macspiderx-src-1.0/opengl_t.mm8607607840#1018"    cd /Users/Bill/Downloads/macspiderx-src-1.0    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -fvisibility-inlines-hidden -gdwarf-2 "-I/Users/Bill/Downloads/macspiderx-src-1.0/build/MacSpiderX.build/Deployment/MacSpiderX (Upgraded).build/MacSolitaireX.hmap" -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment -I/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/include "-I/Users/Bill/Downloads/macspiderx-src-1.0/build/MacSpiderX.build/Deployment/MacSpiderX (Upgraded).build/DerivedSources/i386" "-I/Users/Bill/Downloads/macspiderx-src-1.0/build/MacSpiderX.build/Deployment/MacSpiderX (Upgraded).build/DerivedSources" -c /Users/Bill/Downloads/macspiderx-src-1.0/opengl_t.mm -o "/Users/Bill/Downloads/macspiderx-src-1.0/build/MacSpiderX.build/Deployment/MacSpiderX (Upgraded).build/Objects-normal/i386/opengl_t.o"0#
-
-CCompileC "build/MacSpiderX.build/Deployment/MacSpiderX (Upgraded).build/Objects-normal/i386/window_t.o" /Users/Bill/Downloads/macspiderx-src-1.0/window_t.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
-s406172420.489128
-e406172423.159853
-r1
-xCompileC
-xbuild/MacSpiderX.build/Deployment/MacSpiderX (Upgraded).build/Objects-normal/i386/window_t.o
-x/Users/Bill/Downloads/macspiderx-src-1.0/window_t.mm
-xnormal
-xi386
-xobjective-c++
-xcom.apple.compilers.gcc.4_2
-o/Users/Bill/Downloads/macspiderx-src-1.0/window_t.mm: In function 'void -[window_t awakeFromNib](window_t*, objc_selector*)':
-o/Users/Bill/Downloads/macspiderx-src-1.0/window_t.mm:171: warning: class 'window_t' does not implement the 'NSWindowDelegate' protocol
-o/Users/Bill/Downloads/macspiderx-src-1.0/window_t.mm:185: warning: 'window_t' may not respond to '-setup_timer'
-o/Users/Bill/Downloads/macspiderx-src-1.0/window_t.mm:185: warning: (Messages without a matching method signature
-o/Users/Bill/Downloads/macspiderx-src-1.0/window_t.mm:185: warning: will be assumed to return 'id' and accept
-o/Users/Bill/Downloads/macspiderx-src-1.0/window_t.mm:185: warning: '...' as arguments.)
-lSLF07#2@60"Compile /Users/Bill/Downloads/macspiderx-src-1.0/window_t.mm406172420#406172423#0(683"/Users/Bill/Downloads/macspiderx-src-1.0/window_t.mm: In function 'void -[window_t awakeFromNib](window_t*, objc_selector*)':/Users/Bill/Downloads/macspiderx-src-1.0/window_t.mm:171: warning: class 'window_t' does not implement the 'NSWindowDelegate' protocol/Users/Bill/Downloads/macspiderx-src-1.0/window_t.mm:185: warning: 'window_t' may not respond to '-setup_timer'/Users/Bill/Downloads/macspiderx-src-1.0/window_t.mm:185: warning: (Messages without a matching method signature/Users/Bill/Downloads/macspiderx-src-1.0/window_t.mm:185: warning: will be assumed to return 'id' and accept/Users/Bill/Downloads/macspiderx-src-1.0/window_t.mm:185: warning: '...' as arguments.)3(22@67"Class 'window_t' does not implement the 'NSWindowDelegate' protocol406172422#126#135#0(6@52"/Users/Bill/Downloads/macspiderx-src-1.0/window_t.mm405282537#171#0#171#0#45"class '*' does not implement the '*' protocol0(22@44"'window_t' may not respond to '-setup_timer'406172422#261#112#0(6@52"/Users/Bill/Downloads/macspiderx-src-1.0/window_t.mm405282537#185#0#185#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)406172422#373#113#0(6@52"/Users/Bill/Downloads/macspiderx-src-1.0/window_t.mm405282537#185#0#185#0#0"0(0#0#52"/Users/Bill/Downloads/macspiderx-src-1.0/window_t.mm8607823776#1018"    cd /Users/Bill/Downloads/macspiderx-src-1.0    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -fvisibility-inlines-hidden -gdwarf-2 "-I/Users/Bill/Downloads/macspiderx-src-1.0/build/MacSpiderX.build/Deployment/MacSpiderX (Upgraded).build/MacSolitaireX.hmap" -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment -I/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/include "-I/Users/Bill/Downloads/macspiderx-src-1.0/build/MacSpiderX.build/Deployment/MacSpiderX (Upgraded).build/DerivedSources/i386" "-I/Users/Bill/Downloads/macspiderx-src-1.0/build/MacSpiderX.build/Deployment/MacSpiderX (Upgraded).build/DerivedSources" -c /Users/Bill/Downloads/macspiderx-src-1.0/window_t.mm -o "/Users/Bill/Downloads/macspiderx-src-1.0/build/MacSpiderX.build/Deployment/MacSpiderX (Upgraded).build/Objects-normal/i386/window_t.o"0#
-
-CCopyStringsFile /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
-s406172419.991849
-e406172420.129174
-r1
-xCopyStringsFile
-x/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/English.lproj/InfoPlist.strings
-xEnglish.lproj/InfoPlist.strings
-lSLF07#2@36"Copy English.lproj/InfoPlist.strings406172419#406172420#0(0"0(0#0#72"/Users/Bill/Downloads/macspiderx-src-1.0/English.lproj/InfoPlist.strings8606772032#381"    cd /Users/Bill/Downloads/macspiderx-src-1.0    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/English.lproj0#
-
-CCopyTiffFile /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/icon.tif cards/icon.tif
-s406172420.141075
-e406172420.169193
-r1
-xCopyTiffFile
-x/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/icon.tif
-xcards/icon.tif
-lSLF07#2@19"Copy cards/icon.tif406172420#406172420#0(0"0(0#0#55"/Users/Bill/Downloads/macspiderx-src-1.0/cards/icon.tif8604330944#257"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copytiff cards/icon.tif --outdir /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/1.png cards/1.png
-s406172419.992983
-e406172420.002815
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/1.png
-xcards/1.png
-lSLF07#2@16"Copy cards/1.png406172419#406172420#0(0"0(0#0#52"/Users/Bill/Downloads/macspiderx-src-1.0/cards/1.png8604855872#379"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/1.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/10.png cards/10.png
-s406172419.993586
-e406172420.014851
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/10.png
-xcards/10.png
-lSLF07#2@17"Copy cards/10.png406172419#406172420#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/10.png8604270624#380"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/10.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/11.png cards/11.png
-s406172419.994194
-e406172420.014994
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/11.png
-xcards/11.png
-lSLF07#2@17"Copy cards/11.png406172419#406172420#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/11.png8604073312#380"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/11.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/12.png cards/12.png
-s406172419.994816
-e406172420.008681
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/12.png
-xcards/12.png
-lSLF07#2@17"Copy cards/12.png406172419#406172420#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/12.png8603953184#380"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/12.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/13.png cards/13.png
-s406172419.995448
-e406172420.015174
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/13.png
-xcards/13.png
-lSLF07#2@17"Copy cards/13.png406172419#406172420#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/13.png8603461600#380"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/13.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/14.png cards/14.png
-s406172419.996099
-e406172420.006191
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/14.png
-xcards/14.png
-lSLF07#2@17"Copy cards/14.png406172419#406172420#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/14.png8602940960#380"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/14.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/15.png cards/15.png
-s406172419.996715
-e406172420.008829
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/15.png
-xcards/15.png
-lSLF07#2@17"Copy cards/15.png406172419#406172420#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/15.png8602596544#380"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/15.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/16.png cards/16.png
-s406172419.997652
-e406172420.014656
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/16.png
-xcards/16.png
-lSLF07#2@17"Copy cards/16.png406172419#406172420#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/16.png8601321568#380"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/16.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/17.png cards/17.png
-s406172420.002926
-e406172420.019334
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/17.png
-xcards/17.png
-lSLF07#2@17"Copy cards/17.png406172420#406172420#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/17.png8600480160#380"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/17.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/18.png cards/18.png
-s406172420.006335
-e406172420.019491
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/18.png
-xcards/18.png
-lSLF07#2@17"Copy cards/18.png406172420#406172420#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/18.png8599845056#380"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/18.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/19.png cards/19.png
-s406172420.008922
-e406172420.021001
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/19.png
-xcards/19.png
-lSLF07#2@17"Copy cards/19.png406172420#406172420#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/19.png8606895360#380"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/19.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/2.png cards/2.png
-s406172420.010786
-e406172420.027682
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/2.png
-xcards/2.png
-lSLF07#2@16"Copy cards/2.png406172420#406172420#0(0"0(0#0#52"/Users/Bill/Downloads/macspiderx-src-1.0/cards/2.png8604035712#379"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/2.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/20.png cards/20.png
-s406172420.015262
-e406172420.025640
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/20.png
-xcards/20.png
-lSLF07#2@17"Copy cards/20.png406172420#406172420#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/20.png8604995584#380"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/20.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/21.png cards/21.png
-s406172420.017178
-e406172420.023467
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/21.png
-xcards/21.png
-lSLF07#2@17"Copy cards/21.png406172420#406172420#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/21.png8604918176#380"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/21.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/22.png cards/22.png
-s406172420.017914
-e406172420.033303
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/22.png
-xcards/22.png
-lSLF07#2@17"Copy cards/22.png406172420#406172420#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/22.png8604884608#380"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/22.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/23.png cards/23.png
-s406172420.018553
-e406172420.042800
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/23.png
-xcards/23.png
-lSLF07#2@17"Copy cards/23.png406172420#406172420#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/23.png8604833664#380"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/23.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/24.png cards/24.png
-s406172420.019570
-e406172420.034264
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/24.png
-xcards/24.png
-lSLF07#2@17"Copy cards/24.png406172420#406172420#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/24.png8604808288#380"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/24.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/25.png cards/25.png
-s406172420.020218
-e406172420.030128
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/25.png
-xcards/25.png
-lSLF07#2@17"Copy cards/25.png406172420#406172420#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/25.png8604768000#380"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/25.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/26.png cards/26.png
-s406172420.021089
-e406172420.048028
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/26.png
-xcards/26.png
-lSLF07#2@17"Copy cards/26.png406172420#406172420#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/26.png8604736416#380"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/26.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/27.png cards/27.png
-s406172420.023592
-e406172420.037952
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/27.png
-xcards/27.png
-lSLF07#2@17"Copy cards/27.png406172420#406172420#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/27.png8604712064#380"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/27.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/28.png cards/28.png
-s406172420.025763
-e406172420.042636
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/28.png
-xcards/28.png
-lSLF07#2@17"Copy cards/28.png406172420#406172420#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/28.png8604589952#380"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/28.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/29.png cards/29.png
-s406172420.027789
-e406172420.035117
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/29.png
-xcards/29.png
-lSLF07#2@17"Copy cards/29.png406172420#406172420#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/29.png8604489536#380"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/29.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/3.png cards/3.png
-s406172420.030255
-e406172420.040043
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/3.png
-xcards/3.png
-lSLF07#2@16"Copy cards/3.png406172420#406172420#0(0"0(0#0#52"/Users/Bill/Downloads/macspiderx-src-1.0/cards/3.png8604217216#379"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/3.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/30.png cards/30.png
-s406172420.033419
-e406172420.047875
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/30.png
-xcards/30.png
-lSLF07#2@17"Copy cards/30.png406172420#406172420#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/30.png8604123904#380"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/30.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/31.png cards/31.png
-s406172420.034349
-e406172420.047706
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/31.png
-xcards/31.png
-lSLF07#2@17"Copy cards/31.png406172420#406172420#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/31.png8604029024#380"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/31.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/32.png cards/32.png
-s406172420.035200
-e406172420.048171
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/32.png
-xcards/32.png
-lSLF07#2@17"Copy cards/32.png406172420#406172420#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/32.png8603938560#380"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/32.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/33.png cards/33.png
-s406172420.038075
-e406172420.045387
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/33.png
-xcards/33.png
-lSLF07#2@17"Copy cards/33.png406172420#406172420#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/33.png8603715552#380"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/33.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/34.png cards/34.png
-s406172420.040160
-e406172420.056831
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/34.png
-xcards/34.png
-lSLF07#2@17"Copy cards/34.png406172420#406172420#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/34.png8603556896#380"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/34.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/35.png cards/35.png
-s406172420.042895
-e406172420.051258
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/35.png
-xcards/35.png
-lSLF07#2@17"Copy cards/35.png406172420#406172420#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/35.png8603351392#380"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/35.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/36.png cards/36.png
-s406172420.043603
-e406172420.054549
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/36.png
-xcards/36.png
-lSLF07#2@17"Copy cards/36.png406172420#406172420#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/36.png8602826592#380"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/36.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/37.png cards/37.png
-s406172420.045498
-e406172420.056671
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/37.png
-xcards/37.png
-lSLF07#2@17"Copy cards/37.png406172420#406172420#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/37.png8597876000#380"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/37.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/38.png cards/38.png
-s406172420.048263
-e406172420.061053
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/38.png
-xcards/38.png
-lSLF07#2@17"Copy cards/38.png406172420#406172420#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/38.png8603742112#380"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/38.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/39.png cards/39.png
-s406172420.048942
-e406172420.061360
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/39.png
-xcards/39.png
-lSLF07#2@17"Copy cards/39.png406172420#406172420#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/39.png8602764192#380"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/39.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/4.png cards/4.png
-s406172420.049562
-e406172420.065731
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/4.png
-xcards/4.png
-lSLF07#2@16"Copy cards/4.png406172420#406172420#0(0"0(0#0#52"/Users/Bill/Downloads/macspiderx-src-1.0/cards/4.png8609349856#379"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/4.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/40.png cards/40.png
-s406172420.050184
-e406172420.063207
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/40.png
-xcards/40.png
-lSLF07#2@17"Copy cards/40.png406172420#406172420#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/40.png8605300864#380"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/40.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/41.png cards/41.png
-s406172420.051368
-e406172420.063048
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/41.png
-xcards/41.png
-lSLF07#2@17"Copy cards/41.png406172420#406172420#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/41.png8604437728#380"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/41.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/42.png cards/42.png
-s406172420.054673
-e406172420.066826
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/42.png
-xcards/42.png
-lSLF07#2@17"Copy cards/42.png406172420#406172420#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/42.png8603195232#380"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/42.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/43.png cards/43.png
-s406172420.056928
-e406172420.090835
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/43.png
-xcards/43.png
-lSLF07#2@17"Copy cards/43.png406172420#406172420#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/43.png8600196000#380"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/43.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/44.png cards/44.png
-s406172420.059447
-e406172420.075120
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/44.png
-xcards/44.png
-lSLF07#2@17"Copy cards/44.png406172420#406172420#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/44.png8607913568#380"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/44.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/45.png cards/45.png
-s406172420.061458
-e406172420.080701
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/45.png
-xcards/45.png
-lSLF07#2@17"Copy cards/45.png406172420#406172420#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/45.png8605479808#380"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/45.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/46.png cards/46.png
-s406172420.062273
-e406172420.076075
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/46.png
-xcards/46.png
-lSLF07#2@17"Copy cards/46.png406172420#406172420#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/46.png8604597600#380"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/46.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/47.png cards/47.png
-s406172420.063296
-e406172420.076817
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/47.png
-xcards/47.png
-lSLF07#2@17"Copy cards/47.png406172420#406172420#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/47.png8600164128#380"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/47.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/48.png cards/48.png
-s406172420.063932
-e406172420.080859
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/48.png
-xcards/48.png
-lSLF07#2@17"Copy cards/48.png406172420#406172420#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/48.png8607631776#380"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/48.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/49.png cards/49.png
-s406172420.065840
-e406172420.084017
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/49.png
-xcards/49.png
-lSLF07#2@17"Copy cards/49.png406172420#406172420#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/49.png8602679648#380"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/49.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/5.png cards/5.png
-s406172420.066918
-e406172420.085896
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/5.png
-xcards/5.png
-lSLF07#2@16"Copy cards/5.png406172420#406172420#0(0"0(0#0#52"/Users/Bill/Downloads/macspiderx-src-1.0/cards/5.png8607638784#379"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/5.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/50.png cards/50.png
-s406172420.075229
-e406172420.086987
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/50.png
-xcards/50.png
-lSLF07#2@17"Copy cards/50.png406172420#406172420#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/50.png8603044960#380"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/50.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/51.png cards/51.png
-s406172420.076153
-e406172420.086844
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/51.png
-xcards/51.png
-lSLF07#2@17"Copy cards/51.png406172420#406172420#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/51.png8600241728#380"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/51.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/52.png cards/52.png
-s406172420.076888
-e406172420.092940
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/52.png
-xcards/52.png
-lSLF07#2@17"Copy cards/52.png406172420#406172420#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/52.png8604578432#380"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/52.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/53.png cards/53.png
-s406172420.080954
-e406172420.099337
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/53.png
-xcards/53.png
-lSLF07#2@17"Copy cards/53.png406172420#406172420#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/53.png8609475424#380"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/53.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/54.png cards/54.png
-s406172420.081706
-e406172420.096444
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/54.png
-xcards/54.png
-lSLF07#2@17"Copy cards/54.png406172420#406172420#0(0"0(0#0#53"/Users/Bill/Downloads/macspiderx-src-1.0/cards/54.png8609190112#380"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/54.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/6.png cards/6.png
-s406172420.084126
-e406172420.099663
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/6.png
-xcards/6.png
-lSLF07#2@16"Copy cards/6.png406172420#406172420#0(0"0(0#0#52"/Users/Bill/Downloads/macspiderx-src-1.0/cards/6.png8609065888#379"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/6.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/7.png cards/7.png
-s406172420.086007
-e406172420.099814
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/7.png
-xcards/7.png
-lSLF07#2@16"Copy cards/7.png406172420#406172420#0(0"0(0#0#52"/Users/Bill/Downloads/macspiderx-src-1.0/cards/7.png8608916064#379"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/7.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/8.png cards/8.png
-s406172420.087061
-e406172420.099500
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/8.png
-xcards/8.png
-lSLF07#2@16"Copy cards/8.png406172420#406172420#0(0"0(0#0#52"/Users/Bill/Downloads/macspiderx-src-1.0/cards/8.png8608853440#379"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/8.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/9.png cards/9.png
-s406172420.087699
-e406172420.099964
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/9.png
-xcards/9.png
-lSLF07#2@16"Copy cards/9.png406172420#406172420#0(0"0(0#0#52"/Users/Bill/Downloads/macspiderx-src-1.0/cards/9.png8604731840#379"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/9.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/b1fh.png cards/b1fh.png
-s406172420.090939
-e406172420.103643
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/b1fh.png
-xcards/b1fh.png
-lSLF07#2@19"Copy cards/b1fh.png406172420#406172420#0(0"0(0#0#55"/Users/Bill/Downloads/macspiderx-src-1.0/cards/b1fh.png8607645952#382"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/b1fh.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/b1fv.png cards/b1fv.png
-s406172420.093186
-e406172420.103482
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/b1fv.png
-xcards/b1fv.png
-lSLF07#2@19"Copy cards/b1fv.png406172420#406172420#0(0"0(0#0#55"/Users/Bill/Downloads/macspiderx-src-1.0/cards/b1fv.png8610367392#382"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/b1fv.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/b1pb.png cards/b1pb.png
-s406172420.096594
-e406172420.105460
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/b1pb.png
-xcards/b1pb.png
-lSLF07#2@19"Copy cards/b1pb.png406172420#406172420#0(0"0(0#0#55"/Users/Bill/Downloads/macspiderx-src-1.0/cards/b1pb.png8609638464#382"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/b1pb.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/b1pl.png cards/b1pl.png
-s406172420.100062
-e406172420.109087
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/b1pl.png
-xcards/b1pl.png
-lSLF07#2@19"Copy cards/b1pl.png406172420#406172420#0(0"0(0#0#55"/Users/Bill/Downloads/macspiderx-src-1.0/cards/b1pl.png8608197824#382"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/b1pl.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/b1pr.png cards/b1pr.png
-s406172420.100815
-e406172420.112669
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/b1pr.png
-xcards/b1pr.png
-lSLF07#2@19"Copy cards/b1pr.png406172420#406172420#0(0"0(0#0#55"/Users/Bill/Downloads/macspiderx-src-1.0/cards/b1pr.png8607132640#382"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/b1pr.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/b1pt.png cards/b1pt.png
-s406172420.101470
-e406172420.108155
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/b1pt.png
-xcards/b1pt.png
-lSLF07#2@19"Copy cards/b1pt.png406172420#406172420#0(0"0(0#0#55"/Users/Bill/Downloads/macspiderx-src-1.0/cards/b1pt.png8609345440#382"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/b1pt.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/b2fh.png cards/b2fh.png
-s406172420.102083
-e406172420.110478
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/b2fh.png
-xcards/b2fh.png
-lSLF07#2@19"Copy cards/b2fh.png406172420#406172420#0(0"0(0#0#55"/Users/Bill/Downloads/macspiderx-src-1.0/cards/b2fh.png8608309632#382"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/b2fh.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/b2fv.png cards/b2fv.png
-s406172420.102703
-e406172420.113610
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/b2fv.png
-xcards/b2fv.png
-lSLF07#2@19"Copy cards/b2fv.png406172420#406172420#0(0"0(0#0#55"/Users/Bill/Downloads/macspiderx-src-1.0/cards/b2fv.png8607928480#382"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/b2fv.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/b2pb.png cards/b2pb.png
-s406172420.103727
-e406172420.118266
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/b2pb.png
-xcards/b2pb.png
-lSLF07#2@19"Copy cards/b2pb.png406172420#406172420#0(0"0(0#0#55"/Users/Bill/Downloads/macspiderx-src-1.0/cards/b2pb.png8608056096#382"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/b2pb.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/b2pl.png cards/b2pl.png
-s406172420.104347
-e406172420.124941
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/b2pl.png
-xcards/b2pl.png
-lSLF07#2@19"Copy cards/b2pl.png406172420#406172420#0(0"0(0#0#55"/Users/Bill/Downloads/macspiderx-src-1.0/cards/b2pl.png8607961824#382"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/b2pl.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/b2pr.png cards/b2pr.png
-s406172420.105556
-e406172420.122469
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/b2pr.png
-xcards/b2pr.png
-lSLF07#2@19"Copy cards/b2pr.png406172420#406172420#0(0"0(0#0#55"/Users/Bill/Downloads/macspiderx-src-1.0/cards/b2pr.png8607920576#382"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/b2pr.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/b2pt.png cards/b2pt.png
-s406172420.108262
-e406172420.122318
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/b2pt.png
-xcards/b2pt.png
-lSLF07#2@19"Copy cards/b2pt.png406172420#406172420#0(0"0(0#0#55"/Users/Bill/Downloads/macspiderx-src-1.0/cards/b2pt.png8607885536#382"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/b2pt.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/back1-sm.png cards/back1-sm.png
-s406172532.333685
-e406172532.346899
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/back1-sm.png
-xcards/back1-sm.png
-lSLF07#2@23"Copy cards/back1-sm.png406172532#406172532#0(0"0(0#0#59"/Users/Bill/Downloads/macspiderx-src-1.0/cards/back1-sm.png8605540448#386"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/back1-sm.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/back1-sm.png decks/back1-sm.png
-s406172420.110577
-e406172420.125303
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/back1-sm.png
-xdecks/back1-sm.png
-lSLF07#2@23"Copy decks/back1-sm.png406172420#406172420#0(0"0(0#0#59"/Users/Bill/Downloads/macspiderx-src-1.0/decks/back1-sm.png8607803264#386"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/decks/back1-sm.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/back1.png cards/back1.png
-s406172532.334546
-e406172532.347053
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/back1.png
-xcards/back1.png
-lSLF07#2@20"Copy cards/back1.png406172532#406172532#0(0"0(0#0#56"/Users/Bill/Downloads/macspiderx-src-1.0/cards/back1.png8605503648#383"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/back1.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/back1.png decks/back1.png
-s406172420.113697
-e406172420.125458
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/back1.png
-xdecks/back1.png
-lSLF07#2@20"Copy decks/back1.png406172420#406172420#0(0"0(0#0#56"/Users/Bill/Downloads/macspiderx-src-1.0/decks/back1.png8607648928#383"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/decks/back1.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/back2-sm.png cards/back2-sm.png
-s406172532.335423
-e406172532.347199
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/back2-sm.png
-xcards/back2-sm.png
-lSLF07#2@23"Copy cards/back2-sm.png406172532#406172532#0(0"0(0#0#59"/Users/Bill/Downloads/macspiderx-src-1.0/cards/back2-sm.png8605466400#386"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/back2-sm.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/back2-sm.png decks/back2-sm.png
-s406172420.122580
-e406172420.131367
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/back2-sm.png
-xdecks/back2-sm.png
-lSLF07#2@23"Copy decks/back2-sm.png406172420#406172420#0(0"0(0#0#59"/Users/Bill/Downloads/macspiderx-src-1.0/decks/back2-sm.png8607550752#386"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/decks/back2-sm.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/back2.png cards/back2.png
-s406172420.123365
-e406172420.140987
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/back2.png
-xcards/back2.png
-lSLF07#2@20"Copy cards/back2.png406172420#406172420#0(0"0(0#0#56"/Users/Bill/Downloads/macspiderx-src-1.0/cards/back2.png8607493472#383"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/back2.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/back2.png decks/back2.png
-s406172532.336290
-e406172532.347333
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/back2.png
-xdecks/back2.png
-lSLF07#2@20"Copy decks/back2.png406172532#406172532#0(0"0(0#0#56"/Users/Bill/Downloads/macspiderx-src-1.0/decks/back2.png8604826240#383"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/decks/back2.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/back3-sm.png cards/back3-sm.png
-s406172420.125546
-e406172420.147721
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/back3-sm.png
-xcards/back3-sm.png
-lSLF07#2@23"Copy cards/back3-sm.png406172420#406172420#0(0"0(0#0#59"/Users/Bill/Downloads/macspiderx-src-1.0/cards/back3-sm.png8606969120#386"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/back3-sm.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/back3-sm.png decks/back3-sm.png
-s406172532.337133
-e406172532.349762
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/back3-sm.png
-xdecks/back3-sm.png
-lSLF07#2@23"Copy decks/back3-sm.png406172532#406172532#0(0"0(0#0#59"/Users/Bill/Downloads/macspiderx-src-1.0/decks/back3-sm.png8604168480#386"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/decks/back3-sm.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/back3.png cards/back3.png
-s406172420.126887
-e406172420.137510
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/back3.png
-xcards/back3.png
-lSLF07#2@20"Copy cards/back3.png406172420#406172420#0(0"0(0#0#56"/Users/Bill/Downloads/macspiderx-src-1.0/cards/back3.png8605315552#383"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/back3.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/back3.png decks/back3.png
-s406172532.342300
-e406172532.348891
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/back3.png
-xdecks/back3.png
-lSLF07#2@20"Copy decks/back3.png406172532#406172532#0(0"0(0#0#56"/Users/Bill/Downloads/macspiderx-src-1.0/decks/back3.png8598161120#383"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/decks/back3.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/back4-sm.png cards/back4-sm.png
-s406172532.343028
-e406172532.350059
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/back4-sm.png
-xcards/back4-sm.png
-lSLF07#2@23"Copy cards/back4-sm.png406172532#406172532#0(0"0(0#0#59"/Users/Bill/Downloads/macspiderx-src-1.0/cards/back4-sm.png8603030752#386"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/back4-sm.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/back4-sm.png decks/back4-sm.png
-s406172420.129262
-e406172420.148905
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/back4-sm.png
-xdecks/back4-sm.png
-lSLF07#2@23"Copy decks/back4-sm.png406172420#406172420#0(0"0(0#0#59"/Users/Bill/Downloads/macspiderx-src-1.0/decks/back4-sm.png8603935392#386"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/decks/back4-sm.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/back4.png cards/back4.png
-s406172420.132802
-e406172420.156385
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/back4.png
-xcards/back4.png
-lSLF07#2@20"Copy cards/back4.png406172420#406172420#0(0"0(0#0#56"/Users/Bill/Downloads/macspiderx-src-1.0/cards/back4.png8603304736#383"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/back4.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/empty.png cards/empty.png
-s406172420.133596
-e406172420.154083
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/empty.png
-xcards/empty.png
-lSLF07#2@20"Copy cards/empty.png406172420#406172420#0(0"0(0#0#56"/Users/Bill/Downloads/macspiderx-src-1.0/cards/empty.png8602765792#383"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/empty.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/empty.png empty.png
-s406172532.343870
-e406172532.353867
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/empty.png
-xempty.png
-lSLF07#2@14"Copy empty.png406172532#406172532#0(0"0(0#0#50"/Users/Bill/Downloads/macspiderx-src-1.0/empty.png8609824480#377"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/empty.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/empty_x.png empty_x.png
-s406172420.155578
-e406172420.162746
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/empty_x.png
-xempty_x.png
-lSLF07#2@16"Copy empty_x.png406172420#406172420#0(0"0(0#0#52"/Users/Bill/Downloads/macspiderx-src-1.0/empty_x.png8609367392#379"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/empty_x.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/icon.icns icon.icns
-s406172419.992505
-e406172419.997549
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/icon.icns
-xicon.icns
-lSLF07#2@14"Copy icon.icns406172419#406172419#0(0"0(0#0#50"/Users/Bill/Downloads/macspiderx-src-1.0/icon.icns8605628896#377"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/icon.icns /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/icon.png cards/icon.png
-s406172420.137627
-e406172420.147327
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/icon.png
-xcards/icon.png
-lSLF07#2@19"Copy cards/icon.png406172420#406172420#0(0"0(0#0#55"/Users/Bill/Downloads/macspiderx-src-1.0/cards/icon.png8601034944#382"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/icon.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/icon.psd cards/icon.psd
-s406172420.139538
-e406172420.153105
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/icon.psd
-xcards/icon.psd
-lSLF07#2@19"Copy cards/icon.psd406172420#406172420#0(0"0(0#0#55"/Users/Bill/Downloads/macspiderx-src-1.0/cards/icon.psd8605435168#382"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/icon.psd /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/icon.tga cards/icon.tga
-s406172420.140218
-e406172420.151024
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/icon.tga
-xcards/icon.tga
-lSLF07#2@19"Copy cards/icon.tga406172420#406172420#0(0"0(0#0#55"/Users/Bill/Downloads/macspiderx-src-1.0/cards/icon.tga8604959616#382"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/icon.tga /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/save_top_empty.png cards/save_top_empty.png
-s406172420.154189
-e406172420.160411
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/save_top_empty.png
-xcards/save_top_empty.png
-lSLF07#2@29"Copy cards/save_top_empty.png406172420#406172420#0(0"0(0#0#65"/Users/Bill/Downloads/macspiderx-src-1.0/cards/save_top_empty.png8609714688#392"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/save_top_empty.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/top_empty.png cards/top_empty.png
-s405220835.449229
-e405220835.460663
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/top_empty.png
-xcards/top_empty.png
-lSLF07#2@24"Copy cards/top_empty.png405220835#405220835#0(0"0(0#0#60"/Users/Bill/Downloads/macspiderx-src-1.0/cards/top_empty.png8616088160#387"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/cards/top_empty.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CCpResource build/Deployment/MacSolitaireX.app/Contents/Resources/top_empty.png top_empty.png
-s406172420.154945
-e406172420.160161
-r1
-xCpResource
-xbuild/Deployment/MacSolitaireX.app/Contents/Resources/top_empty.png
-xtop_empty.png
-lSLF07#2@18"Copy top_empty.png406172420#406172420#0(0"0(0#0#54"/Users/Bill/Downloads/macspiderx-src-1.0/top_empty.png8609518016#381"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/Bill/Downloads/macspiderx-src-1.0/top_empty.png /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources0#
-
-CLd /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/MacOS/MacSolitaireX normal i386
-s406172423.387867
-e406172423.507639
-r1
-xLd
-x/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/MacOS/MacSolitaireX
-xnormal
-xi386
-lSLF07#2@109"Link /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/MacOS/MacSolitaireX406172423#406172423#0(0"0(0#0#0"8607642336#524"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/usr/bin/g++-4.2 -arch i386 -L/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment -F/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment -filelist "/Users/Bill/Downloads/macspiderx-src-1.0/build/MacSpiderX.build/Deployment/MacSpiderX (Upgraded).build/Objects-normal/i386/MacSolitaireX.LinkFileList" -framework Cocoa -framework OpenGL -prebind -o /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/MacOS/MacSolitaireX0#
-
-CProcessInfoPlistFile /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Info.plist Info-MacSpiderX__Upgraded_.plist
-s406172419.942546
-e406172419.991118
-r1
-xProcessInfoPlistFile
-x/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Info.plist
-xInfo-MacSpiderX__Upgraded_.plist
-lSLF07#2@40"Process Info-MacSpiderX__Upgraded_.plist406172419#406172419#0(0"0(0#0#73"/Users/Bill/Downloads/macspiderx-src-1.0/Info-MacSpiderX__Upgraded_.plist8605336320#352"    cd /Users/Bill/Downloads/macspiderx-src-1.0    builtin-infoPlistUtility Info-MacSpiderX__Upgraded_.plist -genpkginfo /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Info.plist0#
-
-CStripNIB /Users/Bill/Downloads/macspiderx-src-1.0/English.lproj/MainMenu.nib
-s406172419.991200
-e406172420.487749
-r1
-xStripNIB
-x/Users/Bill/Downloads/macspiderx-src-1.0/English.lproj/MainMenu.nib
-lSLF07#2@35"StripNIB English.lproj/MainMenu.nib406172419#406172420#0(0"0(0#0#67"/Users/Bill/Downloads/macspiderx-src-1.0/English.lproj/MainMenu.nib8607366688#312"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /Developer/usr/bin/ibtool --strip /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app/Contents/Resources/English.lproj/MainMenu.nib --output-format human-readable-text /Users/Bill/Downloads/macspiderx-src-1.0/English.lproj/MainMenu.nib0#
-
-CTouch /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app
-s406172532.354572
-e406172532.357450
-r1
-xTouch
-x/Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app
-lSLF07#2@81"Touch /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app406172532#406172532#0(0"0(0#0#0"8602927776#146"    cd /Users/Bill/Downloads/macspiderx-src-1.0    /usr/bin/touch -c /Users/Bill/Downloads/macspiderx-src-1.0/build/Deployment/MacSolitaireX.app0#
-

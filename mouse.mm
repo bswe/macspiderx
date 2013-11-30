@@ -1,24 +1,30 @@
 #import "opengl_t.h"
 
-bool hits_card (int x, int y, card_t card) {	
+bool hits_card (int x, int y, card_t card) {
+	return hits_card (x, y, card, false);
+	}
+
+
+bool hits_card (int x, int y, card_t card, bool IncludeColumn) {
 	if (x < card.x)
 		return false;
 	if (x > card.x + CARD_WIDTH)
 		return false;
 	if (y > card.y)
 		return false;
-	if (y < card.y - CARD_HEIGHT)
+	if ((!IncludeColumn) && (y < card.y - CARD_HEIGHT))
 		return false;
 	
 	// if we get here it has hit the card
 	return true;
-	}
+    }
+
 
 
 @implementation opengl_t (mouse)
 
 
-- (void) rightMouseDown:(NSEvent*) event {
+- (void) rightMouseDown: (NSEvent*) event {
 	std::clog << "rightMouseDown: right mouse down event occured\n";
 	
     return;  // no-op for 1.0 release
@@ -50,7 +56,7 @@ bool hits_card (int x, int y, card_t card) {
 	}
 
 
-- (void) AddMove:(int)_fromStack :(int)_toStack :(int)_numberOfCardsMoved {
+- (void) AddMove: (int)_fromStack: (int)_toStack: (int)_numberOfCardsMoved {
 	move_t Move;
 	
 	Move.numberOfCardsMoved = _numberOfCardsMoved;
@@ -70,7 +76,7 @@ bool hits_card (int x, int y, card_t card) {
     }
 
 
-- (int) SizeOfSequentialSameSuitCards:(int) Stack {
+- (int) SizeOfSequentialSameSuitCards: (int) Stack {
     int Size = 0;   
 	
 	std::clog << "SizeOfSequentialSameSuitCards: Stack = " << Stack << ", size = " << Stacks[Stack].size() << "\n";
@@ -95,8 +101,8 @@ bool hits_card (int x, int y, card_t card) {
 	}
 
 
-- (void) DoHitTest:(int) poop {
-	std::clog << "DoHitTest: NSLeftMouseDown occured\n";
+- (void) DoHitTest {
+	std::clog << "DoHitTest: NSLeftMouseDown occured, x=" << x << ", y=" << y << "\n";
 	// check for hit on stacks
 	for (int Stack = 0; Stack < NUMBER_OF_STACKS; Stack++) 
 		for (int Card = (int) Stacks[Stack].size() - 1; Card > 0; Card--) 
@@ -114,11 +120,27 @@ bool hits_card (int x, int y, card_t card) {
 		std::clog << "DoHitTest: hit deck\n";
 		return;
 	    }
+	for (int Stack = 0; Stack < NUMBER_OF_STACKS; Stack++) 
+		if (hits_card (x, y, Stacks[Stack].back(), true)) {
+			std::clog << "DoHitTest: hit on stack " << Stack << " column\n";
+			return;
+		    }
 	std::clog << "DoHitTest: didn't hit anything\n";
 	}
 
-	
-- (void) mouseDown:(NSEvent *) event {
+- (void) PickupCards: (int) Stack: (int) Card {
+	xoff = x - Stacks[Stack][Card].x;
+	yoff = Stacks[Stack][Card].y - y;
+	for (int n=Card; n < (int) Stacks[Stack].size(); n++) {
+		CardsBeingDragged.push_back(Stacks[Stack][n]);
+		std::clog << "adding Stacks[" << Stack << "][" << n << "] to the CardsBeingDragged list\n";
+	    }
+	Stacks[Stack].erase(Stacks[Stack].begin()+Card, Stacks[Stack].begin()+Stacks[Stack].size());
+	StackCardsFrom = Stack;
+    }
+
+
+- (void) mouseDown: (NSEvent *) event {
 	bool MouseButtonUp = false;
 	NSPoint mouse;
 	
@@ -134,13 +156,12 @@ bool hits_card (int x, int y, card_t card) {
 				x = (int) mouse.x;
 				y = (int) mouse.y;
 				
-				//[self DoHitTest: 1];
-                //return;
+				//[self DoHitTest];  return;   // for debugging the position of mouse clicks
 				
 				// see if it hit on one of the Stacks	
 				for (int Stack = 0; Stack < NUMBER_OF_STACKS; Stack++) {
 					for (int Card = (int) Stacks[Stack].size() - 1; Card > 0; Card--) {
-						if ((!CardsBeingDragged.size()) && (Stacks[Stack][Card].faceup) && (hits_card (x, y, Stacks[Stack][Card]))) {
+						if ((Stacks[Stack][Card].faceup) && (hits_card (x, y, Stacks[Stack][Card]))) {
 							std::clog << "mouseDown: hit test returned true for card Stacks[" << Stack << "][" << Card << "] with"
 							<< " card value of: " << Stacks[Stack][Card].suit << "  " << Stacks[Stack][Card].number << "\n";
 							// check to see if all cards on top of card are the same suit and sequential
@@ -151,17 +172,20 @@ bool hits_card (int x, int y, card_t card) {
 									std::clog << "mouseDown: not same suit or not sequaential, C = " << C << "\n";
 									return;
 								    }
-							xoff = x - Stacks[Stack][Card].x;
-							yoff = Stacks[Stack][Card].y - y;
-							for (int n=Card; n < (int) Stacks[Stack].size(); n++) {
-								CardsBeingDragged.push_back(Stacks[Stack][n]);
-								std::clog << "adding Stacks[" << Stack << "][" << n << "] to the CardsBeingDragged list\n";
-							}
-							Stacks[Stack].erase(Stacks[Stack].begin()+Card, Stacks[Stack].begin()+Stacks[Stack].size());
-							StackCardsFrom = Stack;
-							break;
+							[self PickupCards: Stack: Card];
+							Stack = NUMBER_OF_STACKS;   // force exit from outer for loop
+							break;                      // force exit from inner for loop
 							}
 						}
+					if ((!CardsBeingDragged.size()) && (hits_card (x, y, Stacks[Stack].back(), true))) {
+						std::clog << "mouseDown: hit test returned true for card Stacks[" << Stack << "] column" << "\n";
+						if (Stacks[Stack].size() > 1) {
+							int CardsToMove = [self SizeOfSequentialSameSuitCards:(int) Stack];
+							int Card = Stacks[Stack].size() - CardsToMove;
+							[self PickupCards: Stack: Card];
+							break;                      // force exit from outer for loop
+						    }
+					    }					
 					}
 				break;
 			    }
@@ -241,7 +265,7 @@ bool hits_card (int x, int y, card_t card) {
 				
 				// dragging cards, so see if it hit one of the Stacks
 				for (int i = 0; i < NUMBER_OF_STACKS; i++) {
-					if (hits_card(x,y,Stacks[i].back())) {
+					if (hits_card (x, y, Stacks[i].back(), true)) {
 						// hit a stack, so see if it's the same stack indicating user wants program to move cards
 						if (i == StackCardsFrom) {
 							// case for card on original stack, so user wants program to find good move

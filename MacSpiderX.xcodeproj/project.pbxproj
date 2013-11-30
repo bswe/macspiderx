@@ -430,6 +430,9 @@
 /* Begin PBXProject section */
 		29B97313FDCFA39411CA2CEA /* Project object */ = {
 			isa = PBXProject;
+			attributes = {
+				ORGANIZATIONNAME = BSE;
+			};
 			buildConfigurationList = A986FC931823380E00F1EBDA /* Build configuration list for PBXProject "MacSpiderX" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
@@ -581,6 +584,7 @@
 		A986FC8D1823380E00F1EBDA /* Development */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				OTHER_CFLAGS = "-fnested-functions";
 			};
 			name = Development;
 		};

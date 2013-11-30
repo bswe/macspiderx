@@ -53,7 +53,8 @@ struct user_message_t {
 	std::string info;
     };
 
-bool hits_card(int x, int y, card_t card);
+bool hits_card (int x, int y, card_t card);
+bool hits_card (int x, int y, card_t card, bool IncludeColumn);
 
 @interface opengl_t : NSOpenGLView {
 	int colorBits, depthBits;
@@ -81,20 +82,20 @@ bool hits_card(int x, int y, card_t card);
 	prefs_t prefs;
     }
 
-- (id) initWithFrame:(NSRect)frame colorBits:(int)numColorBits
-       depthBits:(int)numDepthBits;
+- (id) initWithFrame: (NSRect)frame colorBits:(int)numColorBits
+       depthBits: (int)numDepthBits;
 - (void) undo;
 - (void) deal;
 - (void) reshape;
-- (void) drawRect:(NSRect)rect;
+- (void) drawRect: (NSRect)rect;
 - (void) dealloc;
-- (void) load_deck_texture:(bool) redraw;
+- (void) load_deck_texture: (bool) redraw;
 - (void) mini_ize;
 - (void) start_win_anim;
 //- (void) stop_win_anim;
-- (void) draw_card:(int)x y:(int)y card:(card_t*)card;
+- (void) draw_card: (int)x y:(int)y card:(card_t*)card;
 - (void) load_texture: (texture_t*) texture filename: (NSString*) filename replace: (bool) replace;
-- (NSOpenGLPixelFormat *) createPixelFormat:(NSRect)frame;
+- (NSOpenGLPixelFormat *) createPixelFormat: (NSRect)frame;
 - (bool) init_gl;
 - (bool) load_textures;
 
@@ -102,11 +103,12 @@ bool hits_card(int x, int y, card_t card);
 
 @interface opengl_t (mouse)
 
-- (void) DoHitTest:(int) poop;
-- (void) AddMove:(int) _fromStack :(int) _toStack :(int) _position;
-- (int) SizeOfSequentialSameSuitCards:(int) Stack;  
-- (void) mouseDown:(NSEvent*) event;
-- (void) rightMouseDown:(NSEvent*) event;
+- (void) PickupCards: (int) Stack: (int) Card;
+- (void) DoHitTest;
+- (void) AddMove: (int) _fromStack: (int) _toStack: (int) _position;
+- (int) SizeOfSequentialSameSuitCards: (int) Stack;  
+- (void) mouseDown: (NSEvent*) event;
+- (void) rightMouseDown: (NSEvent*) event;
 
 @end
 
